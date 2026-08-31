@@ -12,7 +12,7 @@
     }
     * { box-sizing: border-box; }
     body { margin: 0; font: 15px/1.45 system-ui, sans-serif; background: var(--bg); color: var(--fg); }
-    main { max-width: 1100px; margin: 0 auto; padding: 28px 18px 64px; }
+    main { max-width: 1180px; margin: 0 auto; padding: 28px 18px 64px; }
     h1 { font-size: 24px; margin: 0 0 6px; }
     h2 { font-size: 16px; margin: 28px 0 10px; }
     .muted { color: var(--muted); font-size: 13px; }
@@ -23,7 +23,7 @@
     .stat { background: var(--card); border: 1px solid var(--line); border-radius: 10px; padding: 12px 14px; }
     .stat b { display: block; font-size: 22px; }
     .stat span { color: var(--muted); font-size: 12px; }
-    table { width: 100%; border-collapse: collapse; background: var(--card); border: 1px solid var(--line); }
+    table { width: 100%; border-collapse: collapse; background: var(--card); border: 1px solid var(--line); font-size: 13px; }
     th, td { text-align: left; padding: 8px 10px; border-bottom: 1px solid var(--line); vertical-align: top; }
     th { font-size: 12px; color: var(--muted); font-weight: 600; }
     a { color: var(--accent); }
@@ -41,15 +41,23 @@
   </main>
   <script>
     const $ = (id) => document.getElementById(id);
+    const esc = (s) => String(s ?? "").replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
     const fmt = (iso) => {
       if (!iso) return "—";
       const d = new Date(iso);
-      if (Number.isNaN(d.getTime())) return iso;
+      if (Number.isNaN(d.getTime())) return esc(iso);
       return d.toLocaleString();
     };
     const mins = (sec) => (sec ? (sec / 60).toFixed(1) + " min" : "—");
+    const linkTitle = (j) => j.url
+      ? `<a href="${esc(j.url)}" rel="noopener noreferrer" target="_blank">${esc(j.title)}</a>`
+      : esc(j.title);
     let data = null;
     let active = "";
+
+    function emptyRow(cols, msg) {
+      return `<tr><td colspan="${cols}">${esc(msg)}</td></tr>`;
+    }
 
     function render() {
       if (!data) return;
@@ -57,7 +65,7 @@
       const users = data.users || [];
       if (!active && users[0]) active = users[0].id;
       $("tabs").innerHTML = users.map((u) =>
-        `<button class="tab ${u.id === active ? "on" : ""}" data-id="${u.id}">${u.name}</button>`
+        `<button class="tab ${u.id === active ? "on" : ""}" data-id="${u.id}">${esc(u.name)}</button>`
       ).join("");
       $("tabs").onclick = (e) => {
         const id = e.target.dataset.id;
@@ -68,57 +76,83 @@
       const s = u.stats || {};
       const m = u.mail || {};
       const runs = u.runs || [];
-      const jobs = u.jobs || [];
+      const applied = u.applied_jobs || [];
+      const desk = u.desk_jobs || [];
       const threads = u.threads || [];
+      const hidden = s.hidden_other_track || 0;
       $("view").innerHTML = `
-        <p class="muted">${(u.track_labels || []).join(" · ")} ${u.headline ? " · " + u.headline : ""}</p>
+        <p class="muted">${esc((u.track_labels || []).join(" · "))}${u.headline ? " · " + esc(u.headline) : ""}</p>
         <div class="stats">
           <div class="stat"><b>${runs.length}</b><span>Scheduler cycles</span></div>
-          <div class="stat"><b>${s.jobs || 0}</b><span>Jobs in pipeline</span></div>
-          <div class="stat"><b>${s.applied || 0}</b><span>Applied total</span></div>
+          <div class="stat"><b>${s.applied || 0}</b><span>Applications sent</span></div>
+          <div class="stat"><b>${s.desk || 0}</b><span>Apply desk queue</span></div>
           <div class="stat"><b>${s.applied_this_week || 0}</b><span>Applied this week</span></div>
           <div class="stat"><b>${m.threads || 0}</b><span>Mail threads</span></div>
-          <div class="stat"><b>${m.followup_due || 0}</b><span>Follow-up due</span></div>
+          <div class="stat"><b>${s.daily_remaining ?? "—"}/${s.daily_limit ?? "—"}</b><span>Email quota left today</span></div>
         </div>
-        <div class="note">${m.threads ? "Follow-up counts only — recruiter addresses are not published." : "No recruiter emails sent yet. Cycles keep searching for JDs with an hr@ / careers@ address."}</div>
+        <div class="note">
+          Last cycle: ${fmt(s.last_cycle_at)} · Last application: ${fmt(s.last_apply_at)}.
+          ${hidden ? ` ${hidden} off-track listing(s) (e.g. Tosca/Playwright on a Teradata profile) are hidden.` : ""}
+          Recruiter addresses are never published.
+        </div>
+        <h2>Applications sent</h2>
+        <table>
+          <thead><tr><th>Applied at</th><th>Company</th><th>Title</th><th>Via</th><th>Location</th><th>CTC</th><th>Score</th><th>First seen</th></tr></thead>
+          <tbody>${applied.map((j) => `<tr>
+            <td>${fmt(j.applied_at)}</td>
+            <td>${esc(j.company)}</td>
+            <td>${linkTitle(j)}</td>
+            <td>${esc(j.channel || j.applied_via)}</td>
+            <td>${esc(j.location || "—")}</td>
+            <td>${esc(j.ctc || "unlisted")}</td>
+            <td>${esc(j.score)}</td>
+            <td>${fmt(j.first_seen_at)}</td>
+          </tr>`).join("") || emptyRow(8, "No applications sent yet.")}</tbody>
+        </table>
+        <h2>Apply desk (this track only)</h2>
+        <p class="muted">Matched this profile’s track, but no recruiter email / Greenhouse / Lever API — finish by hand. Sorted by score.</p>
+        <table>
+          <thead><tr><th>First seen</th><th>Score</th><th>Company</th><th>Title</th><th>Location</th><th>CTC</th><th>Channel</th><th>Source</th></tr></thead>
+          <tbody>${desk.map((j) => `<tr>
+            <td>${fmt(j.first_seen_at)}</td>
+            <td>${esc(j.score)}</td>
+            <td>${esc(j.company)}</td>
+            <td>${linkTitle(j)}</td>
+            <td>${esc(j.location || "—")}</td>
+            <td>${esc(j.ctc || "unlisted")}</td>
+            <td>${esc(j.channel)}</td>
+            <td>${esc(j.source)}</td>
+          </tr>`).join("") || emptyRow(8, "No on-track jobs waiting.")}</tbody>
+        </table>
         <h2>Scheduler cycles</h2>
         <table>
-          <thead><tr><th>Run</th><th>Started</th><th>Mode</th><th>Ingested</th><th>Applied</th><th>Queued</th><th>Errors</th><th>Duration</th></tr></thead>
+          <thead><tr><th>Run</th><th>Started</th><th>Finished</th><th>Mode</th><th>Ingested</th><th>Applied</th><th>Queued</th><th>Replies</th><th>Google 429</th><th>Duration</th></tr></thead>
           <tbody>${runs.map((r) => `<tr>
-            <td>#${r.id} ${r.status}</td>
+            <td>#${esc(r.id)} ${esc(r.status)}</td>
             <td>${fmt(r.started_at)}</td>
+            <td>${fmt(r.finished_at)}</td>
             <td>${r.live ? "live" : "dry"}</td>
-            <td>${r.ingested}</td>
-            <td>${r.applied}</td>
-            <td>${r.queued}</td>
-            <td>${r.errors}</td>
+            <td>${esc(r.ingested)}</td>
+            <td>${esc(r.applied)}</td>
+            <td>${esc(r.queued)}</td>
+            <td>${esc(r.replies)}</td>
+            <td>${esc(r.google_429)}</td>
             <td>${mins(r.duration_sec)}</td>
-          </tr>`).join("") || `<tr><td colspan="8">No cycles yet.</td></tr>`}</tbody>
-        </table>
-        <h2>Matched / applied jobs</h2>
-        <table>
-          <thead><tr><th>ID</th><th>Status</th><th>Track</th><th>Score</th><th>Company</th><th>Title</th><th>Source</th></tr></thead>
-          <tbody>${jobs.map((j) => `<tr>
-            <td>#${j.id}</td>
-            <td>${j.status}</td>
-            <td>${j.track_label || j.track}</td>
-            <td>${j.score}</td>
-            <td>${j.company}</td>
-            <td>${j.url ? `<a href="${j.url}" rel="noopener noreferrer" target="_blank">${j.title}</a>` : j.title}</td>
-            <td>${j.source}</td>
-          </tr>`).join("") || `<tr><td colspan="7">No matched jobs.</td></tr>`}</tbody>
+          </tr>`).join("") || emptyRow(10, "No cycles yet.")}</tbody>
         </table>
         <h2>Mail threads (no addresses)</h2>
         <table>
-          <thead><tr><th>Status</th><th>Company</th><th>Title</th><th>Sent</th><th>Days</th><th>Replies</th></tr></thead>
+          <thead><tr><th>Status</th><th>Company</th><th>Title</th><th>Sent at</th><th>Last activity</th><th>Days waiting</th><th>Replies</th><th>Follow-ups</th></tr></thead>
           <tbody>${threads.map((t) => `<tr>
-            <td>${t.status}</td>
-            <td>${t.company}</td>
-            <td>${t.title}</td>
-            <td>${t.sent_at || "—"}</td>
-            <td>${t.waiting_days}</td>
-            <td>${t.replies}</td>
-          </tr>`).join("") || `<tr><td colspan="6">No sent mail yet.</td></tr>`}</tbody>
+            <td>${esc(t.status)}</td>
+            <td>${esc(t.company)}</td>
+            <td>${esc(t.title)}</td>
+            <td>${fmt(t.sent_at)}</td>
+            <td>${fmt(t.last_activity)}</td>
+            <td>${esc(t.waiting_days)}</td>
+            <td>${esc(t.replies)}</td>
+            <td>${esc(t.followups || 0)}</td>
+          </tr>`).join("") || emptyRow(8, "No sent mail yet.")}</tbody>
         </table>
       `;
     }
