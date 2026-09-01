@@ -1,5 +1,5 @@
 {
-  "updated_at": "[redacted]T11:28:18+00:00",
+  "updated_at": "[redacted]T12:11:05+00:00",
   "pages_url": "https://raviacn95.github.io/job-apply-status/",
   "users": [
     {
@@ -21,7 +21,7 @@
         "hidden_other_track": 19,
         "daily_remaining": 50,
         "daily_limit": 50,
-        "last_cycle_at": "[redacted]T11:24:11+00:00",
+        "last_cycle_at": "[redacted]T12:05:45+00:00",
         "last_apply_at": "[redacted]T19:43:57"
       },
       "mail": {
@@ -33,8 +33,8 @@
       },
       "runs": [
         {
-          "id": 11,
-          "started_at": "[redacted]T11:24:11+00:00",
+          "id": 12,
+          "started_at": "[redacted]T12:05:45+00:00",
           "finished_at": "",
           "status": "running",
           "live": true,
@@ -46,6 +46,22 @@
           "replies": 0,
           "bounces": 0,
           "duration_sec": 0.0,
+          "google_429": 86
+        },
+        {
+          "id": 11,
+          "started_at": "[redacted]T11:24:11+00:00",
+          "finished_at": "[redacted]T11:28:22+00:00",
+          "status": "ok",
+          "live": true,
+          "ingested": 2,
+          "scanned": 10,
+          "applied": 0,
+          "queued": 7,
+          "errors": 0,
+          "replies": 0,
+          "bounces": 0,
+          "duration_sec": 251.0,
           "google_429": 88
         },
         {
@@ -2045,7 +2061,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T19:46:36",
           "first_seen_at": "[redacted]T11:55:59",
-          "age_days": 7,
+          "age_days": 8,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -2705,7 +2721,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T19:25:53",
           "first_seen_at": "[redacted]T11:56:50",
-          "age_days": 7,
+          "age_days": 8,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -3969,7 +3985,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T19:46:36",
           "first_seen_at": "[redacted]T11:55:59",
-          "age_days": 7,
+          "age_days": 8,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -4629,7 +4645,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T19:25:53",
           "first_seen_at": "[redacted]T11:56:50",
-          "age_days": 7,
+          "age_days": 8,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
