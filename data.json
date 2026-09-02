@@ -1,5 +1,5 @@
 {
-  "updated_at": "[redacted]T20:42:58+00:00",
+  "updated_at": "[redacted]T20:44:06+00:00",
   "pages_url": "https://raviacn95.github.io/job-apply-status/",
   "users": [
     {
@@ -46,22 +46,22 @@
           "replies": 0,
           "bounces": 0,
           "duration_sec": 0.0,
-          "google_429": 0
+          "google_429": 96
         },
         {
           "id": 27,
           "started_at": "[redacted]T20:39:10+00:00",
-          "finished_at": "",
-          "status": "running",
-          "live": true,
+          "finished_at": "[redacted]T20:43:02+00:00",
+          "status": "ok",
+          "live": false,
           "ingested": 0,
-          "scanned": 0,
+          "scanned": 10,
           "applied": 0,
-          "queued": 0,
+          "queued": 7,
           "errors": 0,
           "replies": 0,
           "bounces": 0,
-          "duration_sec": 0.0,
+          "duration_sec": 232.0,
           "google_429": 79
         },
         {
