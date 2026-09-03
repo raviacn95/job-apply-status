@@ -1,5 +1,5 @@
 {
-  "updated_at": "[redacted]T12:34:00+00:00",
+  "updated_at": "[redacted]T13:06:32+00:00",
   "pages_url": "https://raviacn95.github.io/job-apply-status/",
   "users": [
     {
@@ -21,7 +21,7 @@
         "hidden_other_track": 24,
         "daily_remaining": 50,
         "daily_limit": 50,
-        "last_cycle_at": "[redacted]T12:25:27+00:00",
+        "last_cycle_at": "[redacted]T13:00:27+00:00",
         "last_apply_at": "[redacted]T19:43:57"
       },
       "mail": {
@@ -32,6 +32,22 @@
         "bounced": 0
       },
       "runs": [
+        {
+          "id": 42,
+          "started_at": "[redacted]T13:00:27+00:00",
+          "finished_at": "",
+          "status": "running",
+          "live": true,
+          "ingested": 0,
+          "scanned": 0,
+          "applied": 0,
+          "queued": 0,
+          "errors": 0,
+          "replies": 0,
+          "bounces": 0,
+          "duration_sec": 0.0,
+          "google_429": 88
+        },
         {
           "id": 41,
           "started_at": "[redacted]T12:25:27+00:00",
@@ -655,22 +671,6 @@
           "bounces": 0,
           "duration_sec": 425.0,
           "google_429": 80
-        },
-        {
-          "id": 2,
-          "started_at": "[redacted]T15:34:11+00:00",
-          "finished_at": "[redacted]T15:42:41+00:00",
-          "status": "ok",
-          "live": true,
-          "ingested": 0,
-          "scanned": 0,
-          "applied": 0,
-          "queued": 5,
-          "errors": 0,
-          "replies": 0,
-          "bounces": 0,
-          "duration_sec": 510.0,
-          "google_429": 77
         }
       ],
       "applied_jobs": [
@@ -3309,7 +3309,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T19:24:35",
           "first_seen_at": "[redacted]T12:59:49",
-          "age_days": 4,
+          "age_days": 5,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -3391,7 +3391,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T12:59:47",
-          "age_days": 4,
+          "age_days": 5,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -3471,7 +3471,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T12:59:34",
-          "age_days": 4,
+          "age_days": 5,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -3531,7 +3531,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T12:59:40",
-          "age_days": 4,
+          "age_days": 5,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -3551,7 +3551,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T12:59:33",
-          "age_days": 4,
+          "age_days": 5,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -3611,7 +3611,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T12:59:41",
-          "age_days": 4,
+          "age_days": 5,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -3631,7 +3631,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T12:59:56",
-          "age_days": 4,
+          "age_days": 5,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -3651,7 +3651,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T12:59:40",
-          "age_days": 4,
+          "age_days": 5,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -3671,7 +3671,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T12:59:57",
-          "age_days": 4,
+          "age_days": 5,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -3691,7 +3691,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T12:59:56",
-          "age_days": 4,
+          "age_days": 5,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -3711,7 +3711,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T12:59:43",
-          "age_days": 4,
+          "age_days": 5,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -3831,7 +3831,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T12:59:38",
-          "age_days": 4,
+          "age_days": 5,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -3851,7 +3851,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T12:59:55",
-          "age_days": 4,
+          "age_days": 5,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -4151,7 +4151,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T12:59:36",
-          "age_days": 4,
+          "age_days": 5,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -4171,7 +4171,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T12:59:37",
-          "age_days": 4,
+          "age_days": 5,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -4191,7 +4191,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T12:59:29",
-          "age_days": 4,
+          "age_days": 5,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -5233,7 +5233,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T19:24:35",
           "first_seen_at": "[redacted]T12:59:49",
-          "age_days": 4,
+          "age_days": 5,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -5346,7 +5346,7 @@
           "title": "Tosca Engineer HCM Payroll",
           "sent_at": "[redacted]T13:00:49",
           "last_activity": "[redacted]T13:00:49",
-          "waiting_days": 4,
+          "waiting_days": 5,
           "replies": 0,
           "followups": 0
         },
@@ -5356,7 +5356,7 @@
           "title": "Senior Tosca Developer",
           "sent_at": "[redacted]T13:00:11",
           "last_activity": "[redacted]T13:00:11",
-          "waiting_days": 4,
+          "waiting_days": 5,
           "replies": 0,
           "followups": 0
         },
