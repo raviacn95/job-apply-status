@@ -1,5 +1,5 @@
 {
-  "updated_at": "[redacted]T20:14:20+00:00",
+  "updated_at": "[redacted]T20:41:16+00:00",
   "pages_url": "https://raviacn95.github.io/job-apply-status/",
   "users": [
     {
@@ -21,20 +21,20 @@
         "hidden_other_track": 25,
         "daily_remaining": 50,
         "daily_limit": 50,
-        "last_cycle_at": "[redacted]T20:08:07+00:00",
+        "last_cycle_at": "[redacted]T20:35:27+00:00",
         "last_apply_at": "[redacted]T19:43:57"
       },
       "mail": {
         "threads": 14,
-        "waiting": 8,
-        "followup_due": 6,
+        "waiting": 14,
+        "followup_due": 0,
         "replied": 0,
         "bounced": 0
       },
       "runs": [
         {
-          "id": 51,
-          "started_at": "[redacted]T20:08:07+00:00",
+          "id": 52,
+          "started_at": "[redacted]T20:35:27+00:00",
           "finished_at": "",
           "status": "running",
           "live": true,
@@ -46,6 +46,22 @@
           "replies": 0,
           "bounces": 0,
           "duration_sec": 0.0,
+          "google_429": 88
+        },
+        {
+          "id": 51,
+          "started_at": "[redacted]T20:08:07+00:00",
+          "finished_at": "[redacted]T20:14:43+00:00",
+          "status": "ok",
+          "live": false,
+          "ingested": 0,
+          "scanned": 8,
+          "applied": 0,
+          "queued": 7,
+          "errors": 0,
+          "replies": 0,
+          "bounces": 0,
+          "duration_sec": 396.0,
           "google_429": 87
         },
         {
@@ -655,22 +671,6 @@
           "bounces": 0,
           "duration_sec": 250.0,
           "google_429": 88
-        },
-        {
-          "id": 12,
-          "started_at": "[redacted]T12:05:45+00:00",
-          "finished_at": "[redacted]T12:11:11+00:00",
-          "status": "ok",
-          "live": true,
-          "ingested": 0,
-          "scanned": 8,
-          "applied": 0,
-          "queued": 7,
-          "errors": 0,
-          "replies": 0,
-          "bounces": 0,
-          "duration_sec": 326.0,
-          "google_429": 86
         }
       ],
       "applied_jobs": [
@@ -1521,64 +1521,64 @@
       ],
       "threads": [
         {
-          "status": "follow-up-due",
-          "company": "Kanha Dwivedi",
-          "title": "Kanha Dwivedi",
-          "sent_at": "[redacted]T19:40:41",
-          "last_activity": "[redacted]T19:40:41",
-          "waiting_days": 3,
-          "replies": 0,
-          "followups": 0
-        },
-        {
-          "status": "follow-up-due",
-          "company": "Manjusha Noone",
-          "title": "Manjusha Noone",
-          "sent_at": "[redacted]T19:40:37",
-          "last_activity": "[redacted]T19:40:37",
-          "waiting_days": 3,
-          "replies": 0,
-          "followups": 0
-        },
-        {
-          "status": "follow-up-due",
-          "company": "Sarthak Kahar",
-          "title": "Sarthak Kahar",
-          "sent_at": "[redacted]T19:40:27",
-          "last_activity": "[redacted]T19:40:27",
-          "waiting_days": 3,
-          "replies": 0,
-          "followups": 0
-        },
-        {
-          "status": "follow-up-due",
-          "company": "Ajay Nigam",
-          "title": "Ajay Nigam",
-          "sent_at": "[redacted]T19:40:22",
-          "last_activity": "[redacted]T19:40:22",
-          "waiting_days": 3,
-          "replies": 0,
-          "followups": 0
-        },
-        {
-          "status": "follow-up-due",
-          "company": "Brown Henry",
-          "title": "Brown Henry",
-          "sent_at": "[redacted]T19:40:18",
-          "last_activity": "[redacted]T19:40:18",
-          "waiting_days": 3,
-          "replies": 0,
-          "followups": 0
-        },
-        {
-          "status": "follow-up-due",
+          "status": "followed-up",
           "company": "PURNA CHANDER RACHA \ud83c\uddee\ud83c\uddf3",
           "title": "PURNA CHANDER RACHA \ud83c\uddee\ud83c\uddf3",
           "sent_at": "[redacted]T19:40:14",
-          "last_activity": "[redacted]T19:40:14",
-          "waiting_days": 3,
+          "last_activity": "[redacted]T20:40:55",
+          "waiting_days": 0,
           "replies": 0,
-          "followups": 0
+          "followups": 1
+        },
+        {
+          "status": "followed-up",
+          "company": "Brown Henry",
+          "title": "Brown Henry",
+          "sent_at": "[redacted]T19:40:18",
+          "last_activity": "[redacted]T20:40:52",
+          "waiting_days": 0,
+          "replies": 0,
+          "followups": 1
+        },
+        {
+          "status": "followed-up",
+          "company": "Ajay Nigam",
+          "title": "Ajay Nigam",
+          "sent_at": "[redacted]T19:40:22",
+          "last_activity": "[redacted]T20:40:48",
+          "waiting_days": 0,
+          "replies": 0,
+          "followups": 1
+        },
+        {
+          "status": "followed-up",
+          "company": "Sarthak Kahar",
+          "title": "Sarthak Kahar",
+          "sent_at": "[redacted]T19:40:27",
+          "last_activity": "[redacted]T20:40:44",
+          "waiting_days": 0,
+          "replies": 0,
+          "followups": 1
+        },
+        {
+          "status": "followed-up",
+          "company": "Manjusha Noone",
+          "title": "Manjusha Noone",
+          "sent_at": "[redacted]T19:40:37",
+          "last_activity": "[redacted]T20:40:40",
+          "waiting_days": 0,
+          "replies": 0,
+          "followups": 1
+        },
+        {
+          "status": "followed-up",
+          "company": "Kanha Dwivedi",
+          "title": "Kanha Dwivedi",
+          "sent_at": "[redacted]T19:40:41",
+          "last_activity": "[redacted]T20:40:36",
+          "waiting_days": 0,
+          "replies": 0,
+          "followups": 1
         },
         {
           "status": "followed-up",
@@ -3329,7 +3329,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T13:35:51",
           "first_seen_at": "[redacted]T20:19:18",
-          "age_days": 3,
+          "age_days": 4,
           "ctc": "123.3 LPA",
           "outcome": "",
           "on_track": true
@@ -5253,7 +5253,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T13:35:51",
           "first_seen_at": "[redacted]T20:19:18",
-          "age_days": 3,
+          "age_days": 4,
           "ctc": "123.3 LPA",
           "outcome": "",
           "on_track": true
