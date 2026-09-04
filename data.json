@@ -1,5 +1,5 @@
 {
-  "updated_at": "[redacted]T17:05:24+00:00",
+  "updated_at": "[redacted]T17:40:19+00:00",
   "pages_url": "https://raviacn95.github.io/job-apply-status/",
   "users": [
     {
@@ -21,7 +21,7 @@
         "hidden_other_track": 26,
         "daily_remaining": 32,
         "daily_limit": 50,
-        "last_cycle_at": "[redacted]T17:00:27+00:00",
+        "last_cycle_at": "[redacted]T17:35:27+00:00",
         "last_apply_at": "[redacted]T16:47:03"
       },
       "mail": {
@@ -33,8 +33,8 @@
       },
       "runs": [
         {
-          "id": 58,
-          "started_at": "[redacted]T17:00:27+00:00",
+          "id": 59,
+          "started_at": "[redacted]T17:35:27+00:00",
           "finished_at": "",
           "status": "running",
           "live": true,
@@ -46,6 +46,22 @@
           "replies": 0,
           "bounces": 0,
           "duration_sec": 0.0,
+          "google_429": 87
+        },
+        {
+          "id": 58,
+          "started_at": "[redacted]T17:00:27+00:00",
+          "finished_at": "[redacted]T17:05:35+00:00",
+          "status": "ok",
+          "live": false,
+          "ingested": 2,
+          "scanned": 10,
+          "applied": 0,
+          "queued": 129,
+          "errors": 0,
+          "replies": 3,
+          "bounces": 0,
+          "duration_sec": 308.0,
           "google_429": 34
         },
         {
@@ -654,22 +670,6 @@
           "replies": 0,
           "bounces": 0,
           "duration_sec": 354.0,
-          "google_429": 87
-        },
-        {
-          "id": 19,
-          "started_at": "[redacted]T08:24:11+00:00",
-          "finished_at": "[redacted]T08:28:20+00:00",
-          "status": "ok",
-          "live": true,
-          "ingested": 0,
-          "scanned": 8,
-          "applied": 0,
-          "queued": 7,
-          "errors": 0,
-          "replies": 0,
-          "bounces": 0,
-          "duration_sec": 249.0,
           "google_429": 87
         }
       ],
@@ -3325,10 +3325,10 @@
           "company": "PNC Financial Services Group",
           "title": "Software Engineer Lead (ETL)",
           "sent_at": "[redacted]T16:38:35",
-          "last_activity": "[redacted]T16:43:55",
+          "last_activity": "[redacted]T17:34:35",
           "waiting_days": 0,
           "replies": 1,
-          "followups": 0
+          "followups": 1
         },
         {
           "status": "replied",
