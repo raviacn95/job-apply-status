@@ -1,5 +1,5 @@
 {
-  "updated_at": "[redacted]T19:21:59+00:00",
+  "updated_at": "[redacted]T19:57:00+00:00",
   "pages_url": "https://raviacn95.github.io/job-apply-status/",
   "users": [
     {
@@ -21,7 +21,7 @@
         "hidden_other_track": 26,
         "daily_remaining": 32,
         "daily_limit": 50,
-        "last_cycle_at": "[redacted]T19:20:27+00:00",
+        "last_cycle_at": "[redacted]T19:55:27+00:00",
         "last_apply_at": "[redacted]T16:47:03"
       },
       "mail": {
@@ -33,8 +33,8 @@
       },
       "runs": [
         {
-          "id": 62,
-          "started_at": "[redacted]T19:20:27+00:00",
+          "id": 63,
+          "started_at": "[redacted]T19:55:27+00:00",
           "finished_at": "",
           "status": "running",
           "live": true,
@@ -46,6 +46,22 @@
           "replies": 0,
           "bounces": 0,
           "duration_sec": 0.0,
+          "google_429": 0
+        },
+        {
+          "id": 62,
+          "started_at": "[redacted]T19:20:27+00:00",
+          "finished_at": "[redacted]T19:22:07+00:00",
+          "status": "error",
+          "live": false,
+          "ingested": 0,
+          "scanned": 8,
+          "applied": 0,
+          "queued": 129,
+          "errors": 0,
+          "replies": 0,
+          "bounces": 0,
+          "duration_sec": 100.0,
           "google_429": 0
         },
         {
@@ -655,22 +671,6 @@
           "bounces": 0,
           "duration_sec": 364.0,
           "google_429": 87
-        },
-        {
-          "id": 23,
-          "started_at": "[redacted]T10:44:11+00:00",
-          "finished_at": "[redacted]T10:49:32+00:00",
-          "status": "ok",
-          "live": true,
-          "ingested": 0,
-          "scanned": 8,
-          "applied": 0,
-          "queued": 7,
-          "errors": 0,
-          "replies": 0,
-          "bounces": 0,
-          "duration_sec": 321.0,
-          "google_429": 88
         }
       ],
       "applied_jobs": [
@@ -1049,7 +1049,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T19:43:57",
           "first_seen_at": "[redacted]T19:26:59",
-          "age_days": 3,
+          "age_days": 4,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -1069,7 +1069,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T19:43:53",
           "first_seen_at": "[redacted]T19:26:59",
-          "age_days": 3,
+          "age_days": 4,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -1089,7 +1089,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T19:43:49",
           "first_seen_at": "[redacted]T19:27:34",
-          "age_days": 3,
+          "age_days": 4,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -1109,7 +1109,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T19:43:45",
           "first_seen_at": "[redacted]T19:26:59",
-          "age_days": 3,
+          "age_days": 4,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -1129,7 +1129,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T19:41:06",
           "first_seen_at": "[redacted]T19:26:58",
-          "age_days": 3,
+          "age_days": 4,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -1149,7 +1149,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T19:41:01",
           "first_seen_at": "[redacted]T19:27:34",
-          "age_days": 3,
+          "age_days": 4,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -1169,7 +1169,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T19:40:50",
           "first_seen_at": "[redacted]T19:26:58",
-          "age_days": 3,
+          "age_days": 4,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -1189,7 +1189,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T19:40:46",
           "first_seen_at": "[redacted]T19:26:58",
-          "age_days": 3,
+          "age_days": 4,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -1209,7 +1209,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T19:40:41",
           "first_seen_at": "[redacted]T19:26:59",
-          "age_days": 3,
+          "age_days": 4,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -1229,7 +1229,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T19:40:37",
           "first_seen_at": "[redacted]T19:26:59",
-          "age_days": 3,
+          "age_days": 4,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -1249,7 +1249,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T19:40:27",
           "first_seen_at": "[redacted]T19:26:59",
-          "age_days": 3,
+          "age_days": 4,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -1269,7 +1269,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T19:40:22",
           "first_seen_at": "[redacted]T19:26:59",
-          "age_days": 3,
+          "age_days": 4,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -1289,7 +1289,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T19:40:18",
           "first_seen_at": "[redacted]T19:30:36",
-          "age_days": 3,
+          "age_days": 4,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -1309,7 +1309,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T19:40:14",
           "first_seen_at": "[redacted]T19:30:36",
-          "age_days": 3,
+          "age_days": 4,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -2693,7 +2693,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T19:43:57",
           "first_seen_at": "[redacted]T19:26:59",
-          "age_days": 3,
+          "age_days": 4,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -2713,7 +2713,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T19:43:53",
           "first_seen_at": "[redacted]T19:26:59",
-          "age_days": 3,
+          "age_days": 4,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -2733,7 +2733,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T19:43:49",
           "first_seen_at": "[redacted]T19:27:34",
-          "age_days": 3,
+          "age_days": 4,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -2753,7 +2753,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T19:43:45",
           "first_seen_at": "[redacted]T19:26:59",
-          "age_days": 3,
+          "age_days": 4,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -2773,7 +2773,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T19:41:06",
           "first_seen_at": "[redacted]T19:26:58",
-          "age_days": 3,
+          "age_days": 4,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -2793,7 +2793,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T19:41:01",
           "first_seen_at": "[redacted]T19:27:34",
-          "age_days": 3,
+          "age_days": 4,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -2813,7 +2813,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T19:40:50",
           "first_seen_at": "[redacted]T19:26:58",
-          "age_days": 3,
+          "age_days": 4,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -2833,7 +2833,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T19:40:46",
           "first_seen_at": "[redacted]T19:26:58",
-          "age_days": 3,
+          "age_days": 4,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -2853,7 +2853,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T19:40:41",
           "first_seen_at": "[redacted]T19:26:59",
-          "age_days": 3,
+          "age_days": 4,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -2873,7 +2873,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T19:40:37",
           "first_seen_at": "[redacted]T19:26:59",
-          "age_days": 3,
+          "age_days": 4,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -2893,7 +2893,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T19:40:27",
           "first_seen_at": "[redacted]T19:26:59",
-          "age_days": 3,
+          "age_days": 4,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -2913,7 +2913,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T19:40:22",
           "first_seen_at": "[redacted]T19:26:59",
-          "age_days": 3,
+          "age_days": 4,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -2933,7 +2933,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T19:40:18",
           "first_seen_at": "[redacted]T19:30:36",
-          "age_days": 3,
+          "age_days": 4,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -2953,7 +2953,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T19:40:14",
           "first_seen_at": "[redacted]T19:30:36",
-          "age_days": 3,
+          "age_days": 4,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -5491,7 +5491,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T19:31:43",
-          "age_days": 3,
+          "age_days": 4,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -5551,7 +5551,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T19:56:07",
-          "age_days": 3,
+          "age_days": 4,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -5571,7 +5571,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T19:55:51",
-          "age_days": 3,
+          "age_days": 4,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -6091,7 +6091,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T19:31:35",
-          "age_days": 3,
+          "age_days": 4,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -7326,7 +7326,7 @@
           "title": "Test Lead - TOSCA",
           "sent_at": "[redacted]T19:46:36",
           "last_activity": "[redacted]T19:46:36",
-          "waiting_days": 3,
+          "waiting_days": 4,
           "replies": 0,
           "followups": 0
         },
@@ -7336,7 +7336,7 @@
           "title": "Mahesh Babu",
           "sent_at": "[redacted]T19:46:29",
           "last_activity": "[redacted]T19:46:29",
-          "waiting_days": 3,
+          "waiting_days": 4,
           "replies": 0,
           "followups": 0
         },
@@ -7346,7 +7346,7 @@
           "title": "Thangaraj T K",
           "sent_at": "[redacted]T19:46:23",
           "last_activity": "[redacted]T19:46:23",
-          "waiting_days": 3,
+          "waiting_days": 4,
           "replies": 0,
           "followups": 0
         },
@@ -7356,7 +7356,7 @@
           "title": "Anusha Edunuri",
           "sent_at": "[redacted]T19:46:19",
           "last_activity": "[redacted]T19:46:19",
-          "waiting_days": 3,
+          "waiting_days": 4,
           "replies": 0,
           "followups": 0
         },
@@ -7366,7 +7366,7 @@
           "title": "Saikiran Reddy",
           "sent_at": "[redacted]T19:46:15",
           "last_activity": "[redacted]T19:46:15",
-          "waiting_days": 3,
+          "waiting_days": 4,
           "replies": 0,
           "followups": 0
         },
@@ -7376,7 +7376,7 @@
           "title": "Shruti Sharma",
           "sent_at": "[redacted]T19:46:11",
           "last_activity": "[redacted]T19:46:11",
-          "waiting_days": 3,
+          "waiting_days": 4,
           "replies": 0,
           "followups": 0
         },
@@ -7386,7 +7386,7 @@
           "title": "Priyanka Maurya",
           "sent_at": "[redacted]T19:46:06",
           "last_activity": "[redacted]T19:46:06",
-          "waiting_days": 3,
+          "waiting_days": 4,
           "replies": 0,
           "followups": 0
         },
@@ -7396,7 +7396,7 @@
           "title": "Aishwarya Gundawan",
           "sent_at": "[redacted]T19:46:01",
           "last_activity": "[redacted]T19:46:01",
-          "waiting_days": 3,
+          "waiting_days": 4,
           "replies": 0,
           "followups": 0
         },
@@ -7406,7 +7406,7 @@
           "title": "Narahari Mahalakshmi Sai",
           "sent_at": "[redacted]T19:45:56",
           "last_activity": "[redacted]T19:45:56",
-          "waiting_days": 3,
+          "waiting_days": 4,
           "replies": 0,
           "followups": 0
         },
@@ -7416,7 +7416,7 @@
           "title": "Indira S",
           "sent_at": "[redacted]T19:45:47",
           "last_activity": "[redacted]T19:45:47",
-          "waiting_days": 3,
+          "waiting_days": 4,
           "replies": 0,
           "followups": 0
         },
@@ -7426,7 +7426,7 @@
           "title": "C2C - Requirement Group",
           "sent_at": "[redacted]T19:45:42",
           "last_activity": "[redacted]T19:45:42",
-          "waiting_days": 3,
+          "waiting_days": 4,
           "replies": 0,
           "followups": 0
         },
@@ -7436,7 +7436,7 @@
           "title": "Abhishek Arul",
           "sent_at": "[redacted]T19:45:38",
           "last_activity": "[redacted]T19:45:38",
-          "waiting_days": 3,
+          "waiting_days": 4,
           "replies": 0,
           "followups": 0
         },
@@ -7446,7 +7446,7 @@
           "title": "DAILY C2C REQUIREMENTS",
           "sent_at": "[redacted]T19:45:33",
           "last_activity": "[redacted]T19:45:33",
-          "waiting_days": 3,
+          "waiting_days": 4,
           "replies": 0,
           "followups": 0
         },
@@ -7456,7 +7456,7 @@
           "title": "Active Corp to Corp (C2C) Requirements only",
           "sent_at": "[redacted]T19:45:28",
           "last_activity": "[redacted]T19:45:28",
-          "waiting_days": 3,
+          "waiting_days": 4,
           "replies": 0,
           "followups": 0
         },
@@ -7466,7 +7466,7 @@
           "title": "Vishal Singh Chauhan",
           "sent_at": "[redacted]T19:45:24",
           "last_activity": "[redacted]T19:45:24",
-          "waiting_days": 3,
+          "waiting_days": 4,
           "replies": 0,
           "followups": 0
         },
@@ -7476,7 +7476,7 @@
           "title": "CovenanttechGlobal Pvt.Ltd",
           "sent_at": "[redacted]T19:45:19",
           "last_activity": "[redacted]T19:45:19",
-          "waiting_days": 3,
+          "waiting_days": 4,
           "replies": 0,
           "followups": 0
         },
@@ -7486,7 +7486,7 @@
           "title": "Shivdutt Ranadive",
           "sent_at": "[redacted]T19:45:15",
           "last_activity": "[redacted]T19:45:15",
-          "waiting_days": 3,
+          "waiting_days": 4,
           "replies": 0,
           "followups": 0
         },
@@ -7496,7 +7496,7 @@
           "title": "Avinash R.",
           "sent_at": "[redacted]T19:45:10",
           "last_activity": "[redacted]T19:45:10",
-          "waiting_days": 3,
+          "waiting_days": 4,
           "replies": 0,
           "followups": 0
         },
@@ -7506,7 +7506,7 @@
           "title": "Syeda Muskaan",
           "sent_at": "[redacted]T19:45:05",
           "last_activity": "[redacted]T19:45:05",
-          "waiting_days": 3,
+          "waiting_days": 4,
           "replies": 0,
           "followups": 0
         },
@@ -7516,7 +7516,7 @@
           "title": "Madhu S",
           "sent_at": "[redacted]T19:45:00",
           "last_activity": "[redacted]T19:45:00",
-          "waiting_days": 3,
+          "waiting_days": 4,
           "replies": 0,
           "followups": 0
         },
@@ -7526,7 +7526,7 @@
           "title": "Akansha Routh",
           "sent_at": "[redacted]T19:44:56",
           "last_activity": "[redacted]T19:44:56",
-          "waiting_days": 3,
+          "waiting_days": 4,
           "replies": 0,
           "followups": 0
         },
@@ -7536,7 +7536,7 @@
           "title": "Sai Surendra",
           "sent_at": "[redacted]T19:44:52",
           "last_activity": "[redacted]T19:44:52",
-          "waiting_days": 3,
+          "waiting_days": 4,
           "replies": 0,
           "followups": 0
         },
@@ -7546,7 +7546,7 @@
           "title": "Madhusudhan Reddy Challa",
           "sent_at": "[redacted]T19:44:46",
           "last_activity": "[redacted]T19:44:46",
-          "waiting_days": 3,
+          "waiting_days": 4,
           "replies": 0,
           "followups": 0
         },
@@ -7556,7 +7556,7 @@
           "title": "Prami Mahto",
           "sent_at": "[redacted]T19:44:41",
           "last_activity": "[redacted]T19:44:41",
-          "waiting_days": 3,
+          "waiting_days": 4,
           "replies": 0,
           "followups": 0
         },
@@ -7566,7 +7566,7 @@
           "title": "Simran s",
           "sent_at": "[redacted]T19:44:37",
           "last_activity": "[redacted]T19:44:37",
-          "waiting_days": 3,
+          "waiting_days": 4,
           "replies": 0,
           "followups": 0
         },
@@ -7576,7 +7576,7 @@
           "title": "Sireesha G",
           "sent_at": "[redacted]T19:44:32",
           "last_activity": "[redacted]T19:44:32",
-          "waiting_days": 3,
+          "waiting_days": 4,
           "replies": 0,
           "followups": 0
         },
@@ -7586,7 +7586,7 @@
           "title": "Sathwik Reddy Thokala",
           "sent_at": "[redacted]T19:44:27",
           "last_activity": "[redacted]T19:44:27",
-          "waiting_days": 3,
+          "waiting_days": 4,
           "replies": 0,
           "followups": 0
         },
@@ -7596,7 +7596,7 @@
           "title": "Anand Ch",
           "sent_at": "[redacted]T19:44:22",
           "last_activity": "[redacted]T19:44:22",
-          "waiting_days": 3,
+          "waiting_days": 4,
           "replies": 0,
           "followups": 0
         },
@@ -7606,7 +7606,7 @@
           "title": "C2C and W2 positions/ Direct clients/ Implementation Partners/All Over USA",
           "sent_at": "[redacted]T19:44:17",
           "last_activity": "[redacted]T19:44:17",
-          "waiting_days": 3,
+          "waiting_days": 4,
           "replies": 0,
           "followups": 0
         },
@@ -7616,7 +7616,7 @@
           "title": "Sai Kumar Yeggina",
           "sent_at": "[redacted]T19:44:13",
           "last_activity": "[redacted]T19:44:13",
-          "waiting_days": 3,
+          "waiting_days": 4,
           "replies": 0,
           "followups": 0
         },
@@ -7626,7 +7626,7 @@
           "title": "NirmalSha Surendran",
           "sent_at": "[redacted]T19:44:07",
           "last_activity": "[redacted]T19:44:07",
-          "waiting_days": 3,
+          "waiting_days": 4,
           "replies": 0,
           "followups": 0
         },
@@ -7636,7 +7636,7 @@
           "title": "MindBrain",
           "sent_at": "[redacted]T19:44:03",
           "last_activity": "[redacted]T19:44:03",
-          "waiting_days": 3,
+          "waiting_days": 4,
           "replies": 0,
           "followups": 0
         },
@@ -7646,7 +7646,7 @@
           "title": "Shalini Pal",
           "sent_at": "[redacted]T19:41:12",
           "last_activity": "[redacted]T19:41:12",
-          "waiting_days": 3,
+          "waiting_days": 4,
           "replies": 0,
           "followups": 0
         },
@@ -7656,7 +7656,7 @@
           "title": "SDET - Playwright Automation",
           "sent_at": "[redacted]T19:25:53",
           "last_activity": "[redacted]T19:25:53",
-          "waiting_days": 3,
+          "waiting_days": 4,
           "replies": 0,
           "followups": 0
         },
@@ -7666,7 +7666,7 @@
           "title": "Rohit Yadav",
           "sent_at": "[redacted]T19:25:47",
           "last_activity": "[redacted]T19:25:47",
-          "waiting_days": 3,
+          "waiting_days": 4,
           "replies": 0,
           "followups": 0
         },
@@ -7676,7 +7676,7 @@
           "title": "Backend QA Engineer",
           "sent_at": "[redacted]T19:25:37",
           "last_activity": "[redacted]T19:25:37",
-          "waiting_days": 3,
+          "waiting_days": 4,
           "replies": 0,
           "followups": 0
         },
@@ -7686,7 +7686,7 @@
           "title": "soumya Joyce",
           "sent_at": "[redacted]T19:25:32",
           "last_activity": "[redacted]T19:25:32",
-          "waiting_days": 3,
+          "waiting_days": 4,
           "replies": 0,
           "followups": 0
         },
@@ -7696,7 +7696,7 @@
           "title": "US IT Jobs & C2C/W2/Full-Time/IT Client/Vendor Empanelment/ Staffing Vendor Opportunities Network",
           "sent_at": "[redacted]T19:24:49",
           "last_activity": "[redacted]T19:24:49",
-          "waiting_days": 3,
+          "waiting_days": 4,
           "replies": 0,
           "followups": 0
         },
@@ -7706,7 +7706,7 @@
           "title": "Sankar Andra",
           "sent_at": "[redacted]T19:24:44",
           "last_activity": "[redacted]T19:24:44",
-          "waiting_days": 3,
+          "waiting_days": 4,
           "replies": 0,
           "followups": 0
         },
@@ -7716,7 +7716,7 @@
           "title": "HireKnock",
           "sent_at": "[redacted]T19:24:39",
           "last_activity": "[redacted]T19:24:39",
-          "waiting_days": 3,
+          "waiting_days": 4,
           "replies": 0,
           "followups": 0
         }
