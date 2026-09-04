@@ -1,5 +1,5 @@
 {
-  "updated_at": "[redacted]T19:57:00+00:00",
+  "updated_at": "[redacted]T20:32:01+00:00",
   "pages_url": "https://raviacn95.github.io/job-apply-status/",
   "users": [
     {
@@ -21,7 +21,7 @@
         "hidden_other_track": 26,
         "daily_remaining": 32,
         "daily_limit": 50,
-        "last_cycle_at": "[redacted]T19:55:27+00:00",
+        "last_cycle_at": "[redacted]T20:30:27+00:00",
         "last_apply_at": "[redacted]T16:47:03"
       },
       "mail": {
@@ -33,8 +33,8 @@
       },
       "runs": [
         {
-          "id": 63,
-          "started_at": "[redacted]T19:55:27+00:00",
+          "id": 64,
+          "started_at": "[redacted]T20:30:27+00:00",
           "finished_at": "",
           "status": "running",
           "live": true,
@@ -46,6 +46,22 @@
           "replies": 0,
           "bounces": 0,
           "duration_sec": 0.0,
+          "google_429": 0
+        },
+        {
+          "id": 63,
+          "started_at": "[redacted]T19:55:27+00:00",
+          "finished_at": "[redacted]T19:57:08+00:00",
+          "status": "error",
+          "live": false,
+          "ingested": 0,
+          "scanned": 8,
+          "applied": 0,
+          "queued": 129,
+          "errors": 0,
+          "replies": 0,
+          "bounces": 0,
+          "duration_sec": 101.0,
           "google_429": 0
         },
         {
@@ -654,22 +670,6 @@
           "replies": 0,
           "bounces": 0,
           "duration_sec": 335.0,
-          "google_429": 87
-        },
-        {
-          "id": 24,
-          "started_at": "[redacted]T11:54:11+00:00",
-          "finished_at": "[redacted]T12:00:15+00:00",
-          "status": "ok",
-          "live": true,
-          "ingested": 0,
-          "scanned": 8,
-          "applied": 0,
-          "queued": 7,
-          "errors": 0,
-          "replies": 0,
-          "bounces": 0,
-          "duration_sec": 364.0,
           "google_429": 87
         }
       ],
@@ -3566,7 +3566,7 @@
           "title": "Sai Krishna Gvs",
           "sent_at": "[redacted]T19:40:45",
           "last_activity": "[redacted]T20:14:02",
-          "waiting_days": 0,
+          "waiting_days": 1,
           "replies": 0,
           "followups": 1
         },
@@ -3576,7 +3576,7 @@
           "title": "Sasikumar pudi",
           "sent_at": "[redacted]T19:40:50",
           "last_activity": "[redacted]T20:13:58",
-          "waiting_days": 0,
+          "waiting_days": 1,
           "replies": 0,
           "followups": 1
         },
@@ -3586,7 +3586,7 @@
           "title": "Ukesh B",
           "sent_at": "[redacted]T19:41:01",
           "last_activity": "[redacted]T20:13:54",
-          "waiting_days": 0,
+          "waiting_days": 1,
           "replies": 0,
           "followups": 1
         },
@@ -3596,7 +3596,7 @@
           "title": "Katari Jahnavi",
           "sent_at": "[redacted]T19:41:06",
           "last_activity": "[redacted]T20:13:50",
-          "waiting_days": 0,
+          "waiting_days": 1,
           "replies": 0,
           "followups": 1
         },
@@ -3606,7 +3606,7 @@
           "title": "experienced Teradata Administrator to join our team",
           "sent_at": "[redacted]T19:43:45",
           "last_activity": "[redacted]T20:13:47",
-          "waiting_days": 0,
+          "waiting_days": 1,
           "replies": 0,
           "followups": 1
         },
@@ -3616,7 +3616,7 @@
           "title": "Tamer Omar, MBA, PMP",
           "sent_at": "[redacted]T19:43:49",
           "last_activity": "[redacted]T20:13:42",
-          "waiting_days": 0,
+          "waiting_days": 1,
           "replies": 0,
           "followups": 1
         },
@@ -3626,7 +3626,7 @@
           "title": "Dhanshree Hiwase",
           "sent_at": "[redacted]T19:43:53",
           "last_activity": "[redacted]T20:13:38",
-          "waiting_days": 0,
+          "waiting_days": 1,
           "replies": 0,
           "followups": 1
         },
@@ -3636,7 +3636,7 @@
           "title": "Siddu gupta",
           "sent_at": "[redacted]T19:43:57",
           "last_activity": "[redacted]T20:13:33",
-          "waiting_days": 0,
+          "waiting_days": 1,
           "replies": 0,
           "followups": 1
         }
