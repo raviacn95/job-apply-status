@@ -1,5 +1,5 @@
 {
-  "updated_at": "[redacted]T20:00:35+00:00",
+  "updated_at": "[redacted]T20:20:29+00:00",
   "pages_url": "https://raviacn95.github.io/job-apply-status/",
   "users": [
     {
@@ -21,20 +21,20 @@
         "hidden_other_track": 36,
         "daily_remaining": 50,
         "daily_limit": 50,
-        "last_cycle_at": "[redacted]T19:54:25+00:00",
+        "last_cycle_at": "[redacted]T20:15:26+00:00",
         "last_apply_at": "[redacted]T08:38:45"
       },
       "mail": {
         "threads": 33,
-        "waiting": 23,
-        "followup_due": 6,
+        "waiting": 29,
+        "followup_due": 0,
         "replied": 4,
         "bounced": 0
       },
       "runs": [
         {
-          "id": 106,
-          "started_at": "[redacted]T19:54:25+00:00",
+          "id": 107,
+          "started_at": "[redacted]T20:15:26+00:00",
           "finished_at": "",
           "status": "running",
           "live": true,
@@ -46,6 +46,22 @@
           "replies": 0,
           "bounces": 0,
           "duration_sec": 0.0,
+          "google_429": 88
+        },
+        {
+          "id": 106,
+          "started_at": "[redacted]T19:54:25+00:00",
+          "finished_at": "[redacted]T20:00:49+00:00",
+          "status": "ok",
+          "live": false,
+          "ingested": 2,
+          "scanned": 10,
+          "applied": 0,
+          "queued": 131,
+          "errors": 0,
+          "replies": 1,
+          "bounces": 0,
+          "duration_sec": 384.0,
           "google_429": 40
         },
         {
@@ -655,22 +671,6 @@
           "bounces": 0,
           "duration_sec": 345.0,
           "google_429": 87
-        },
-        {
-          "id": 67,
-          "started_at": "[redacted]T08:37:59+00:00",
-          "finished_at": "[redacted]T08:45:16+00:00",
-          "status": "ok",
-          "live": true,
-          "ingested": 2,
-          "scanned": 10,
-          "applied": 1,
-          "queued": 129,
-          "errors": 0,
-          "replies": 0,
-          "bounces": 0,
-          "duration_sec": 437.0,
-          "google_429": 41
         }
       ],
       "applied_jobs": [
@@ -3341,66 +3341,6 @@
       ],
       "threads": [
         {
-          "status": "follow-up-due",
-          "company": "HSTechnologies",
-          "title": "BigData/Hadoop Administrator",
-          "sent_at": "[redacted]T16:38:22",
-          "last_activity": "[redacted]T16:38:22",
-          "waiting_days": 3,
-          "replies": 0,
-          "followups": 0
-        },
-        {
-          "status": "follow-up-due",
-          "company": "Grazitti Interactive",
-          "title": "Lead/Sr. ETL Engineer",
-          "sent_at": "[redacted]T16:38:14",
-          "last_activity": "[redacted]T16:38:14",
-          "waiting_days": 3,
-          "replies": 0,
-          "followups": 0
-        },
-        {
-          "status": "follow-up-due",
-          "company": "Ashra Technology",
-          "title": "Informatica Developer",
-          "sent_at": "[redacted]T16:38:08",
-          "last_activity": "[redacted]T16:38:08",
-          "waiting_days": 3,
-          "replies": 0,
-          "followups": 0
-        },
-        {
-          "status": "follow-up-due",
-          "company": "Webner Solutions pvt ltd",
-          "title": "Hadoop Administrator / Big Data Platform Engineer",
-          "sent_at": "[redacted]T16:38:01",
-          "last_activity": "[redacted]T16:38:01",
-          "waiting_days": 3,
-          "replies": 0,
-          "followups": 0
-        },
-        {
-          "status": "follow-up-due",
-          "company": "TWO95 International, Inc",
-          "title": "Integration Developer - SAP & Informatica MDM | Remote(India) | Contract",
-          "sent_at": "[redacted]T16:37:41",
-          "last_activity": "[redacted]T16:37:41",
-          "waiting_days": 3,
-          "replies": 0,
-          "followups": 0
-        },
-        {
-          "status": "follow-up-due",
-          "company": "E Hook Systems",
-          "title": "Teradata DBA",
-          "sent_at": "[redacted]T16:37:34",
-          "last_activity": "[redacted]T16:37:34",
-          "waiting_days": 3,
-          "replies": 0,
-          "followups": 0
-        },
-        {
           "status": "replied",
           "company": "United Concordia Dental",
           "title": "Senior Application Developer (Candidates must have experience with Informatica)",
@@ -3449,6 +3389,66 @@
           "waiting_days": 2,
           "replies": 0,
           "followups": 0
+        },
+        {
+          "status": "followed-up",
+          "company": "E Hook Systems",
+          "title": "Teradata DBA",
+          "sent_at": "[redacted]T16:37:34",
+          "last_activity": "[redacted]T20:20:19",
+          "waiting_days": 0,
+          "replies": 0,
+          "followups": 1
+        },
+        {
+          "status": "followed-up",
+          "company": "TWO95 International, Inc",
+          "title": "Integration Developer - SAP & Informatica MDM | Remote(India) | Contract",
+          "sent_at": "[redacted]T16:37:41",
+          "last_activity": "[redacted]T20:20:16",
+          "waiting_days": 0,
+          "replies": 0,
+          "followups": 1
+        },
+        {
+          "status": "followed-up",
+          "company": "Webner Solutions pvt ltd",
+          "title": "Hadoop Administrator / Big Data Platform Engineer",
+          "sent_at": "[redacted]T16:38:01",
+          "last_activity": "[redacted]T20:20:13",
+          "waiting_days": 0,
+          "replies": 0,
+          "followups": 1
+        },
+        {
+          "status": "followed-up",
+          "company": "Ashra Technology",
+          "title": "Informatica Developer",
+          "sent_at": "[redacted]T16:38:08",
+          "last_activity": "[redacted]T20:20:10",
+          "waiting_days": 0,
+          "replies": 0,
+          "followups": 1
+        },
+        {
+          "status": "followed-up",
+          "company": "Grazitti Interactive",
+          "title": "Lead/Sr. ETL Engineer",
+          "sent_at": "[redacted]T16:38:14",
+          "last_activity": "[redacted]T20:20:06",
+          "waiting_days": 0,
+          "replies": 0,
+          "followups": 1
+        },
+        {
+          "status": "followed-up",
+          "company": "HSTechnologies",
+          "title": "BigData/Hadoop Administrator",
+          "sent_at": "[redacted]T16:38:22",
+          "last_activity": "[redacted]T20:20:03",
+          "waiting_days": 0,
+          "replies": 0,
+          "followups": 1
         },
         {
           "status": "followed-up",
