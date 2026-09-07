@@ -1,5 +1,5 @@
 {
-  "updated_at": "[redacted]T02:53:55+00:00",
+  "updated_at": "[redacted]T03:26:37+00:00",
   "pages_url": "https://raviacn95.github.io/job-apply-status/",
   "users": [
     {
@@ -18,23 +18,23 @@
         "applied": 33,
         "applied_this_week": 33,
         "desk": 145,
-        "hidden_other_track": 32,
+        "hidden_other_track": 33,
         "daily_remaining": 50,
         "daily_limit": 50,
-        "last_cycle_at": "[redacted]T02:47:37+00:00",
+        "last_cycle_at": "[redacted]T03:20:27+00:00",
         "last_apply_at": "[redacted]T08:38:45"
       },
       "mail": {
         "threads": 33,
-        "waiting": 24,
-        "followup_due": 6,
+        "waiting": 30,
+        "followup_due": 0,
         "replied": 3,
         "bounced": 0
       },
       "runs": [
         {
-          "id": 99,
-          "started_at": "[redacted]T02:47:37+00:00",
+          "id": 100,
+          "started_at": "[redacted]T03:20:27+00:00",
           "finished_at": "",
           "status": "running",
           "live": true,
@@ -46,6 +46,22 @@
           "replies": 0,
           "bounces": 0,
           "duration_sec": 0.0,
+          "google_429": 87
+        },
+        {
+          "id": 99,
+          "started_at": "[redacted]T02:47:37+00:00",
+          "finished_at": "[redacted]T02:54:07+00:00",
+          "status": "ok",
+          "live": true,
+          "ingested": 1,
+          "scanned": 9,
+          "applied": 0,
+          "queued": 131,
+          "errors": 0,
+          "replies": 0,
+          "bounces": 0,
+          "duration_sec": 390.0,
           "google_429": 87
         },
         {
@@ -655,22 +671,6 @@
           "bounces": 0,
           "duration_sec": 108.0,
           "google_429": 0
-        },
-        {
-          "id": 60,
-          "started_at": "[redacted]T18:10:27+00:00",
-          "finished_at": "[redacted]T18:17:24+00:00",
-          "status": "ok",
-          "live": false,
-          "ingested": 0,
-          "scanned": 8,
-          "applied": 0,
-          "queued": 129,
-          "errors": 0,
-          "replies": 0,
-          "bounces": 0,
-          "duration_sec": 417.0,
-          "google_429": 87
         }
       ],
       "applied_jobs": [
@@ -3341,66 +3341,6 @@
       ],
       "threads": [
         {
-          "status": "follow-up-due",
-          "company": "Ukesh B",
-          "title": "Ukesh B",
-          "sent_at": "[redacted]T19:41:01",
-          "last_activity": "[redacted]T20:13:54",
-          "waiting_days": 3,
-          "replies": 0,
-          "followups": 1
-        },
-        {
-          "status": "follow-up-due",
-          "company": "Katari Jahnavi",
-          "title": "Katari Jahnavi",
-          "sent_at": "[redacted]T19:41:06",
-          "last_activity": "[redacted]T20:13:50",
-          "waiting_days": 3,
-          "replies": 0,
-          "followups": 1
-        },
-        {
-          "status": "follow-up-due",
-          "company": "MAHIMA KASAUDHAN",
-          "title": "experienced Teradata Administrator to join our team",
-          "sent_at": "[redacted]T19:43:45",
-          "last_activity": "[redacted]T20:13:47",
-          "waiting_days": 3,
-          "replies": 0,
-          "followups": 1
-        },
-        {
-          "status": "follow-up-due",
-          "company": "Tamer Omar, MBA, PMP",
-          "title": "Tamer Omar, MBA, PMP",
-          "sent_at": "[redacted]T19:43:49",
-          "last_activity": "[redacted]T20:13:42",
-          "waiting_days": 3,
-          "replies": 0,
-          "followups": 1
-        },
-        {
-          "status": "follow-up-due",
-          "company": "Dhanshree Hiwase",
-          "title": "Dhanshree Hiwase",
-          "sent_at": "[redacted]T19:43:53",
-          "last_activity": "[redacted]T20:13:38",
-          "waiting_days": 3,
-          "replies": 0,
-          "followups": 1
-        },
-        {
-          "status": "follow-up-due",
-          "company": "Siddu gupta",
-          "title": "Siddu gupta",
-          "sent_at": "[redacted]T19:43:57",
-          "last_activity": "[redacted]T20:13:33",
-          "waiting_days": 3,
-          "replies": 0,
-          "followups": 1
-        },
-        {
           "status": "replied",
           "company": "PNC Financial Services Group",
           "title": "Software Engineer Lead (ETL)",
@@ -3589,6 +3529,66 @@
           "waiting_days": 2,
           "replies": 0,
           "followups": 0
+        },
+        {
+          "status": "followed-up",
+          "company": "Siddu gupta",
+          "title": "Siddu gupta",
+          "sent_at": "[redacted]T19:43:57",
+          "last_activity": "[redacted]T03:26:29",
+          "waiting_days": 0,
+          "replies": 0,
+          "followups": 2
+        },
+        {
+          "status": "followed-up",
+          "company": "Dhanshree Hiwase",
+          "title": "Dhanshree Hiwase",
+          "sent_at": "[redacted]T19:43:53",
+          "last_activity": "[redacted]T03:26:26",
+          "waiting_days": 0,
+          "replies": 0,
+          "followups": 2
+        },
+        {
+          "status": "followed-up",
+          "company": "Tamer Omar, MBA, PMP",
+          "title": "Tamer Omar, MBA, PMP",
+          "sent_at": "[redacted]T19:43:49",
+          "last_activity": "[redacted]T03:26:22",
+          "waiting_days": 0,
+          "replies": 0,
+          "followups": 2
+        },
+        {
+          "status": "followed-up",
+          "company": "MAHIMA KASAUDHAN",
+          "title": "experienced Teradata Administrator to join our team",
+          "sent_at": "[redacted]T19:43:45",
+          "last_activity": "[redacted]T03:26:19",
+          "waiting_days": 0,
+          "replies": 0,
+          "followups": 2
+        },
+        {
+          "status": "followed-up",
+          "company": "Katari Jahnavi",
+          "title": "Katari Jahnavi",
+          "sent_at": "[redacted]T19:41:06",
+          "last_activity": "[redacted]T03:26:16",
+          "waiting_days": 0,
+          "replies": 0,
+          "followups": 2
+        },
+        {
+          "status": "followed-up",
+          "company": "Ukesh B",
+          "title": "Ukesh B",
+          "sent_at": "[redacted]T19:41:01",
+          "last_activity": "[redacted]T03:26:12",
+          "waiting_days": 0,
+          "replies": 0,
+          "followups": 2
         },
         {
           "status": "followed-up",
