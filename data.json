@@ -1,5 +1,5 @@
 {
-  "updated_at": "[redacted]T06:17:07+00:00",
+  "updated_at": "[redacted]T06:50:50+00:00",
   "pages_url": "https://raviacn95.github.io/job-apply-status/",
   "users": [
     {
@@ -21,7 +21,7 @@
         "hidden_other_track": 38,
         "daily_remaining": 50,
         "daily_limit": 50,
-        "last_cycle_at": "[redacted]T06:10:26+00:00",
+        "last_cycle_at": "[redacted]T06:45:26+00:00",
         "last_apply_at": "[redacted]T08:38:45"
       },
       "mail": {
@@ -33,8 +33,8 @@
       },
       "runs": [
         {
-          "id": 113,
-          "started_at": "[redacted]T06:10:26+00:00",
+          "id": 114,
+          "started_at": "[redacted]T06:45:26+00:00",
           "finished_at": "",
           "status": "running",
           "live": true,
@@ -46,6 +46,22 @@
           "replies": 0,
           "bounces": 0,
           "duration_sec": 0.0,
+          "google_429": 87
+        },
+        {
+          "id": 113,
+          "started_at": "[redacted]T06:10:26+00:00",
+          "finished_at": "[redacted]T06:17:17+00:00",
+          "status": "ok",
+          "live": true,
+          "ingested": 3,
+          "scanned": 11,
+          "applied": 0,
+          "queued": 132,
+          "errors": 0,
+          "replies": 0,
+          "bounces": 0,
+          "duration_sec": 411.0,
           "google_429": 44
         },
         {
@@ -655,22 +671,6 @@
           "bounces": 0,
           "duration_sec": 0.0,
           "google_429": 0
-        },
-        {
-          "id": 74,
-          "started_at": "[redacted]T21:35:27+00:00",
-          "finished_at": "[redacted]T21:42:48+00:00",
-          "status": "ok",
-          "live": false,
-          "ingested": 0,
-          "scanned": 8,
-          "applied": 0,
-          "queued": 129,
-          "errors": 0,
-          "replies": 0,
-          "bounces": 0,
-          "duration_sec": 441.0,
-          "google_429": 85
         }
       ],
       "applied_jobs": [
@@ -3683,11 +3683,11 @@
         "Tosca / SAP / Playwright Automation"
       ],
       "stats": {
-        "jobs": 944,
-        "matched": 809,
+        "jobs": 945,
+        "matched": 810,
         "applied": 135,
         "applied_this_week": 75,
-        "desk": 809,
+        "desk": 810,
         "hidden_other_track": 2,
         "daily_remaining": 50,
         "daily_limit": 50,
@@ -5501,7 +5501,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T06:34:46",
-          "age_days": 8,
+          "age_days": 9,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -5781,7 +5781,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T06:34:44",
-          "age_days": 8,
+          "age_days": 9,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -6267,6 +6267,26 @@
           "on_track": true
         },
         {
+          "id": 983,
+          "status": "matched",
+          "track": "automation",
+          "track_label": "Tosca / SAP / Playwright Automation",
+          "score": 28.0,
+          "company": "NTT DATA",
+          "title": "SAP Basis L3 Consultant",
+          "location": "TN, IN",
+          "source": "harvest_remote",
+          "url": "https://in.indeed.com/viewjob?jk=a7fbb6e7a46230ba",
+          "channel": "apply desk",
+          "applied_via": "",
+          "applied_at": "",
+          "first_seen_at": "[redacted]T06:26:40",
+          "age_days": 0,
+          "ctc": "unlisted",
+          "outcome": "",
+          "on_track": true
+        },
+        {
           "id": 982,
           "status": "matched",
           "track": "automation",
@@ -6317,26 +6337,6 @@
           "location": "Pasig, P00, PH",
           "source": "harvest_remote",
           "url": "https://ph.indeed.com/viewjob?jk=bb92f778bd7b608c",
-          "channel": "apply desk",
-          "applied_via": "",
-          "applied_at": "",
-          "first_seen_at": "[redacted]T06:00:22",
-          "age_days": 0,
-          "ctc": "unlisted",
-          "outcome": "",
-          "on_track": true
-        },
-        {
-          "id": 979,
-          "status": "matched",
-          "track": "automation",
-          "track_label": "Tosca / SAP / Playwright Automation",
-          "score": 28.0,
-          "company": "EPAM Systems",
-          "title": "Solution Architect - SAP Business Technology Platform",
-          "location": "zdalnie, PL",
-          "source": "harvest_remote",
-          "url": "https://pl.indeed.com/viewjob?jk=aaacc926c3203b42",
           "channel": "apply desk",
           "applied_via": "",
           "applied_at": "",
