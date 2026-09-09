@@ -1,5 +1,5 @@
 {
-  "updated_at": "[redacted]T22:17:29+00:00",
+  "updated_at": "[redacted]T22:53:14+00:00",
   "pages_url": "https://raviacn95.github.io/job-apply-status/",
   "users": [
     {
@@ -21,7 +21,7 @@
         "hidden_other_track": 43,
         "daily_remaining": 50,
         "daily_limit": 50,
-        "last_cycle_at": "[redacted]T22:12:37+00:00",
+        "last_cycle_at": "[redacted]T22:47:37+00:00",
         "last_apply_at": "[redacted]T08:38:45"
       },
       "mail": {
@@ -33,8 +33,8 @@
       },
       "runs": [
         {
-          "id": 130,
-          "started_at": "[redacted]T22:12:37+00:00",
+          "id": 131,
+          "started_at": "[redacted]T22:47:37+00:00",
           "finished_at": "",
           "status": "running",
           "live": true,
@@ -46,6 +46,22 @@
           "replies": 0,
           "bounces": 0,
           "duration_sec": 0.0,
+          "google_429": 88
+        },
+        {
+          "id": 130,
+          "started_at": "[redacted]T22:12:37+00:00",
+          "finished_at": "[redacted]T22:17:41+00:00",
+          "status": "ok",
+          "live": false,
+          "ingested": 0,
+          "scanned": 8,
+          "applied": 0,
+          "queued": 133,
+          "errors": 0,
+          "replies": 0,
+          "bounces": 0,
+          "duration_sec": 304.0,
           "google_429": 87
         },
         {
@@ -655,22 +671,6 @@
           "bounces": 0,
           "duration_sec": 308.0,
           "google_429": 87
-        },
-        {
-          "id": 91,
-          "started_at": "[redacted]T13:20:27+00:00",
-          "finished_at": "[redacted]T13:25:33+00:00",
-          "status": "ok",
-          "live": true,
-          "ingested": 0,
-          "scanned": 8,
-          "applied": 0,
-          "queued": 131,
-          "errors": 0,
-          "replies": 0,
-          "bounces": 0,
-          "duration_sec": 306.0,
-          "google_429": 88
         }
       ],
       "applied_jobs": [
@@ -3683,20 +3683,20 @@
         "Tosca / SAP / Playwright Automation"
       ],
       "stats": {
-        "jobs": 994,
-        "matched": 858,
-        "applied": 136,
-        "applied_this_week": 76,
-        "desk": 858,
+        "jobs": 996,
+        "matched": 859,
+        "applied": 137,
+        "applied_this_week": 77,
+        "desk": 859,
         "hidden_other_track": 2,
-        "daily_remaining": 50,
+        "daily_remaining": 49,
         "daily_limit": 50,
         "last_cycle_at": "[redacted]T21:02:37+00:00",
-        "last_apply_at": "[redacted]T09:32:28"
+        "last_apply_at": "[redacted]T22:26:54"
       },
       "mail": {
-        "threads": 137,
-        "waiting": 9,
+        "threads": 138,
+        "waiting": 10,
         "followup_due": 118,
         "replied": 10,
         "bounced": 0
@@ -4344,6 +4344,26 @@
         }
       ],
       "applied_jobs": [
+        {
+          "id": 1036,
+          "status": "applied",
+          "track": "automation",
+          "track_label": "Tosca / SAP / Playwright Automation",
+          "score": 28.0,
+          "company": "Cencora",
+          "title": "Principal/Lead Network Engineer \u2014 SAP RISE",
+          "location": "Conshohocken, PA, US",
+          "source": "harvest_remote",
+          "url": "https://www.indeed.com/viewjob?jk=49ece91856c4d74d",
+          "channel": "email",
+          "applied_via": "email",
+          "applied_at": "[redacted]T22:26:54",
+          "first_seen_at": "[redacted]T22:26:49",
+          "age_days": 0,
+          "ctc": "unlisted",
+          "outcome": "",
+          "on_track": true
+        },
         {
           "id": 998,
           "status": "applied",
@@ -5319,26 +5339,6 @@
           "applied_via": "email",
           "applied_at": "[redacted]T04:14:12",
           "first_seen_at": "[redacted]T04:14:08",
-          "age_days": 5,
-          "ctc": "unlisted",
-          "outcome": "",
-          "on_track": true
-        },
-        {
-          "id": 205,
-          "status": "applied",
-          "track": "automation",
-          "track_label": "Tosca / SAP / Playwright Automation",
-          "score": 28.0,
-          "company": "QualiStack GmbH",
-          "title": "SAP HCM Berater (m/w/d)",
-          "location": "Hamburg, HH, DE",
-          "source": "harvest_remote",
-          "url": "https://de.indeed.com/viewjob?jk=4663c255d06fecac",
-          "channel": "email",
-          "applied_via": "email",
-          "applied_at": "[redacted]T04:14:05",
-          "first_seen_at": "[redacted]T04:14:01",
           "age_days": 5,
           "ctc": "unlisted",
           "outcome": "",
@@ -6349,6 +6349,26 @@
       ],
       "jobs": [
         {
+          "id": 1036,
+          "status": "applied",
+          "track": "automation",
+          "track_label": "Tosca / SAP / Playwright Automation",
+          "score": 28.0,
+          "company": "Cencora",
+          "title": "Principal/Lead Network Engineer \u2014 SAP RISE",
+          "location": "Conshohocken, PA, US",
+          "source": "harvest_remote",
+          "url": "https://www.indeed.com/viewjob?jk=49ece91856c4d74d",
+          "channel": "email",
+          "applied_via": "email",
+          "applied_at": "[redacted]T22:26:54",
+          "first_seen_at": "[redacted]T22:26:49",
+          "age_days": 0,
+          "ctc": "unlisted",
+          "outcome": "",
+          "on_track": true
+        },
+        {
           "id": 998,
           "status": "applied",
           "track": "automation",
@@ -7323,26 +7343,6 @@
           "applied_via": "email",
           "applied_at": "[redacted]T04:14:12",
           "first_seen_at": "[redacted]T04:14:08",
-          "age_days": 5,
-          "ctc": "unlisted",
-          "outcome": "",
-          "on_track": true
-        },
-        {
-          "id": 205,
-          "status": "applied",
-          "track": "automation",
-          "track_label": "Tosca / SAP / Playwright Automation",
-          "score": 28.0,
-          "company": "QualiStack GmbH",
-          "title": "SAP HCM Berater (m/w/d)",
-          "location": "Hamburg, HH, DE",
-          "source": "harvest_remote",
-          "url": "https://de.indeed.com/viewjob?jk=4663c255d06fecac",
-          "channel": "email",
-          "applied_via": "email",
-          "applied_at": "[redacted]T04:14:05",
-          "first_seen_at": "[redacted]T04:14:01",
           "age_days": 5,
           "ctc": "unlisted",
           "outcome": "",
