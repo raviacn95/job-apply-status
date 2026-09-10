@@ -1,5 +1,5 @@
 {
-  "updated_at": "[redacted]T19:54:19+00:00",
+  "updated_at": "[redacted]T20:29:36+00:00",
   "pages_url": "https://raviacn95.github.io/job-apply-status/",
   "users": [
     {
@@ -21,20 +21,20 @@
         "hidden_other_track": 47,
         "daily_remaining": 48,
         "daily_limit": 50,
-        "last_cycle_at": "[redacted]T19:47:38+00:00",
+        "last_cycle_at": "[redacted]T20:22:38+00:00",
         "last_apply_at": "[redacted]T18:28:56"
       },
       "mail": {
         "threads": 35,
-        "waiting": 17,
-        "followup_due": 14,
+        "waiting": 11,
+        "followup_due": 20,
         "replied": 4,
         "bounced": 0
       },
       "runs": [
         {
-          "id": 150,
-          "started_at": "[redacted]T19:47:38+00:00",
+          "id": 151,
+          "started_at": "[redacted]T20:22:38+00:00",
           "finished_at": "",
           "status": "running",
           "live": true,
@@ -46,6 +46,22 @@
           "replies": 0,
           "bounces": 0,
           "duration_sec": 0.0,
+          "google_429": 86
+        },
+        {
+          "id": 150,
+          "started_at": "[redacted]T19:47:38+00:00",
+          "finished_at": "[redacted]T19:54:44+00:00",
+          "status": "ok",
+          "live": false,
+          "ingested": 0,
+          "scanned": 8,
+          "applied": 0,
+          "queued": 136,
+          "errors": 0,
+          "replies": 0,
+          "bounces": 0,
+          "duration_sec": 426.0,
           "google_429": 88
         },
         {
@@ -655,22 +671,6 @@
           "bounces": 0,
           "duration_sec": 24462.0,
           "google_429": 76
-        },
-        {
-          "id": 111,
-          "started_at": "[redacted]T22:35:27+00:00",
-          "finished_at": "[redacted]T22:41:43+00:00",
-          "status": "ok",
-          "live": false,
-          "ingested": 0,
-          "scanned": 8,
-          "applied": 0,
-          "queued": 131,
-          "errors": 0,
-          "replies": 0,
-          "bounces": 0,
-          "duration_sec": 376.0,
-          "google_429": 87
         }
       ],
       "applied_jobs": [
@@ -3382,6 +3382,66 @@
       "threads": [
         {
           "status": "follow-up-due",
+          "company": "Avantor",
+          "title": "Sr. Data Engineer",
+          "sent_at": "[redacted]T16:41:39",
+          "last_activity": "[redacted]T20:00:16",
+          "waiting_days": 3,
+          "replies": 0,
+          "followups": 1
+        },
+        {
+          "status": "follow-up-due",
+          "company": "V4C.ai",
+          "title": "Data Engineer / Senior Data Engineer (B)",
+          "sent_at": "[redacted]T16:46:26",
+          "last_activity": "[redacted]T20:00:12",
+          "waiting_days": 3,
+          "replies": 0,
+          "followups": 1
+        },
+        {
+          "status": "follow-up-due",
+          "company": "MNJ Software",
+          "title": "Hadoop Administrator / MAPR - Admin",
+          "sent_at": "[redacted]T16:46:32",
+          "last_activity": "[redacted]T20:00:09",
+          "waiting_days": 3,
+          "replies": 0,
+          "followups": 1
+        },
+        {
+          "status": "follow-up-due",
+          "company": "Concept Plus",
+          "title": "Data Warehouse Integration Engineer",
+          "sent_at": "[redacted]T16:46:39",
+          "last_activity": "[redacted]T20:00:06",
+          "waiting_days": 3,
+          "replies": 0,
+          "followups": 1
+        },
+        {
+          "status": "follow-up-due",
+          "company": "CSpring",
+          "title": "Enterprise Data Warehouse (EDW) ETL/Data Engineer",
+          "sent_at": "[redacted]T16:46:45",
+          "last_activity": "[redacted]T20:00:02",
+          "waiting_days": 3,
+          "replies": 0,
+          "followups": 1
+        },
+        {
+          "status": "follow-up-due",
+          "company": "pinterest",
+          "title": "Staff Software Engineer, Data Warehouse Foundation",
+          "sent_at": "[redacted]T16:47:03",
+          "last_activity": "[redacted]T19:59:59",
+          "waiting_days": 3,
+          "replies": 0,
+          "followups": 1
+        },
+        {
+          "status": "follow-up-due",
           "company": "Siddu gupta",
           "title": "Siddu gupta",
           "sent_at": "[redacted]T19:43:57",
@@ -3582,150 +3642,90 @@
         },
         {
           "status": "followed-up",
-          "company": "Jobposts",
-          "title": "UK - London - ADS - Cloud DBA & Solution Architect, PowerBI",
-          "sent_at": "[redacted]T08:38:45",
-          "last_activity": "[redacted]T08:47:43",
-          "waiting_days": 2,
+          "company": "Unknown",
+          "title": "Remote BI ETL Consultant",
+          "sent_at": "[redacted]T16:41:26",
+          "last_activity": "[redacted]T20:29:09",
+          "waiting_days": 0,
           "replies": 0,
-          "followups": 1
-        },
-        {
-          "status": "followed-up",
-          "company": "E Hook Systems",
-          "title": "Teradata DBA",
-          "sent_at": "[redacted]T16:37:34",
-          "last_activity": "[redacted]T20:20:19",
-          "waiting_days": 2,
-          "replies": 0,
-          "followups": 1
-        },
-        {
-          "status": "followed-up",
-          "company": "TWO95 International, Inc",
-          "title": "Integration Developer - SAP & Informatica MDM | Remote(India) | Contract",
-          "sent_at": "[redacted]T16:37:41",
-          "last_activity": "[redacted]T20:20:16",
-          "waiting_days": 2,
-          "replies": 0,
-          "followups": 1
-        },
-        {
-          "status": "followed-up",
-          "company": "Webner Solutions pvt ltd",
-          "title": "Hadoop Administrator / Big Data Platform Engineer",
-          "sent_at": "[redacted]T16:38:01",
-          "last_activity": "[redacted]T20:20:13",
-          "waiting_days": 2,
-          "replies": 0,
-          "followups": 1
-        },
-        {
-          "status": "followed-up",
-          "company": "Ashra Technology",
-          "title": "Informatica Developer",
-          "sent_at": "[redacted]T16:38:08",
-          "last_activity": "[redacted]T20:20:10",
-          "waiting_days": 2,
-          "replies": 0,
-          "followups": 1
-        },
-        {
-          "status": "followed-up",
-          "company": "Grazitti Interactive",
-          "title": "Lead/Sr. ETL Engineer",
-          "sent_at": "[redacted]T16:38:14",
-          "last_activity": "[redacted]T20:20:06",
-          "waiting_days": 2,
-          "replies": 0,
-          "followups": 1
-        },
-        {
-          "status": "followed-up",
-          "company": "HSTechnologies",
-          "title": "BigData/Hadoop Administrator",
-          "sent_at": "[redacted]T16:38:22",
-          "last_activity": "[redacted]T20:20:03",
-          "waiting_days": 2,
-          "replies": 0,
-          "followups": 1
+          "followups": 2
         },
         {
           "status": "followed-up",
           "company": "Atos",
           "title": "Informatica Engineer",
           "sent_at": "[redacted]T16:38:28",
-          "last_activity": "[redacted]T20:00:22",
-          "waiting_days": 2,
+          "last_activity": "[redacted]T20:29:05",
+          "waiting_days": 0,
           "replies": 0,
-          "followups": 1
+          "followups": 2
         },
         {
           "status": "followed-up",
-          "company": "Unknown",
-          "title": "Remote BI ETL Consultant",
-          "sent_at": "[redacted]T16:41:26",
-          "last_activity": "[redacted]T20:00:19",
-          "waiting_days": 2,
+          "company": "HSTechnologies",
+          "title": "BigData/Hadoop Administrator",
+          "sent_at": "[redacted]T16:38:22",
+          "last_activity": "[redacted]T20:29:02",
+          "waiting_days": 0,
           "replies": 0,
-          "followups": 1
+          "followups": 2
         },
         {
           "status": "followed-up",
-          "company": "Avantor",
-          "title": "Sr. Data Engineer",
-          "sent_at": "[redacted]T16:41:39",
-          "last_activity": "[redacted]T20:00:16",
-          "waiting_days": 2,
+          "company": "Grazitti Interactive",
+          "title": "Lead/Sr. ETL Engineer",
+          "sent_at": "[redacted]T16:38:14",
+          "last_activity": "[redacted]T20:28:58",
+          "waiting_days": 0,
           "replies": 0,
-          "followups": 1
+          "followups": 2
         },
         {
           "status": "followed-up",
-          "company": "V4C.ai",
-          "title": "Data Engineer / Senior Data Engineer (B)",
-          "sent_at": "[redacted]T16:46:26",
-          "last_activity": "[redacted]T20:00:12",
-          "waiting_days": 2,
+          "company": "Ashra Technology",
+          "title": "Informatica Developer",
+          "sent_at": "[redacted]T16:38:08",
+          "last_activity": "[redacted]T20:28:55",
+          "waiting_days": 0,
           "replies": 0,
-          "followups": 1
+          "followups": 2
         },
         {
           "status": "followed-up",
-          "company": "MNJ Software",
-          "title": "Hadoop Administrator / MAPR - Admin",
-          "sent_at": "[redacted]T16:46:32",
-          "last_activity": "[redacted]T20:00:09",
-          "waiting_days": 2,
+          "company": "Webner Solutions pvt ltd",
+          "title": "Hadoop Administrator / Big Data Platform Engineer",
+          "sent_at": "[redacted]T16:38:01",
+          "last_activity": "[redacted]T20:28:50",
+          "waiting_days": 0,
           "replies": 0,
-          "followups": 1
+          "followups": 2
         },
         {
           "status": "followed-up",
-          "company": "Concept Plus",
-          "title": "Data Warehouse Integration Engineer",
-          "sent_at": "[redacted]T16:46:39",
-          "last_activity": "[redacted]T20:00:06",
-          "waiting_days": 2,
+          "company": "TWO95 International, Inc",
+          "title": "Integration Developer - SAP & Informatica MDM | Remote(India) | Contract",
+          "sent_at": "[redacted]T16:37:41",
+          "last_activity": "[redacted]T20:28:47",
+          "waiting_days": 0,
           "replies": 0,
-          "followups": 1
+          "followups": 2
         },
         {
           "status": "followed-up",
-          "company": "CSpring",
-          "title": "Enterprise Data Warehouse (EDW) ETL/Data Engineer",
-          "sent_at": "[redacted]T16:46:45",
-          "last_activity": "[redacted]T20:00:02",
-          "waiting_days": 2,
+          "company": "E Hook Systems",
+          "title": "Teradata DBA",
+          "sent_at": "[redacted]T16:37:34",
+          "last_activity": "[redacted]T20:28:43",
+          "waiting_days": 0,
           "replies": 0,
-          "followups": 1
+          "followups": 2
         },
         {
           "status": "followed-up",
-          "company": "pinterest",
-          "title": "Staff Software Engineer, Data Warehouse Foundation",
-          "sent_at": "[redacted]T16:47:03",
-          "last_activity": "[redacted]T19:59:59",
+          "company": "Jobposts",
+          "title": "UK - London - ADS - Cloud DBA & Solution Architect, PowerBI",
+          "sent_at": "[redacted]T08:38:45",
+          "last_activity": "[redacted]T08:47:43",
           "waiting_days": 2,
           "replies": 0,
           "followups": 1
@@ -5641,7 +5641,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T19:56:07",
-          "age_days": 9,
+          "age_days": 10,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -5661,7 +5661,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T19:55:51",
-          "age_days": 9,
+          "age_days": 10,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
