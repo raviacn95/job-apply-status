@@ -1,5 +1,5 @@
 {
-  "updated_at": "[redacted]T18:08:21+00:00",
+  "updated_at": "[redacted]T18:43:40+00:00",
   "pages_url": "https://raviacn95.github.io/job-apply-status/",
   "users": [
     {
@@ -13,28 +13,28 @@
         "Teradata DBA"
       ],
       "stats": {
-        "jobs": 185,
+        "jobs": 186,
         "matched": 151,
-        "applied": 34,
-        "applied_this_week": 20,
+        "applied": 35,
+        "applied_this_week": 21,
         "desk": 151,
         "hidden_other_track": 47,
-        "daily_remaining": 49,
+        "daily_remaining": 48,
         "daily_limit": 50,
-        "last_cycle_at": "[redacted]T18:02:39+00:00",
-        "last_apply_at": "[redacted]T12:28:03"
+        "last_cycle_at": "[redacted]T18:37:38+00:00",
+        "last_apply_at": "[redacted]T18:28:56"
       },
       "mail": {
-        "threads": 34,
-        "waiting": 16,
+        "threads": 35,
+        "waiting": 17,
         "followup_due": 14,
         "replied": 4,
         "bounced": 0
       },
       "runs": [
         {
-          "id": 147,
-          "started_at": "[redacted]T18:02:39+00:00",
+          "id": 148,
+          "started_at": "[redacted]T18:37:38+00:00",
           "finished_at": "",
           "status": "running",
           "live": true,
@@ -46,6 +46,22 @@
           "replies": 0,
           "bounces": 0,
           "duration_sec": 0.0,
+          "google_429": 88
+        },
+        {
+          "id": 147,
+          "started_at": "[redacted]T18:02:39+00:00",
+          "finished_at": "[redacted]T18:08:41+00:00",
+          "status": "ok",
+          "live": false,
+          "ingested": 0,
+          "scanned": 8,
+          "applied": 0,
+          "queued": 136,
+          "errors": 0,
+          "replies": 0,
+          "bounces": 0,
+          "duration_sec": 362.0,
           "google_429": 88
         },
         {
@@ -655,25 +671,29 @@
           "bounces": 0,
           "duration_sec": 317.0,
           "google_429": 88
-        },
-        {
-          "id": 108,
-          "started_at": "[redacted]T20:50:26+00:00",
-          "finished_at": "[redacted]T20:55:10+00:00",
-          "status": "ok",
-          "live": false,
-          "ingested": 0,
-          "scanned": 8,
-          "applied": 0,
-          "queued": 131,
-          "errors": 0,
-          "replies": 0,
-          "bounces": 0,
-          "duration_sec": 284.0,
-          "google_429": 87
         }
       ],
       "applied_jobs": [
+        {
+          "id": 292,
+          "status": "applied",
+          "track": "teradata_dba",
+          "track_label": "Teradata DBA",
+          "score": 28.0,
+          "company": "Coherent Pixel Systems Pvt Ltd",
+          "title": "Java /ETL Developer",
+          "location": "TN, IN",
+          "source": "harvest_teradata",
+          "url": "https://in.indeed.com/viewjob?jk=57e658a3802ee282",
+          "channel": "email",
+          "applied_via": "email",
+          "applied_at": "[redacted]T18:28:56",
+          "first_seen_at": "[redacted]T18:28:51",
+          "age_days": 0,
+          "ctc": "unlisted",
+          "outcome": "",
+          "on_track": true
+        },
         {
           "id": 289,
           "status": "applied",
@@ -2359,6 +2379,26 @@
       ],
       "jobs": [
         {
+          "id": 292,
+          "status": "applied",
+          "track": "teradata_dba",
+          "track_label": "Teradata DBA",
+          "score": 28.0,
+          "company": "Coherent Pixel Systems Pvt Ltd",
+          "title": "Java /ETL Developer",
+          "location": "TN, IN",
+          "source": "harvest_teradata",
+          "url": "https://in.indeed.com/viewjob?jk=57e658a3802ee282",
+          "channel": "email",
+          "applied_via": "email",
+          "applied_at": "[redacted]T18:28:56",
+          "first_seen_at": "[redacted]T18:28:51",
+          "age_days": 0,
+          "ctc": "unlisted",
+          "outcome": "",
+          "on_track": true
+        },
+        {
           "id": 289,
           "status": "applied",
           "track": "teradata_dba",
@@ -3337,26 +3377,6 @@
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
-        },
-        {
-          "id": 249,
-          "status": "matched",
-          "track": "teradata_dba",
-          "track_label": "Teradata DBA",
-          "score": 28.0,
-          "company": "EPAM Systems",
-          "title": "Senior Oracle DBA",
-          "location": "R\u00edo Grande, Mexico",
-          "source": "harvest_teradata",
-          "url": "https://www.themuse.com/jobs/epamsystems/senior-oracle-dba-8071ea",
-          "channel": "apply desk",
-          "applied_via": "",
-          "applied_at": "",
-          "first_seen_at": "[redacted]T16:41:45",
-          "age_days": 6,
-          "ctc": "unlisted",
-          "outcome": "",
-          "on_track": true
         }
       ],
       "threads": [
@@ -3542,6 +3562,16 @@
         },
         {
           "status": "sent-waiting",
+          "company": "Coherent Pixel Systems Pvt Ltd",
+          "title": "Java /ETL Developer",
+          "sent_at": "[redacted]T18:28:56",
+          "last_activity": "[redacted]T18:28:56",
+          "waiting_days": 0,
+          "replies": 0,
+          "followups": 0
+        },
+        {
+          "status": "sent-waiting",
           "company": "Vedha Infotech",
           "title": "Teradata Database Administrator (DBA)",
           "sent_at": "[redacted]T12:28:03",
@@ -3713,11 +3743,11 @@
         "Tosca / SAP / Playwright Automation"
       ],
       "stats": {
-        "jobs": 1027,
-        "matched": 890,
+        "jobs": 1028,
+        "matched": 891,
         "applied": 137,
         "applied_this_week": 77,
-        "desk": 890,
+        "desk": 891,
         "hidden_other_track": 2,
         "daily_remaining": 50,
         "daily_limit": 50,
