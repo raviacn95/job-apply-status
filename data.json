@@ -1,5 +1,5 @@
 {
-  "updated_at": "[redacted]T09:14:23+00:00",
+  "updated_at": "[redacted]T09:48:49+00:00",
   "pages_url": "https://raviacn95.github.io/job-apply-status/",
   "users": [
     {
@@ -21,7 +21,7 @@
         "hidden_other_track": 51,
         "daily_remaining": 50,
         "daily_limit": 50,
-        "last_cycle_at": "[redacted]T09:07:38+00:00",
+        "last_cycle_at": "[redacted]T09:42:38+00:00",
         "last_apply_at": "[redacted]T18:28:56"
       },
       "mail": {
@@ -33,8 +33,8 @@
       },
       "runs": [
         {
-          "id": 180,
-          "started_at": "[redacted]T09:07:38+00:00",
+          "id": 181,
+          "started_at": "[redacted]T09:42:38+00:00",
           "finished_at": "",
           "status": "running",
           "live": true,
@@ -46,6 +46,22 @@
           "replies": 0,
           "bounces": 0,
           "duration_sec": 0.0,
+          "google_429": 0
+        },
+        {
+          "id": 180,
+          "started_at": "[redacted]T09:07:38+00:00",
+          "finished_at": "[redacted]T09:14:37+00:00",
+          "status": "ok",
+          "live": true,
+          "ingested": 0,
+          "scanned": 16,
+          "applied": 0,
+          "queued": 141,
+          "errors": 0,
+          "replies": 0,
+          "bounces": 0,
+          "duration_sec": 419.0,
           "google_429": 0
         },
         {
@@ -655,22 +671,6 @@
           "bounces": 0,
           "duration_sec": 371.0,
           "google_429": 87
-        },
-        {
-          "id": 141,
-          "started_at": "[redacted]T13:22:38+00:00",
-          "finished_at": "[redacted]T13:29:06+00:00",
-          "status": "ok",
-          "live": true,
-          "ingested": 0,
-          "scanned": 8,
-          "applied": 0,
-          "queued": 136,
-          "errors": 0,
-          "replies": 0,
-          "bounces": 0,
-          "duration_sec": 388.0,
-          "google_429": 86
         }
       ],
       "applied_jobs": [
@@ -1671,7 +1671,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T09:31:20",
-          "age_days": 1,
+          "age_days": 2,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -3373,7 +3373,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T09:31:20",
-          "age_days": 1,
+          "age_days": 2,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -4539,7 +4539,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T09:32:28",
           "first_seen_at": "[redacted]T09:32:23",
-          "age_days": 3,
+          "age_days": 4,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -6543,7 +6543,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T09:32:28",
           "first_seen_at": "[redacted]T09:32:23",
-          "age_days": 3,
+          "age_days": 4,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -7416,7 +7416,7 @@
           "title": "Payroll coordinator",
           "sent_at": "[redacted]T09:32:28",
           "last_activity": "[redacted]T09:32:28",
-          "waiting_days": 3,
+          "waiting_days": 4,
           "replies": 0,
           "followups": 0
         },
