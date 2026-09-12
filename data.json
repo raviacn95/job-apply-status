@@ -1,5 +1,5 @@
 {
-  "updated_at": "[redacted]T05:44:14+00:00",
+  "updated_at": "[redacted]T06:19:41+00:00",
   "pages_url": "https://raviacn95.github.io/job-apply-status/",
   "users": [
     {
@@ -21,7 +21,7 @@
         "hidden_other_track": 51,
         "daily_remaining": 50,
         "daily_limit": 50,
-        "last_cycle_at": "[redacted]T05:37:39+00:00",
+        "last_cycle_at": "[redacted]T06:12:38+00:00",
         "last_apply_at": "[redacted]T18:28:56"
       },
       "mail": {
@@ -33,8 +33,8 @@
       },
       "runs": [
         {
-          "id": 174,
-          "started_at": "[redacted]T05:37:39+00:00",
+          "id": 175,
+          "started_at": "[redacted]T06:12:38+00:00",
           "finished_at": "",
           "status": "running",
           "live": true,
@@ -46,6 +46,22 @@
           "replies": 0,
           "bounces": 0,
           "duration_sec": 0.0,
+          "google_429": 0
+        },
+        {
+          "id": 174,
+          "started_at": "[redacted]T05:37:39+00:00",
+          "finished_at": "[redacted]T05:44:23+00:00",
+          "status": "ok",
+          "live": true,
+          "ingested": 1,
+          "scanned": 17,
+          "applied": 0,
+          "queued": 140,
+          "errors": 0,
+          "replies": 0,
+          "bounces": 0,
+          "duration_sec": 404.0,
           "google_429": 0
         },
         {
@@ -655,22 +671,6 @@
           "bounces": 0,
           "duration_sec": 0.0,
           "google_429": 0
-        },
-        {
-          "id": 135,
-          "started_at": "[redacted]T09:52:38+00:00",
-          "finished_at": "[redacted]T10:06:34+00:00",
-          "status": "ok",
-          "live": true,
-          "ingested": 0,
-          "scanned": 7,
-          "applied": 0,
-          "queued": 134,
-          "errors": 0,
-          "replies": 0,
-          "bounces": 0,
-          "duration_sec": 836.0,
-          "google_429": 76
         }
       ],
       "applied_jobs": [
@@ -1691,7 +1691,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T06:00:48",
-          "age_days": 3,
+          "age_days": 4,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -6161,7 +6161,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T06:01:24",
-          "age_days": 12,
+          "age_days": 13,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
