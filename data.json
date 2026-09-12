@@ -1,5 +1,5 @@
 {
-  "updated_at": "[redacted]T23:17:26+00:00",
+  "updated_at": "[redacted]T04:12:46+00:00",
   "pages_url": "https://raviacn95.github.io/job-apply-status/",
   "users": [
     {
@@ -21,7 +21,7 @@
         "hidden_other_track": 50,
         "daily_remaining": 50,
         "daily_limit": 50,
-        "last_cycle_at": "[redacted]T23:12:38+00:00",
+        "last_cycle_at": "[redacted]T04:04:21+00:00",
         "last_apply_at": "[redacted]T18:28:56"
       },
       "mail": {
@@ -33,8 +33,8 @@
       },
       "runs": [
         {
-          "id": 170,
-          "started_at": "[redacted]T23:12:38+00:00",
+          "id": 171,
+          "started_at": "[redacted]T04:04:21+00:00",
           "finished_at": "",
           "status": "running",
           "live": true,
@@ -46,6 +46,22 @@
           "replies": 0,
           "bounces": 0,
           "duration_sec": 0.0,
+          "google_429": 0
+        },
+        {
+          "id": 170,
+          "started_at": "[redacted]T23:12:38+00:00",
+          "finished_at": "[redacted]T23:17:34+00:00",
+          "status": "ok",
+          "live": false,
+          "ingested": 0,
+          "scanned": 16,
+          "applied": 0,
+          "queued": 140,
+          "errors": 0,
+          "replies": 0,
+          "bounces": 0,
+          "duration_sec": 296.0,
           "google_429": 0
         },
         {
@@ -654,22 +670,6 @@
           "replies": 0,
           "bounces": 0,
           "duration_sec": 272.0,
-          "google_429": 88
-        },
-        {
-          "id": 131,
-          "started_at": "[redacted]T22:47:37+00:00",
-          "finished_at": "[redacted]T22:53:31+00:00",
-          "status": "ok",
-          "live": false,
-          "ingested": 0,
-          "scanned": 8,
-          "applied": 0,
-          "queued": 133,
-          "errors": 0,
-          "replies": 0,
-          "bounces": 0,
-          "duration_sec": 354.0,
           "google_429": 88
         }
       ],
@@ -3386,7 +3386,7 @@
           "title": "Siddu gupta",
           "sent_at": "[redacted]T19:43:57",
           "last_activity": "[redacted]T03:26:29",
-          "waiting_days": 4,
+          "waiting_days": 5,
           "replies": 0,
           "followups": 2
         },
@@ -3396,7 +3396,7 @@
           "title": "Dhanshree Hiwase",
           "sent_at": "[redacted]T19:43:53",
           "last_activity": "[redacted]T03:26:26",
-          "waiting_days": 4,
+          "waiting_days": 5,
           "replies": 0,
           "followups": 2
         },
@@ -3406,7 +3406,7 @@
           "title": "Tamer Omar, MBA, PMP",
           "sent_at": "[redacted]T19:43:49",
           "last_activity": "[redacted]T03:26:22",
-          "waiting_days": 4,
+          "waiting_days": 5,
           "replies": 0,
           "followups": 2
         },
@@ -3416,7 +3416,7 @@
           "title": "experienced Teradata Administrator to join our team",
           "sent_at": "[redacted]T19:43:45",
           "last_activity": "[redacted]T03:26:19",
-          "waiting_days": 4,
+          "waiting_days": 5,
           "replies": 0,
           "followups": 2
         },
@@ -3426,7 +3426,7 @@
           "title": "Katari Jahnavi",
           "sent_at": "[redacted]T19:41:06",
           "last_activity": "[redacted]T03:26:16",
-          "waiting_days": 4,
+          "waiting_days": 5,
           "replies": 0,
           "followups": 2
         },
@@ -3436,7 +3436,7 @@
           "title": "Ukesh B",
           "sent_at": "[redacted]T19:41:01",
           "last_activity": "[redacted]T03:26:12",
-          "waiting_days": 4,
+          "waiting_days": 5,
           "replies": 0,
           "followups": 2
         },
@@ -3446,7 +3446,7 @@
           "title": "Sasikumar pudi",
           "sent_at": "[redacted]T19:40:50",
           "last_activity": "[redacted]T02:53:45",
-          "waiting_days": 4,
+          "waiting_days": 5,
           "replies": 0,
           "followups": 2
         },
@@ -3456,7 +3456,7 @@
           "title": "Sai Krishna Gvs",
           "sent_at": "[redacted]T19:40:45",
           "last_activity": "[redacted]T02:53:41",
-          "waiting_days": 4,
+          "waiting_days": 5,
           "replies": 0,
           "followups": 2
         },
@@ -3466,7 +3466,7 @@
           "title": "Kanha Dwivedi",
           "sent_at": "[redacted]T19:40:41",
           "last_activity": "[redacted]T02:53:38",
-          "waiting_days": 4,
+          "waiting_days": 5,
           "replies": 0,
           "followups": 2
         },
@@ -3476,7 +3476,7 @@
           "title": "Manjusha Noone",
           "sent_at": "[redacted]T19:40:37",
           "last_activity": "[redacted]T02:53:34",
-          "waiting_days": 4,
+          "waiting_days": 5,
           "replies": 0,
           "followups": 2
         },
@@ -3486,7 +3486,7 @@
           "title": "Sarthak Kahar",
           "sent_at": "[redacted]T19:40:27",
           "last_activity": "[redacted]T02:53:30",
-          "waiting_days": 4,
+          "waiting_days": 5,
           "replies": 0,
           "followups": 2
         },
@@ -3496,7 +3496,7 @@
           "title": "Ajay Nigam",
           "sent_at": "[redacted]T19:40:22",
           "last_activity": "[redacted]T02:53:27",
-          "waiting_days": 4,
+          "waiting_days": 5,
           "replies": 0,
           "followups": 2
         },
@@ -3506,7 +3506,7 @@
           "title": "Brown Henry",
           "sent_at": "[redacted]T19:40:18",
           "last_activity": "[redacted]T02:53:23",
-          "waiting_days": 4,
+          "waiting_days": 5,
           "replies": 0,
           "followups": 2
         },
@@ -3516,7 +3516,7 @@
           "title": "PURNA CHANDER RACHA \ud83c\uddee\ud83c\uddf3",
           "sent_at": "[redacted]T19:40:14",
           "last_activity": "[redacted]T02:53:19",
-          "waiting_days": 4,
+          "waiting_days": 5,
           "replies": 0,
           "followups": 2
         },
@@ -3749,7 +3749,7 @@
         "applied_this_week": 12,
         "desk": 926,
         "hidden_other_track": 2,
-        "daily_remaining": 46,
+        "daily_remaining": 50,
         "daily_limit": 50,
         "last_cycle_at": "[redacted]T21:02:37+00:00",
         "last_apply_at": "[redacted]T19:33:50"
@@ -4559,7 +4559,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T04:19:55",
           "first_seen_at": "[redacted]T04:11:04",
-          "age_days": 7,
+          "age_days": 8,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -4579,7 +4579,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T03:30:26",
           "first_seen_at": "[redacted]T03:30:22",
-          "age_days": 4,
+          "age_days": 5,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -4599,7 +4599,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T03:30:19",
           "first_seen_at": "[redacted]T03:30:14",
-          "age_days": 4,
+          "age_days": 5,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -4659,7 +4659,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T04:20:09",
           "first_seen_at": "[redacted]T04:10:48",
-          "age_days": 7,
+          "age_days": 8,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -4679,7 +4679,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T04:20:02",
           "first_seen_at": "[redacted]T04:10:48",
-          "age_days": 7,
+          "age_days": 8,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -4699,7 +4699,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T04:19:56",
           "first_seen_at": "[redacted]T04:10:48",
-          "age_days": 7,
+          "age_days": 8,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -4719,7 +4719,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T04:19:49",
           "first_seen_at": "[redacted]T04:10:48",
-          "age_days": 7,
+          "age_days": 8,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -6563,7 +6563,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T04:19:55",
           "first_seen_at": "[redacted]T04:11:04",
-          "age_days": 7,
+          "age_days": 8,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -6583,7 +6583,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T03:30:26",
           "first_seen_at": "[redacted]T03:30:22",
-          "age_days": 4,
+          "age_days": 5,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -6603,7 +6603,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T03:30:19",
           "first_seen_at": "[redacted]T03:30:14",
-          "age_days": 4,
+          "age_days": 5,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -6663,7 +6663,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T04:20:09",
           "first_seen_at": "[redacted]T04:10:48",
-          "age_days": 7,
+          "age_days": 8,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -6683,7 +6683,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T04:20:02",
           "first_seen_at": "[redacted]T04:10:48",
-          "age_days": 7,
+          "age_days": 8,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -6703,7 +6703,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T04:19:56",
           "first_seen_at": "[redacted]T04:10:48",
-          "age_days": 7,
+          "age_days": 8,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -6723,7 +6723,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T04:19:49",
           "first_seen_at": "[redacted]T04:10:48",
-          "age_days": 7,
+          "age_days": 8,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
