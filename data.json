@@ -1,5 +1,5 @@
 {
-  "updated_at": "[redacted]T15:02:46+00:00",
+  "updated_at": "[redacted]T15:37:47+00:00",
   "pages_url": "https://raviacn95.github.io/job-apply-status/",
   "users": [
     {
@@ -18,10 +18,10 @@
         "applied": 35,
         "applied_this_week": 2,
         "desk": 156,
-        "hidden_other_track": 51,
+        "hidden_other_track": 52,
         "daily_remaining": 50,
         "daily_limit": 50,
-        "last_cycle_at": "[redacted]T14:57:38+00:00",
+        "last_cycle_at": "[redacted]T15:32:38+00:00",
         "last_apply_at": "[redacted]T18:28:56"
       },
       "mail": {
@@ -33,8 +33,8 @@
       },
       "runs": [
         {
-          "id": 186,
-          "started_at": "[redacted]T14:57:38+00:00",
+          "id": 187,
+          "started_at": "[redacted]T15:32:38+00:00",
           "finished_at": "",
           "status": "running",
           "live": true,
@@ -46,6 +46,22 @@
           "replies": 0,
           "bounces": 0,
           "duration_sec": 0.0,
+          "google_429": 0
+        },
+        {
+          "id": 186,
+          "started_at": "[redacted]T14:57:38+00:00",
+          "finished_at": "[redacted]T15:02:56+00:00",
+          "status": "ok",
+          "live": true,
+          "ingested": 0,
+          "scanned": 16,
+          "applied": 0,
+          "queued": 141,
+          "errors": 0,
+          "replies": 0,
+          "bounces": 0,
+          "duration_sec": 318.0,
           "google_429": 0
         },
         {
@@ -654,22 +670,6 @@
           "replies": 0,
           "bounces": 0,
           "duration_sec": 373.0,
-          "google_429": 88
-        },
-        {
-          "id": 147,
-          "started_at": "[redacted]T18:02:39+00:00",
-          "finished_at": "[redacted]T18:08:41+00:00",
-          "status": "ok",
-          "live": false,
-          "ingested": 0,
-          "scanned": 8,
-          "applied": 0,
-          "queued": 136,
-          "errors": 0,
-          "replies": 0,
-          "bounces": 0,
-          "duration_sec": 362.0,
           "google_429": 88
         }
       ],
@@ -1391,7 +1391,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T15:19:40",
-          "age_days": 11,
+          "age_days": 12,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -1431,7 +1431,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T15:19:47",
-          "age_days": 11,
+          "age_days": 12,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -1471,7 +1471,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T15:19:45",
-          "age_days": 11,
+          "age_days": 12,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -1491,7 +1491,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T15:19:43",
-          "age_days": 11,
+          "age_days": 12,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -1511,7 +1511,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T15:20:00",
-          "age_days": 11,
+          "age_days": 12,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -3093,7 +3093,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T15:19:40",
-          "age_days": 11,
+          "age_days": 12,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -3133,7 +3133,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T15:19:47",
-          "age_days": 11,
+          "age_days": 12,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -3173,7 +3173,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T15:19:45",
-          "age_days": 11,
+          "age_days": 12,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -3193,7 +3193,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T15:19:43",
-          "age_days": 11,
+          "age_days": 12,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -3213,7 +3213,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T15:20:00",
-          "age_days": 11,
+          "age_days": 12,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -3586,7 +3586,7 @@
           "title": "UK - London - ADS - Cloud DBA & Solution Architect, PowerBI",
           "sent_at": "[redacted]T08:38:45",
           "last_activity": "[redacted]T15:30:58",
-          "waiting_days": 0,
+          "waiting_days": 1,
           "replies": 0,
           "followups": 2
         },
@@ -3743,11 +3743,11 @@
         "Tosca / SAP / Playwright Automation"
       ],
       "stats": {
-        "jobs": 1071,
-        "matched": 928,
+        "jobs": 1073,
+        "matched": 930,
         "applied": 143,
         "applied_this_week": 13,
-        "desk": 928,
+        "desk": 930,
         "hidden_other_track": 2,
         "daily_remaining": 49,
         "daily_limit": 50,
