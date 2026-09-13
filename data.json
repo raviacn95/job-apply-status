@@ -1,5 +1,5 @@
 {
-  "updated_at": "[redacted]T20:13:02+00:00",
+  "updated_at": "[redacted]T20:49:06+00:00",
   "pages_url": "https://raviacn95.github.io/job-apply-status/",
   "users": [
     {
@@ -21,20 +21,20 @@
         "hidden_other_track": 53,
         "daily_remaining": 50,
         "daily_limit": 50,
-        "last_cycle_at": "[redacted]T20:07:38+00:00",
+        "last_cycle_at": "[redacted]T20:42:38+00:00",
         "last_apply_at": "[redacted]T18:28:56"
       },
       "mail": {
         "threads": 35,
-        "waiting": 17,
-        "followup_due": 14,
+        "waiting": 9,
+        "followup_due": 22,
         "replied": 4,
         "bounced": 0
       },
       "runs": [
         {
-          "id": 206,
-          "started_at": "[redacted]T20:07:38+00:00",
+          "id": 207,
+          "started_at": "[redacted]T20:42:38+00:00",
           "finished_at": "",
           "status": "running",
           "live": true,
@@ -46,6 +46,22 @@
           "replies": 0,
           "bounces": 0,
           "duration_sec": 0.0,
+          "google_429": 0
+        },
+        {
+          "id": 206,
+          "started_at": "[redacted]T20:07:38+00:00",
+          "finished_at": "[redacted]T20:13:37+00:00",
+          "status": "ok",
+          "live": false,
+          "ingested": 0,
+          "scanned": 16,
+          "applied": 0,
+          "queued": 141,
+          "errors": 0,
+          "replies": 0,
+          "bounces": 0,
+          "duration_sec": 359.0,
           "google_429": 0
         },
         {
@@ -655,22 +671,6 @@
           "bounces": 0,
           "duration_sec": 295.0,
           "google_429": 54
-        },
-        {
-          "id": 167,
-          "started_at": "[redacted]T21:27:38+00:00",
-          "finished_at": "[redacted]T21:32:47+00:00",
-          "status": "ok",
-          "live": false,
-          "ingested": 0,
-          "scanned": 16,
-          "applied": 0,
-          "queued": 140,
-          "errors": 0,
-          "replies": 0,
-          "bounces": 0,
-          "duration_sec": 309.0,
-          "google_429": 87
         }
       ],
       "applied_jobs": [
@@ -1551,7 +1551,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T20:32:31",
-          "age_days": 1,
+          "age_days": 2,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -3253,7 +3253,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T20:32:31",
-          "age_days": 1,
+          "age_days": 2,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -3380,6 +3380,86 @@
         }
       ],
       "threads": [
+        {
+          "status": "follow-up-due",
+          "company": "Unknown",
+          "title": "Remote BI ETL Consultant",
+          "sent_at": "[redacted]T16:41:26",
+          "last_activity": "[redacted]T20:29:09",
+          "waiting_days": 3,
+          "replies": 0,
+          "followups": 2
+        },
+        {
+          "status": "follow-up-due",
+          "company": "Atos",
+          "title": "Informatica Engineer",
+          "sent_at": "[redacted]T16:38:28",
+          "last_activity": "[redacted]T20:29:05",
+          "waiting_days": 3,
+          "replies": 0,
+          "followups": 2
+        },
+        {
+          "status": "follow-up-due",
+          "company": "HSTechnologies",
+          "title": "BigData/Hadoop Administrator",
+          "sent_at": "[redacted]T16:38:22",
+          "last_activity": "[redacted]T20:29:02",
+          "waiting_days": 3,
+          "replies": 0,
+          "followups": 2
+        },
+        {
+          "status": "follow-up-due",
+          "company": "Grazitti Interactive",
+          "title": "Lead/Sr. ETL Engineer",
+          "sent_at": "[redacted]T16:38:14",
+          "last_activity": "[redacted]T20:28:58",
+          "waiting_days": 3,
+          "replies": 0,
+          "followups": 2
+        },
+        {
+          "status": "follow-up-due",
+          "company": "Ashra Technology",
+          "title": "Informatica Developer",
+          "sent_at": "[redacted]T16:38:08",
+          "last_activity": "[redacted]T20:28:55",
+          "waiting_days": 3,
+          "replies": 0,
+          "followups": 2
+        },
+        {
+          "status": "follow-up-due",
+          "company": "Webner Solutions pvt ltd",
+          "title": "Hadoop Administrator / Big Data Platform Engineer",
+          "sent_at": "[redacted]T16:38:01",
+          "last_activity": "[redacted]T20:28:50",
+          "waiting_days": 3,
+          "replies": 0,
+          "followups": 2
+        },
+        {
+          "status": "follow-up-due",
+          "company": "TWO95 International, Inc",
+          "title": "Integration Developer - SAP & Informatica MDM | Remote(India) | Contract",
+          "sent_at": "[redacted]T16:37:41",
+          "last_activity": "[redacted]T20:28:47",
+          "waiting_days": 3,
+          "replies": 0,
+          "followups": 2
+        },
+        {
+          "status": "follow-up-due",
+          "company": "E Hook Systems",
+          "title": "Teradata DBA",
+          "sent_at": "[redacted]T16:37:34",
+          "last_activity": "[redacted]T20:28:43",
+          "waiting_days": 3,
+          "replies": 0,
+          "followups": 2
+        },
         {
           "status": "follow-up-due",
           "company": "Siddu gupta",
@@ -3649,86 +3729,6 @@
           "waiting_days": 2,
           "replies": 0,
           "followups": 2
-        },
-        {
-          "status": "followed-up",
-          "company": "Unknown",
-          "title": "Remote BI ETL Consultant",
-          "sent_at": "[redacted]T16:41:26",
-          "last_activity": "[redacted]T20:29:09",
-          "waiting_days": 2,
-          "replies": 0,
-          "followups": 2
-        },
-        {
-          "status": "followed-up",
-          "company": "Atos",
-          "title": "Informatica Engineer",
-          "sent_at": "[redacted]T16:38:28",
-          "last_activity": "[redacted]T20:29:05",
-          "waiting_days": 2,
-          "replies": 0,
-          "followups": 2
-        },
-        {
-          "status": "followed-up",
-          "company": "HSTechnologies",
-          "title": "BigData/Hadoop Administrator",
-          "sent_at": "[redacted]T16:38:22",
-          "last_activity": "[redacted]T20:29:02",
-          "waiting_days": 2,
-          "replies": 0,
-          "followups": 2
-        },
-        {
-          "status": "followed-up",
-          "company": "Grazitti Interactive",
-          "title": "Lead/Sr. ETL Engineer",
-          "sent_at": "[redacted]T16:38:14",
-          "last_activity": "[redacted]T20:28:58",
-          "waiting_days": 2,
-          "replies": 0,
-          "followups": 2
-        },
-        {
-          "status": "followed-up",
-          "company": "Ashra Technology",
-          "title": "Informatica Developer",
-          "sent_at": "[redacted]T16:38:08",
-          "last_activity": "[redacted]T20:28:55",
-          "waiting_days": 2,
-          "replies": 0,
-          "followups": 2
-        },
-        {
-          "status": "followed-up",
-          "company": "Webner Solutions pvt ltd",
-          "title": "Hadoop Administrator / Big Data Platform Engineer",
-          "sent_at": "[redacted]T16:38:01",
-          "last_activity": "[redacted]T20:28:50",
-          "waiting_days": 2,
-          "replies": 0,
-          "followups": 2
-        },
-        {
-          "status": "followed-up",
-          "company": "TWO95 International, Inc",
-          "title": "Integration Developer - SAP & Informatica MDM | Remote(India) | Contract",
-          "sent_at": "[redacted]T16:37:41",
-          "last_activity": "[redacted]T20:28:47",
-          "waiting_days": 2,
-          "replies": 0,
-          "followups": 2
-        },
-        {
-          "status": "followed-up",
-          "company": "E Hook Systems",
-          "title": "Teradata DBA",
-          "sent_at": "[redacted]T16:37:34",
-          "last_activity": "[redacted]T20:28:43",
-          "waiting_days": 2,
-          "replies": 0,
-          "followups": 2
         }
       ]
     },
@@ -3743,11 +3743,11 @@
         "Tosca / SAP / Playwright Automation"
       ],
       "stats": {
-        "jobs": 1078,
-        "matched": 935,
+        "jobs": 1080,
+        "matched": 937,
         "applied": 143,
         "applied_this_week": 11,
-        "desk": 935,
+        "desk": 937,
         "hidden_other_track": 2,
         "daily_remaining": 50,
         "daily_limit": 50,
