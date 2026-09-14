@@ -1,5 +1,5 @@
 {
-  "updated_at": "[redacted]T13:56:14+00:00",
+  "updated_at": "[redacted]T14:19:45+00:00",
   "pages_url": "https://raviacn95.github.io/job-apply-status/",
   "users": [
     {
@@ -21,7 +21,7 @@
         "hidden_other_track": 55,
         "daily_remaining": 50,
         "daily_limit": 50,
-        "last_cycle_at": "[redacted]T13:49:38+00:00",
+        "last_cycle_at": "[redacted]T14:12:38+00:00",
         "last_apply_at": "[redacted]T18:28:56"
       },
       "mail": {
@@ -33,8 +33,8 @@
       },
       "runs": [
         {
-          "id": 218,
-          "started_at": "[redacted]T13:49:38+00:00",
+          "id": 219,
+          "started_at": "[redacted]T14:12:38+00:00",
           "finished_at": "",
           "status": "running",
           "live": true,
@@ -46,6 +46,22 @@
           "replies": 0,
           "bounces": 0,
           "duration_sec": 0.0,
+          "google_429": 0
+        },
+        {
+          "id": 218,
+          "started_at": "[redacted]T13:49:38+00:00",
+          "finished_at": "[redacted]T13:56:46+00:00",
+          "status": "ok",
+          "live": true,
+          "ingested": 0,
+          "scanned": 16,
+          "applied": 0,
+          "queued": 141,
+          "errors": 0,
+          "replies": 0,
+          "bounces": 0,
+          "duration_sec": 428.0,
           "google_429": 0
         },
         {
@@ -654,22 +670,6 @@
           "replies": 0,
           "bounces": 0,
           "duration_sec": 419.0,
-          "google_429": 0
-        },
-        {
-          "id": 179,
-          "started_at": "[redacted]T08:32:38+00:00",
-          "finished_at": "[redacted]T08:39:31+00:00",
-          "status": "ok",
-          "live": true,
-          "ingested": 0,
-          "scanned": 16,
-          "applied": 0,
-          "queued": 141,
-          "errors": 0,
-          "replies": 0,
-          "bounces": 0,
-          "duration_sec": 413.0,
           "google_429": 0
         }
       ],
@@ -3743,11 +3743,11 @@
         "Tosca / SAP / Playwright Automation"
       ],
       "stats": {
-        "jobs": 1082,
-        "matched": 939,
+        "jobs": 1083,
+        "matched": 940,
         "applied": 143,
         "applied_this_week": 8,
-        "desk": 939,
+        "desk": 940,
         "hidden_other_track": 2,
         "daily_remaining": 50,
         "daily_limit": 50,
