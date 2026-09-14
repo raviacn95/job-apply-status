@@ -1,5 +1,5 @@
 {
-  "updated_at": "[redacted]T22:30:01+00:00",
+  "updated_at": "[redacted]T23:10:03+00:00",
   "pages_url": "https://raviacn95.github.io/job-apply-status/",
   "users": [
     {
@@ -21,7 +21,7 @@
         "hidden_other_track": 56,
         "daily_remaining": 49,
         "daily_limit": 50,
-        "last_cycle_at": "[redacted]T22:22:38+00:00",
+        "last_cycle_at": "[redacted]T22:58:03+00:00",
         "last_apply_at": "[redacted]T14:31:09"
       },
       "mail": {
@@ -33,8 +33,8 @@
       },
       "runs": [
         {
-          "id": 228,
-          "started_at": "[redacted]T22:22:38+00:00",
+          "id": 229,
+          "started_at": "[redacted]T22:58:03+00:00",
           "finished_at": "",
           "status": "running",
           "live": true,
@@ -46,6 +46,22 @@
           "replies": 0,
           "bounces": 0,
           "duration_sec": 0.0,
+          "google_429": 0
+        },
+        {
+          "id": 228,
+          "started_at": "[redacted]T22:22:38+00:00",
+          "finished_at": "[redacted]T22:30:27+00:00",
+          "status": "ok",
+          "live": false,
+          "ingested": 1,
+          "scanned": 17,
+          "applied": 0,
+          "queued": 142,
+          "errors": 0,
+          "replies": 0,
+          "bounces": 0,
+          "duration_sec": 469.0,
           "google_429": 0
         },
         {
@@ -654,22 +670,6 @@
           "replies": 0,
           "bounces": 0,
           "duration_sec": 302.0,
-          "google_429": 0
-        },
-        {
-          "id": 189,
-          "started_at": "[redacted]T17:12:05+00:00",
-          "finished_at": "[redacted]T17:17:43+00:00",
-          "status": "ok",
-          "live": false,
-          "ingested": 0,
-          "scanned": 16,
-          "applied": 0,
-          "queued": 141,
-          "errors": 0,
-          "replies": 0,
-          "bounces": 0,
-          "duration_sec": 338.0,
           "google_429": 0
         }
       ],
@@ -4549,7 +4549,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T22:31:25",
           "first_seen_at": "[redacted]T22:31:20",
-          "age_days": 3,
+          "age_days": 4,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -6553,7 +6553,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T22:31:25",
           "first_seen_at": "[redacted]T22:31:20",
-          "age_days": 3,
+          "age_days": 4,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -7486,7 +7486,7 @@
           "title": "OpenText xECM for SAP Solutions Architect",
           "sent_at": "[redacted]T22:31:25",
           "last_activity": "[redacted]T22:31:25",
-          "waiting_days": 3,
+          "waiting_days": 4,
           "replies": 0,
           "followups": 0
         },
