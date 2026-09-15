@@ -1,5 +1,5 @@
 {
-  "updated_at": "[redacted]T08:59:27+00:00",
+  "updated_at": "[redacted]T15:17:41+00:00",
   "pages_url": "https://raviacn95.github.io/job-apply-status/",
   "users": [
     {
@@ -13,28 +13,28 @@
         "Teradata DBA"
       ],
       "stats": {
-        "jobs": 194,
+        "jobs": 195,
         "matched": 158,
-        "applied": 36,
-        "applied_this_week": 3,
+        "applied": 37,
+        "applied_this_week": 4,
         "desk": 158,
         "hidden_other_track": 58,
-        "daily_remaining": 50,
+        "daily_remaining": 49,
         "daily_limit": 50,
-        "last_cycle_at": "[redacted]T08:52:38+00:00",
-        "last_apply_at": "[redacted]T14:31:09"
+        "last_cycle_at": "[redacted]T15:10:09+00:00",
+        "last_apply_at": "[redacted]T15:15:40"
       },
       "mail": {
-        "threads": 36,
-        "waiting": 3,
+        "threads": 37,
+        "waiting": 4,
         "followup_due": 29,
         "replied": 4,
         "bounced": 0
       },
       "runs": [
         {
-          "id": 241,
-          "started_at": "[redacted]T08:52:38+00:00",
+          "id": 244,
+          "started_at": "[redacted]T15:10:09+00:00",
           "finished_at": "",
           "status": "running",
           "live": true,
@@ -46,6 +46,54 @@
           "replies": 0,
           "bounces": 0,
           "duration_sec": 0.0,
+          "google_429": 0
+        },
+        {
+          "id": 243,
+          "started_at": "[redacted]T13:06:49+00:00",
+          "finished_at": "",
+          "status": "running",
+          "live": true,
+          "ingested": 0,
+          "scanned": 0,
+          "applied": 0,
+          "queued": 0,
+          "errors": 0,
+          "replies": 0,
+          "bounces": 0,
+          "duration_sec": 0.0,
+          "google_429": 0
+        },
+        {
+          "id": 242,
+          "started_at": "[redacted]T09:33:30+00:00",
+          "finished_at": "",
+          "status": "running",
+          "live": true,
+          "ingested": 0,
+          "scanned": 0,
+          "applied": 0,
+          "queued": 0,
+          "errors": 0,
+          "replies": 0,
+          "bounces": 0,
+          "duration_sec": 0.0,
+          "google_429": 0
+        },
+        {
+          "id": 241,
+          "started_at": "[redacted]T08:52:38+00:00",
+          "finished_at": "[redacted]T08:59:36+00:00",
+          "status": "ok",
+          "live": true,
+          "ingested": 0,
+          "scanned": 16,
+          "applied": 0,
+          "queued": 142,
+          "errors": 0,
+          "replies": 0,
+          "bounces": 0,
+          "duration_sec": 418.0,
           "google_429": 0
         },
         {
@@ -623,57 +671,29 @@
           "bounces": 0,
           "duration_sec": 332.0,
           "google_429": 0
-        },
-        {
-          "id": 204,
-          "started_at": "[redacted]T19:09:58+00:00",
-          "finished_at": "[redacted]T19:17:07+00:00",
-          "status": "ok",
-          "live": false,
-          "ingested": 1,
-          "scanned": 17,
-          "applied": 0,
-          "queued": 141,
-          "errors": 0,
-          "replies": 0,
-          "bounces": 0,
-          "duration_sec": 429.0,
-          "google_429": 0
-        },
-        {
-          "id": 203,
-          "started_at": "[redacted]T01:27:38+00:00",
-          "finished_at": "[redacted]T01:32:10+00:00",
-          "status": "ok",
-          "live": false,
-          "ingested": 0,
-          "scanned": 16,
-          "applied": 0,
-          "queued": 141,
-          "errors": 0,
-          "replies": 0,
-          "bounces": 0,
-          "duration_sec": 272.0,
-          "google_429": 0
-        },
-        {
-          "id": 202,
-          "started_at": "[redacted]T00:52:38+00:00",
-          "finished_at": "[redacted]T00:57:21+00:00",
-          "status": "ok",
-          "live": false,
-          "ingested": 0,
-          "scanned": 16,
-          "applied": 0,
-          "queued": 141,
-          "errors": 0,
-          "replies": 0,
-          "bounces": 0,
-          "duration_sec": 283.0,
-          "google_429": 0
         }
       ],
       "applied_jobs": [
+        {
+          "id": 324,
+          "status": "applied",
+          "track": "teradata_dba",
+          "track_label": "Teradata DBA",
+          "score": 28.0,
+          "company": "Conduent",
+          "title": "Informatica Developer",
+          "location": "Remote, US",
+          "source": "harvest_teradata",
+          "url": "https://www.indeed.com/viewjob?jk=6ca942cf6ed6da31",
+          "channel": "email",
+          "applied_via": "email",
+          "applied_at": "[redacted]T15:15:40",
+          "first_seen_at": "[redacted]T15:15:35",
+          "age_days": 0,
+          "ctc": "unlisted",
+          "outcome": "",
+          "on_track": true
+        },
         {
           "id": 309,
           "status": "applied",
@@ -689,7 +709,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T14:31:09",
           "first_seen_at": "[redacted]T14:31:04",
-          "age_days": 0,
+          "age_days": 1,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -729,7 +749,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T12:28:03",
           "first_seen_at": "[redacted]T12:27:58",
-          "age_days": 4,
+          "age_days": 5,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -1691,7 +1711,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T12:28:06",
-          "age_days": 4,
+          "age_days": 5,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -1711,7 +1731,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T10:28:41",
-          "age_days": 4,
+          "age_days": 5,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -1731,7 +1751,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T09:31:20",
-          "age_days": 4,
+          "age_days": 5,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -1751,7 +1771,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T11:35:19",
-          "age_days": 5,
+          "age_days": 6,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -2399,6 +2419,26 @@
       ],
       "jobs": [
         {
+          "id": 324,
+          "status": "applied",
+          "track": "teradata_dba",
+          "track_label": "Teradata DBA",
+          "score": 28.0,
+          "company": "Conduent",
+          "title": "Informatica Developer",
+          "location": "Remote, US",
+          "source": "harvest_teradata",
+          "url": "https://www.indeed.com/viewjob?jk=6ca942cf6ed6da31",
+          "channel": "email",
+          "applied_via": "email",
+          "applied_at": "[redacted]T15:15:40",
+          "first_seen_at": "[redacted]T15:15:35",
+          "age_days": 0,
+          "ctc": "unlisted",
+          "outcome": "",
+          "on_track": true
+        },
+        {
           "id": 309,
           "status": "applied",
           "track": "teradata_dba",
@@ -2413,7 +2453,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T14:31:09",
           "first_seen_at": "[redacted]T14:31:04",
-          "age_days": 0,
+          "age_days": 1,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -2453,7 +2493,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T12:28:03",
           "first_seen_at": "[redacted]T12:27:58",
-          "age_days": 4,
+          "age_days": 5,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -3377,26 +3417,6 @@
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
-        },
-        {
-          "id": 298,
-          "status": "matched",
-          "track": "teradata_dba",
-          "track_label": "Teradata DBA",
-          "score": 28.0,
-          "company": "Testunity",
-          "title": "Data Engineer with SQL Server Integration Service (SSIS)",
-          "location": "KA, IN",
-          "source": "harvest_teradata",
-          "url": "https://in.indeed.com/viewjob?jk=9b4ccc236ae7e2f5",
-          "channel": "apply desk",
-          "applied_via": "",
-          "applied_at": "",
-          "first_seen_at": "[redacted]T18:30:50",
-          "age_days": 3,
-          "ctc": "unlisted",
-          "outcome": "",
-          "on_track": true
         }
       ],
       "threads": [
@@ -3732,11 +3752,21 @@
         },
         {
           "status": "sent-waiting",
+          "company": "Conduent",
+          "title": "Informatica Developer",
+          "sent_at": "[redacted]T15:15:40",
+          "last_activity": "[redacted]T15:15:40",
+          "waiting_days": 0,
+          "replies": 0,
+          "followups": 0
+        },
+        {
+          "status": "sent-waiting",
           "company": "CloudLabs Inc",
           "title": "Senior Informatica MDM Cloud Developer - India Remote",
           "sent_at": "[redacted]T14:31:09",
           "last_activity": "[redacted]T14:31:09",
-          "waiting_days": 0,
+          "waiting_days": 1,
           "replies": 0,
           "followups": 0
         },
@@ -3773,11 +3803,11 @@
         "Tosca / SAP / Playwright Automation"
       ],
       "stats": {
-        "jobs": 1097,
-        "matched": 954,
+        "jobs": 1100,
+        "matched": 957,
         "applied": 143,
-        "applied_this_week": 8,
-        "desk": 954,
+        "applied_this_week": 7,
+        "desk": 957,
         "hidden_other_track": 2,
         "daily_remaining": 50,
         "daily_limit": 50,
@@ -3786,8 +3816,8 @@
       },
       "mail": {
         "threads": 144,
-        "waiting": 1,
-        "followup_due": 133,
+        "waiting": 0,
+        "followup_due": 134,
         "replied": 10,
         "bounced": 0
       },
@@ -4449,7 +4479,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T12:19:45",
           "first_seen_at": "[redacted]T12:19:40",
-          "age_days": 2,
+          "age_days": 3,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -4589,7 +4619,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T09:32:28",
           "first_seen_at": "[redacted]T09:32:23",
-          "age_days": 6,
+          "age_days": 7,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -5451,7 +5481,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T13:35:12",
-          "age_days": 14,
+          "age_days": 15,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -5471,7 +5501,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T13:34:19",
-          "age_days": 16,
+          "age_days": 17,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -5491,7 +5521,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T12:59:47",
-          "age_days": 16,
+          "age_days": 17,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -5531,7 +5561,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T13:35:20",
-          "age_days": 14,
+          "age_days": 15,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -5551,7 +5581,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T13:35:13",
-          "age_days": 14,
+          "age_days": 15,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -5571,7 +5601,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T12:59:34",
-          "age_days": 16,
+          "age_days": 17,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -5631,7 +5661,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T12:59:40",
-          "age_days": 16,
+          "age_days": 17,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -5651,7 +5681,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T12:59:33",
-          "age_days": 16,
+          "age_days": 17,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -5711,7 +5741,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T12:59:41",
-          "age_days": 16,
+          "age_days": 17,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -5751,7 +5781,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T12:59:56",
-          "age_days": 16,
+          "age_days": 17,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -5771,7 +5801,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T12:59:40",
-          "age_days": 16,
+          "age_days": 17,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -5811,7 +5841,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T12:59:57",
-          "age_days": 16,
+          "age_days": 17,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -5831,7 +5861,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T12:59:56",
-          "age_days": 16,
+          "age_days": 17,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -5851,7 +5881,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T12:59:43",
-          "age_days": 16,
+          "age_days": 17,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -5891,7 +5921,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T13:34:39",
-          "age_days": 16,
+          "age_days": 17,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -5951,7 +5981,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T12:28:47",
-          "age_days": 16,
+          "age_days": 17,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -6031,7 +6061,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T12:59:38",
-          "age_days": 16,
+          "age_days": 17,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -6051,7 +6081,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T12:59:55",
-          "age_days": 16,
+          "age_days": 17,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -6071,7 +6101,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T13:34:37",
-          "age_days": 16,
+          "age_days": 17,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -6111,7 +6141,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T13:35:32",
-          "age_days": 16,
+          "age_days": 17,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -6251,7 +6281,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T12:28:52",
-          "age_days": 16,
+          "age_days": 17,
           "ctc": "166 LPA",
           "outcome": "",
           "on_track": true
@@ -6391,7 +6421,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T12:28:36",
-          "age_days": 16,
+          "age_days": 17,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -6453,7 +6483,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T12:19:45",
           "first_seen_at": "[redacted]T12:19:40",
-          "age_days": 2,
+          "age_days": 3,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -6593,7 +6623,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T09:32:28",
           "first_seen_at": "[redacted]T09:32:23",
-          "age_days": 6,
+          "age_days": 7,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -7442,6 +7472,16 @@
       "threads": [
         {
           "status": "follow-up-due",
+          "company": "x1F GmbH",
+          "title": "Architect/Consultant SAP Business Technology Platform (BTP) (m/f/d)",
+          "sent_at": "[redacted]T12:19:45",
+          "last_activity": "[redacted]T12:19:45",
+          "waiting_days": 3,
+          "replies": 0,
+          "followups": 0
+        },
+        {
+          "status": "follow-up-due",
           "company": "QESTIT",
           "title": "Senior Consultant SAP Test Management",
           "sent_at": "[redacted]T19:33:50",
@@ -7586,7 +7626,7 @@
           "title": "Payroll coordinator",
           "sent_at": "[redacted]T09:32:28",
           "last_activity": "[redacted]T09:32:28",
-          "waiting_days": 6,
+          "waiting_days": 7,
           "replies": 0,
           "followups": 0
         },
@@ -7826,16 +7866,6 @@
           "title": "Sustainability Consultant (SAP, OCDEA) - Remote",
           "sent_at": "[redacted]T04:16:12",
           "last_activity": "[redacted]T04:16:12",
-          "waiting_days": 11,
-          "replies": 0,
-          "followups": 0
-        },
-        {
-          "status": "follow-up-due",
-          "company": "IT Resonance Private Limited",
-          "title": "SAP BW on HANA developer with hands-on AMDP",
-          "sent_at": "[redacted]T04:16:06",
-          "last_activity": "[redacted]T04:16:06",
           "waiting_days": 11,
           "replies": 0,
           "followups": 0
