@@ -1,5 +1,5 @@
 {
-  "updated_at": "[redacted]T14:09:14+00:00",
+  "updated_at": "[redacted]T14:42:54+00:00",
   "pages_url": "https://raviacn95.github.io/job-apply-status/",
   "users": [
     {
@@ -13,15 +13,15 @@
         "Teradata DBA"
       ],
       "stats": {
-        "jobs": 200,
-        "matched": 161,
+        "jobs": 201,
+        "matched": 162,
         "applied": 39,
         "applied_this_week": 6,
-        "desk": 161,
+        "desk": 162,
         "hidden_other_track": 60,
         "daily_remaining": 48,
         "daily_limit": 50,
-        "last_cycle_at": "[redacted]T14:02:38+00:00",
+        "last_cycle_at": "[redacted]T14:37:38+00:00",
         "last_apply_at": "[redacted]T05:23:29"
       },
       "mail": {
@@ -33,8 +33,8 @@
       },
       "runs": [
         {
-          "id": 260,
-          "started_at": "[redacted]T14:02:38+00:00",
+          "id": 261,
+          "started_at": "[redacted]T14:37:38+00:00",
           "finished_at": "",
           "status": "running",
           "live": true,
@@ -46,6 +46,22 @@
           "replies": 0,
           "bounces": 0,
           "duration_sec": 0.0,
+          "google_429": 0
+        },
+        {
+          "id": 260,
+          "started_at": "[redacted]T14:02:38+00:00",
+          "finished_at": "[redacted]T14:09:24+00:00",
+          "status": "ok",
+          "live": true,
+          "ingested": 0,
+          "scanned": 16,
+          "applied": 0,
+          "queued": 145,
+          "errors": 0,
+          "replies": 0,
+          "bounces": 0,
+          "duration_sec": 406.0,
           "google_429": 0
         },
         {
@@ -655,22 +671,6 @@
           "bounces": 0,
           "duration_sec": 426.0,
           "google_429": 0
-        },
-        {
-          "id": 221,
-          "started_at": "[redacted]T18:37:18+00:00",
-          "finished_at": "[redacted]T18:44:56+00:00",
-          "status": "ok",
-          "live": false,
-          "ingested": 5,
-          "scanned": 21,
-          "applied": 0,
-          "queued": 140,
-          "errors": 0,
-          "replies": 0,
-          "bounces": 0,
-          "duration_sec": 458.0,
-          "google_429": 0
         }
       ],
       "applied_jobs": [
@@ -749,7 +749,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T14:31:09",
           "first_seen_at": "[redacted]T14:31:04",
-          "age_days": 1,
+          "age_days": 2,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -1597,6 +1597,26 @@
           "on_track": true
         },
         {
+          "id": 333,
+          "status": "matched",
+          "track": "teradata_dba",
+          "track_label": "Teradata DBA",
+          "score": 28.0,
+          "company": "IQVIA",
+          "title": "Snowflake + ETL Developer",
+          "location": "KA, IN",
+          "source": "harvest_teradata",
+          "url": "https://in.indeed.com/viewjob?jk=6d[redacted]",
+          "channel": "apply desk",
+          "applied_via": "",
+          "applied_at": "",
+          "first_seen_at": "[redacted]T14:27:55",
+          "age_days": 0,
+          "ctc": "unlisted",
+          "outcome": "",
+          "on_track": true
+        },
+        {
           "id": 330,
           "status": "matched",
           "track": "teradata_dba",
@@ -2435,26 +2455,6 @@
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
-        },
-        {
-          "id": 221,
-          "status": "matched",
-          "track": "teradata_dba",
-          "track_label": "Teradata DBA",
-          "score": 28.0,
-          "company": "ADVANCE SOFTWARE ENGINEERING PTE. LTD.",
-          "title": "Principal Data Integration Architect (Informatica IDMC/Databricks)",
-          "location": "Singapore, S00, SG",
-          "source": "harvest_teradata",
-          "url": "https://sg.indeed.com/viewjob?jk=5f146b6f2dc52024",
-          "channel": "apply desk",
-          "applied_via": "",
-          "applied_at": "",
-          "first_seen_at": "[redacted]T16:38:38",
-          "age_days": 11,
-          "ctc": "unlisted",
-          "outcome": "",
-          "on_track": true
         }
       ],
       "jobs": [
@@ -2533,7 +2533,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T14:31:09",
           "first_seen_at": "[redacted]T14:31:04",
-          "age_days": 1,
+          "age_days": 2,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -3379,6 +3379,26 @@
           "on_track": true
         },
         {
+          "id": 333,
+          "status": "matched",
+          "track": "teradata_dba",
+          "track_label": "Teradata DBA",
+          "score": 28.0,
+          "company": "IQVIA",
+          "title": "Snowflake + ETL Developer",
+          "location": "KA, IN",
+          "source": "harvest_teradata",
+          "url": "https://in.indeed.com/viewjob?jk=6d[redacted]",
+          "channel": "apply desk",
+          "applied_via": "",
+          "applied_at": "",
+          "first_seen_at": "[redacted]T14:27:55",
+          "age_days": 0,
+          "ctc": "unlisted",
+          "outcome": "",
+          "on_track": true
+        },
+        {
           "id": 330,
           "status": "matched",
           "track": "teradata_dba",
@@ -3434,26 +3454,6 @@
           "applied_at": "",
           "first_seen_at": "[redacted]T09:24:18",
           "age_days": 0,
-          "ctc": "unlisted",
-          "outcome": "",
-          "on_track": true
-        },
-        {
-          "id": 318,
-          "status": "matched",
-          "track": "teradata_dba",
-          "track_label": "Teradata DBA",
-          "score": 28.0,
-          "company": "Excelitas Technologies",
-          "title": "Sr SQL DBA (SAP Environments)",
-          "location": "Pittsburgh, PA, US",
-          "source": "harvest_teradata",
-          "url": "https://www.indeed.com/viewjob?jk=3a1d1172e9f97467",
-          "channel": "apply desk",
-          "applied_via": "",
-          "applied_at": "",
-          "first_seen_at": "[redacted]T22:25:52",
-          "age_days": 1,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -3826,7 +3826,7 @@
           "title": "Senior Informatica MDM Cloud Developer - India Remote",
           "sent_at": "[redacted]T14:31:09",
           "last_activity": "[redacted]T14:31:09",
-          "waiting_days": 1,
+          "waiting_days": 2,
           "replies": 0,
           "followups": 0
         },
@@ -3863,11 +3863,11 @@
         "Tosca / SAP / Playwright Automation"
       ],
       "stats": {
-        "jobs": 1121,
-        "matched": 978,
+        "jobs": 1122,
+        "matched": 979,
         "applied": 143,
         "applied_this_week": 7,
-        "desk": 978,
+        "desk": 979,
         "hidden_other_track": 2,
         "daily_remaining": 50,
         "daily_limit": 50,
