@@ -1,5 +1,5 @@
 {
-  "updated_at": "[redacted]T15:35:52+00:00",
+  "updated_at": "[redacted]T16:08:30+00:00",
   "pages_url": "https://raviacn95.github.io/job-apply-status/",
   "users": [
     {
@@ -21,7 +21,7 @@
         "hidden_other_track": 68,
         "daily_remaining": 50,
         "daily_limit": 50,
-        "last_cycle_at": "[redacted]T15:05:17+00:00",
+        "last_cycle_at": "[redacted]T16:02:37+00:00",
         "last_apply_at": "[redacted]T05:23:29"
       },
       "mail": {
@@ -32,6 +32,22 @@
         "bounced": 0
       },
       "runs": [
+        {
+          "id": 281,
+          "started_at": "[redacted]T16:02:37+00:00",
+          "finished_at": "",
+          "status": "running",
+          "live": true,
+          "ingested": 0,
+          "scanned": 0,
+          "applied": 0,
+          "queued": 0,
+          "errors": 0,
+          "replies": 0,
+          "bounces": 0,
+          "duration_sec": 0.0,
+          "google_429": 0
+        },
         {
           "id": 280,
           "started_at": "[redacted]T15:05:17+00:00",
@@ -654,22 +670,6 @@
           "replies": 0,
           "bounces": 0,
           "duration_sec": 0.0,
-          "google_429": 0
-        },
-        {
-          "id": 241,
-          "started_at": "[redacted]T08:52:38+00:00",
-          "finished_at": "[redacted]T08:59:36+00:00",
-          "status": "ok",
-          "live": true,
-          "ingested": 0,
-          "scanned": 16,
-          "applied": 0,
-          "queued": 142,
-          "errors": 0,
-          "replies": 0,
-          "bounces": 0,
-          "duration_sec": 418.0,
           "google_429": 0
         }
       ],
@@ -3885,17 +3885,17 @@
         {
           "id": 59,
           "started_at": "[redacted]T15:27:38+00:00",
-          "finished_at": "",
-          "status": "running",
+          "finished_at": "[redacted]T15:36:26+00:00",
+          "status": "ok",
           "live": true,
-          "ingested": 0,
-          "scanned": 0,
-          "applied": 0,
-          "queued": 0,
+          "ingested": 13,
+          "scanned": 20,
+          "applied": 6,
+          "queued": 962,
           "errors": 0,
-          "replies": 0,
+          "replies": 2,
           "bounces": 0,
-          "duration_sec": 0.0,
+          "duration_sec": 528.0,
           "google_429": 0
         },
         {
@@ -5601,7 +5601,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T15:53:21",
-          "age_days": 28,
+          "age_days": 29,
           "ctc": "42 LPA",
           "outcome": "",
           "on_track": true
