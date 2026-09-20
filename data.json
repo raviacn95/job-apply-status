@@ -1,5 +1,5 @@
 {
-  "updated_at": "[redacted]T17:30:04+00:00",
+  "updated_at": "[redacted]T17:56:02+00:00",
   "pages_url": "https://raviacn95.github.io/job-apply-status/",
   "users": [
     {
@@ -21,7 +21,7 @@
         "hidden_other_track": 68,
         "daily_remaining": 50,
         "daily_limit": 50,
-        "last_cycle_at": "[redacted]T16:37:37+00:00",
+        "last_cycle_at": "[redacted]T17:47:38+00:00",
         "last_apply_at": "[redacted]T05:23:29"
       },
       "mail": {
@@ -32,6 +32,22 @@
         "bounced": 0
       },
       "runs": [
+        {
+          "id": 283,
+          "started_at": "[redacted]T17:47:38+00:00",
+          "finished_at": "",
+          "status": "running",
+          "live": true,
+          "ingested": 0,
+          "scanned": 0,
+          "applied": 0,
+          "queued": 0,
+          "errors": 0,
+          "replies": 0,
+          "bounces": 0,
+          "duration_sec": 0.0,
+          "google_429": 0
+        },
         {
           "id": 282,
           "started_at": "[redacted]T16:37:37+00:00",
@@ -654,22 +670,6 @@
           "replies": 0,
           "bounces": 0,
           "duration_sec": 487.0,
-          "google_429": 0
-        },
-        {
-          "id": 243,
-          "started_at": "[redacted]T13:06:49+00:00",
-          "finished_at": "",
-          "status": "running",
-          "live": true,
-          "ingested": 0,
-          "scanned": 0,
-          "applied": 0,
-          "queued": 0,
-          "errors": 0,
-          "replies": 0,
-          "bounces": 0,
-          "duration_sec": 0.0,
           "google_429": 0
         }
       ],
@@ -3776,7 +3776,7 @@
           "title": "Software Engineer Lead (ETL)",
           "sent_at": "[redacted]T16:38:35",
           "last_activity": "[redacted]T17:34:35",
-          "waiting_days": 15,
+          "waiting_days": 16,
           "replies": 1,
           "followups": 1
         },
@@ -3885,17 +3885,17 @@
         {
           "id": 60,
           "started_at": "[redacted]T17:12:37+00:00",
-          "finished_at": "",
-          "status": "running",
-          "live": true,
-          "ingested": 0,
-          "scanned": 0,
+          "finished_at": "[redacted]T17:30:38+00:00",
+          "status": "ok",
+          "live": false,
+          "ingested": 1,
+          "scanned": 41,
           "applied": 0,
-          "queued": 0,
+          "queued": 1000,
           "errors": 0,
           "replies": 0,
           "bounces": 0,
-          "duration_sec": 0.0,
+          "duration_sec": 1081.0,
           "google_429": 0
         },
         {
