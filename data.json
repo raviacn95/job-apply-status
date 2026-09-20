@@ -1,5 +1,5 @@
 {
-  "updated_at": "[redacted]T16:46:14+00:00",
+  "updated_at": "[redacted]T17:30:04+00:00",
   "pages_url": "https://raviacn95.github.io/job-apply-status/",
   "users": [
     {
@@ -35,17 +35,17 @@
         {
           "id": 282,
           "started_at": "[redacted]T16:37:37+00:00",
-          "finished_at": "",
-          "status": "running",
-          "live": true,
-          "ingested": 0,
-          "scanned": 0,
+          "finished_at": "[redacted]T16:46:45+00:00",
+          "status": "ok",
+          "live": false,
+          "ingested": 1,
+          "scanned": 33,
           "applied": 0,
-          "queued": 0,
+          "queued": 151,
           "errors": 0,
           "replies": 0,
           "bounces": 0,
-          "duration_sec": 0.0,
+          "duration_sec": 548.0,
           "google_429": 0
         },
         {
@@ -3863,25 +3863,41 @@
         "Tosca / SAP / Playwright Automation"
       ],
       "stats": {
-        "jobs": 1186,
-        "matched": 1036,
+        "jobs": 1191,
+        "matched": 1041,
         "applied": 150,
         "applied_this_week": 7,
-        "desk": 1036,
+        "desk": 1041,
         "hidden_other_track": 2,
         "daily_remaining": 43,
         "daily_limit": 50,
-        "last_cycle_at": "[redacted]T15:27:38+00:00",
+        "last_cycle_at": "[redacted]T17:12:37+00:00",
         "last_apply_at": "[redacted]T16:32:07"
       },
       "mail": {
         "threads": 151,
-        "waiting": 15,
-        "followup_due": 124,
+        "waiting": 23,
+        "followup_due": 116,
         "replied": 12,
         "bounced": 0
       },
       "runs": [
+        {
+          "id": 60,
+          "started_at": "[redacted]T17:12:37+00:00",
+          "finished_at": "",
+          "status": "running",
+          "live": true,
+          "ingested": 0,
+          "scanned": 0,
+          "applied": 0,
+          "queued": 0,
+          "errors": 0,
+          "replies": 0,
+          "bounces": 0,
+          "duration_sec": 0.0,
+          "google_429": 0
+        },
         {
           "id": 59,
           "started_at": "[redacted]T15:27:38+00:00",
@@ -4505,22 +4521,6 @@
           "bounces": 0,
           "duration_sec": 572.0,
           "google_429": 78
-        },
-        {
-          "id": 20,
-          "started_at": "[redacted]T07:38:42+00:00",
-          "finished_at": "[redacted]T07:48:16+00:00",
-          "status": "ok",
-          "live": true,
-          "ingested": 1,
-          "scanned": 33,
-          "applied": 0,
-          "queued": 40,
-          "errors": 0,
-          "replies": 0,
-          "bounces": 0,
-          "duration_sec": 574.0,
-          "google_429": 79
         }
       ],
       "applied_jobs": [
@@ -4719,7 +4719,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T17:30:05",
           "first_seen_at": "[redacted]T17:30:00",
-          "age_days": 8,
+          "age_days": 9,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -4739,7 +4739,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T17:29:57",
           "first_seen_at": "[redacted]T17:29:52",
-          "age_days": 8,
+          "age_days": 9,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -6723,7 +6723,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T17:30:05",
           "first_seen_at": "[redacted]T17:30:00",
-          "age_days": 8,
+          "age_days": 9,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -6743,7 +6743,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T17:29:57",
           "first_seen_at": "[redacted]T17:29:52",
-          "age_days": 8,
+          "age_days": 9,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -7592,86 +7592,6 @@
         },
         {
           "status": "follow-up-due",
-          "company": "Avery Dennison",
-          "title": "Payroll coordinator",
-          "sent_at": "[redacted]T09:32:28",
-          "last_activity": "[redacted]T09:32:28",
-          "waiting_days": 12,
-          "replies": 0,
-          "followups": 0
-        },
-        {
-          "status": "follow-up-due",
-          "company": "Opt H1B H4EAD GC CITIZEN CPT L2EAD JOBS",
-          "title": "SDET / Individual Contributor experience",
-          "sent_at": "[redacted]T19:58:00",
-          "last_activity": "[redacted]T16:27:34",
-          "waiting_days": 16,
-          "replies": 0,
-          "followups": 1
-        },
-        {
-          "status": "follow-up-due",
-          "company": "Gokul Nath",
-          "title": "Playwright Automation",
-          "sent_at": "[redacted]T19:58:05",
-          "last_activity": "[redacted]T16:27:28",
-          "waiting_days": 16,
-          "replies": 0,
-          "followups": 1
-        },
-        {
-          "status": "follow-up-due",
-          "company": "ghc solutions GmbH",
-          "title": "Tosca Specialist (m/w/d) ghc solutions GmbH",
-          "sent_at": "[redacted]T04:20:09",
-          "last_activity": "[redacted]T04:20:09",
-          "waiting_days": 16,
-          "replies": 0,
-          "followups": 0
-        },
-        {
-          "status": "follow-up-due",
-          "company": "Thought Frameworks",
-          "title": "Tricentis NeoLoad Performance Test Engineer",
-          "sent_at": "[redacted]T04:20:02",
-          "last_activity": "[redacted]T04:20:02",
-          "waiting_days": 16,
-          "replies": 0,
-          "followups": 0
-        },
-        {
-          "status": "follow-up-due",
-          "company": "ANAXON TECHNOLOGIES PVT LTD",
-          "title": "QA Automation Engineer (Tosca + Salesforce) | C2C| Max $55/Hr",
-          "sent_at": "[redacted]T04:19:56",
-          "last_activity": "[redacted]T04:19:56",
-          "waiting_days": 16,
-          "replies": 0,
-          "followups": 0
-        },
-        {
-          "status": "follow-up-due",
-          "company": "TestDel UK Ltd.",
-          "title": "SAP SuccessFactors Tosca Automation Test Analyst",
-          "sent_at": "[redacted]T04:19:49",
-          "last_activity": "[redacted]T04:19:49",
-          "waiting_days": 16,
-          "replies": 0,
-          "followups": 0
-        },
-        {
-          "status": "follow-up-due",
-          "company": "Percipere",
-          "title": "Product Marketing and Community Manager",
-          "sent_at": "[redacted]T04:18:42",
-          "last_activity": "[redacted]T04:18:42",
-          "waiting_days": 16,
-          "replies": 0,
-          "followups": 0
-        },
-        {
-          "status": "follow-up-due",
           "company": "teamative",
           "title": "Senior Consultant ServiceNow ITOM / CMDB",
           "sent_at": "[redacted]T04:18:35",
@@ -7926,6 +7846,86 @@
           "title": "Senior Solution Engineer - SAP ABAP (m/w/d)",
           "sent_at": "[redacted]T04:15:03",
           "last_activity": "[redacted]T04:15:03",
+          "waiting_days": 16,
+          "replies": 0,
+          "followups": 0
+        },
+        {
+          "status": "follow-up-due",
+          "company": "Bilfinger",
+          "title": "SAP Logistics Specialist CS/EAM (m/w/d) / Inhouse Consultant SAP CS/EAM (m/w/d)",
+          "sent_at": "[redacted]T04:14:56",
+          "last_activity": "[redacted]T04:14:56",
+          "waiting_days": 16,
+          "replies": 0,
+          "followups": 0
+        },
+        {
+          "status": "follow-up-due",
+          "company": "BV Teck",
+          "title": "SAP Front-end Developer",
+          "sent_at": "[redacted]T04:14:41",
+          "last_activity": "[redacted]T04:14:41",
+          "waiting_days": 16,
+          "replies": 0,
+          "followups": 0
+        },
+        {
+          "status": "follow-up-due",
+          "company": "Atlas Copco Group",
+          "title": "SAP Delivery Manager",
+          "sent_at": "[redacted]T04:14:35",
+          "last_activity": "[redacted]T04:14:35",
+          "waiting_days": 16,
+          "replies": 0,
+          "followups": 0
+        },
+        {
+          "status": "follow-up-due",
+          "company": "wynwood tech LLC",
+          "title": "SAP Sales Cloud Berater - 100% remote, Vollzeit/Teilzeit, langfristiges Projekt",
+          "sent_at": "[redacted]T04:14:28",
+          "last_activity": "[redacted]T04:14:28",
+          "waiting_days": 16,
+          "replies": 0,
+          "followups": 0
+        },
+        {
+          "status": "follow-up-due",
+          "company": "Sycor GmbH",
+          "title": "Head of SAP PreSales & Advisory (m/w/d)",
+          "sent_at": "[redacted]T04:14:12",
+          "last_activity": "[redacted]T04:14:12",
+          "waiting_days": 16,
+          "replies": 0,
+          "followups": 0
+        },
+        {
+          "status": "follow-up-due",
+          "company": "QualiStack GmbH",
+          "title": "SAP HCM Berater (m/w/d)",
+          "sent_at": "[redacted]T04:14:05",
+          "last_activity": "[redacted]T04:14:05",
+          "waiting_days": 16,
+          "replies": 0,
+          "followups": 0
+        },
+        {
+          "status": "follow-up-due",
+          "company": "Unknown",
+          "title": "SAP Application Engineer (m/f/d)",
+          "sent_at": "[redacted]T04:13:58",
+          "last_activity": "[redacted]T04:13:58",
+          "waiting_days": 16,
+          "replies": 0,
+          "followups": 0
+        },
+        {
+          "status": "follow-up-due",
+          "company": "Hydro",
+          "title": "SAP FICO Consultant",
+          "sent_at": "[redacted]T04:13:51",
+          "last_activity": "[redacted]T04:13:51",
           "waiting_days": 16,
           "replies": 0,
           "followups": 0
