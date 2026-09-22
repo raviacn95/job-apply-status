@@ -1,5 +1,5 @@
 {
-  "updated_at": "[redacted]T20:08:21+00:00",
+  "updated_at": "[redacted]T20:39:17+00:00",
   "pages_url": "https://raviacn95.github.io/job-apply-status/",
   "users": [
     {
@@ -21,7 +21,7 @@
         "hidden_other_track": 72,
         "daily_remaining": 48,
         "daily_limit": 50,
-        "last_cycle_at": "[redacted]T19:57:38+00:00",
+        "last_cycle_at": "[redacted]T20:32:38+00:00",
         "last_apply_at": "[redacted]T11:30:49"
       },
       "mail": {
@@ -33,8 +33,8 @@
       },
       "runs": [
         {
-          "id": 315,
-          "started_at": "[redacted]T19:57:38+00:00",
+          "id": 316,
+          "started_at": "[redacted]T20:32:38+00:00",
           "finished_at": "",
           "status": "running",
           "live": true,
@@ -46,6 +46,22 @@
           "replies": 0,
           "bounces": 0,
           "duration_sec": 0.0,
+          "google_429": 0
+        },
+        {
+          "id": 315,
+          "started_at": "[redacted]T19:57:38+00:00",
+          "finished_at": "[redacted]T20:09:11+00:00",
+          "status": "ok",
+          "live": true,
+          "ingested": 0,
+          "scanned": 32,
+          "applied": 0,
+          "queued": 221,
+          "errors": 0,
+          "replies": 0,
+          "bounces": 0,
+          "duration_sec": 693.0,
           "google_429": 0
         },
         {
@@ -654,22 +670,6 @@
           "replies": 0,
           "bounces": 0,
           "duration_sec": 509.0,
-          "google_429": 0
-        },
-        {
-          "id": 276,
-          "started_at": "[redacted]T21:27:37+00:00",
-          "finished_at": "[redacted]T21:36:36+00:00",
-          "status": "ok",
-          "live": false,
-          "ingested": 0,
-          "scanned": 24,
-          "applied": 0,
-          "queued": 151,
-          "errors": 0,
-          "replies": 0,
-          "bounces": 0,
-          "duration_sec": 539.0,
           "google_429": 0
         }
       ],
@@ -3636,7 +3636,7 @@
           "title": "Remote BI ETL Consultant",
           "sent_at": "[redacted]T16:41:26",
           "last_activity": "[redacted]T20:29:09",
-          "waiting_days": 11,
+          "waiting_days": 12,
           "replies": 0,
           "followups": 2
         },
@@ -3646,7 +3646,7 @@
           "title": "Informatica Engineer",
           "sent_at": "[redacted]T16:38:28",
           "last_activity": "[redacted]T20:29:05",
-          "waiting_days": 11,
+          "waiting_days": 12,
           "replies": 0,
           "followups": 2
         },
@@ -3656,7 +3656,7 @@
           "title": "BigData/Hadoop Administrator",
           "sent_at": "[redacted]T16:38:22",
           "last_activity": "[redacted]T20:29:02",
-          "waiting_days": 11,
+          "waiting_days": 12,
           "replies": 0,
           "followups": 2
         },
@@ -3666,7 +3666,7 @@
           "title": "Lead/Sr. ETL Engineer",
           "sent_at": "[redacted]T16:38:14",
           "last_activity": "[redacted]T20:28:58",
-          "waiting_days": 11,
+          "waiting_days": 12,
           "replies": 0,
           "followups": 2
         },
@@ -3676,7 +3676,7 @@
           "title": "Informatica Developer",
           "sent_at": "[redacted]T16:38:08",
           "last_activity": "[redacted]T20:28:55",
-          "waiting_days": 11,
+          "waiting_days": 12,
           "replies": 0,
           "followups": 2
         },
@@ -3686,7 +3686,7 @@
           "title": "Hadoop Administrator / Big Data Platform Engineer",
           "sent_at": "[redacted]T16:38:01",
           "last_activity": "[redacted]T20:28:50",
-          "waiting_days": 11,
+          "waiting_days": 12,
           "replies": 0,
           "followups": 2
         },
@@ -3696,7 +3696,7 @@
           "title": "Integration Developer - SAP & Informatica MDM | Remote(India) | Contract",
           "sent_at": "[redacted]T16:37:41",
           "last_activity": "[redacted]T20:28:47",
-          "waiting_days": 11,
+          "waiting_days": 12,
           "replies": 0,
           "followups": 2
         },
@@ -3706,7 +3706,7 @@
           "title": "Teradata DBA",
           "sent_at": "[redacted]T16:37:34",
           "last_activity": "[redacted]T20:28:43",
-          "waiting_days": 11,
+          "waiting_days": 12,
           "replies": 0,
           "followups": 2
         },
@@ -3856,7 +3856,7 @@
           "title": "Senior Informatica MDM Cloud Developer - India Remote",
           "sent_at": "[redacted]T14:31:09",
           "last_activity": "[redacted]T15:13:38",
-          "waiting_days": 1,
+          "waiting_days": 2,
           "replies": 1,
           "followups": 2
         },
@@ -3866,7 +3866,7 @@
           "title": "Sr Test Engineer -ETL",
           "sent_at": "[redacted]T20:08:37",
           "last_activity": "[redacted]T20:12:04",
-          "waiting_days": 1,
+          "waiting_days": 2,
           "replies": 1,
           "followups": 0
         },
