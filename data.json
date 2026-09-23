@@ -1,5 +1,5 @@
 {
-  "updated_at": "[redacted]T22:19:07+00:00",
+  "updated_at": "[redacted]T22:59:14+00:00",
   "pages_url": "https://raviacn95.github.io/job-apply-status/",
   "users": [
     {
@@ -21,7 +21,7 @@
         "hidden_other_track": 76,
         "daily_remaining": 50,
         "daily_limit": 50,
-        "last_cycle_at": "[redacted]T22:12:38+00:00",
+        "last_cycle_at": "[redacted]T22:47:38+00:00",
         "last_apply_at": "[redacted]T11:30:49"
       },
       "mail": {
@@ -33,8 +33,8 @@
       },
       "runs": [
         {
-          "id": 353,
-          "started_at": "[redacted]T22:12:38+00:00",
+          "id": 354,
+          "started_at": "[redacted]T22:47:38+00:00",
           "finished_at": "",
           "status": "running",
           "live": true,
@@ -46,6 +46,22 @@
           "replies": 0,
           "bounces": 0,
           "duration_sec": 0.0,
+          "google_429": 0
+        },
+        {
+          "id": 353,
+          "started_at": "[redacted]T22:12:38+00:00",
+          "finished_at": "[redacted]T22:19:29+00:00",
+          "status": "ok",
+          "live": true,
+          "ingested": 1,
+          "scanned": 41,
+          "applied": 0,
+          "queued": 222,
+          "errors": 0,
+          "replies": 0,
+          "bounces": 0,
+          "duration_sec": 411.0,
           "google_429": 0
         },
         {
@@ -654,22 +670,6 @@
           "replies": 0,
           "bounces": 0,
           "duration_sec": 693.0,
-          "google_429": 0
-        },
-        {
-          "id": 314,
-          "started_at": "[redacted]T19:22:38+00:00",
-          "finished_at": "[redacted]T19:31:51+00:00",
-          "status": "ok",
-          "live": true,
-          "ingested": 0,
-          "scanned": 32,
-          "applied": 0,
-          "queued": 221,
-          "errors": 0,
-          "replies": 0,
-          "bounces": 0,
-          "duration_sec": 553.0,
           "google_429": 0
         }
       ],
@@ -3953,11 +3953,11 @@
         "Tosca / SAP / Playwright Automation"
       ],
       "stats": {
-        "jobs": 1230,
-        "matched": 1078,
+        "jobs": 1231,
+        "matched": 1079,
         "applied": 152,
         "applied_this_week": 9,
-        "desk": 1078,
+        "desk": 1079,
         "hidden_other_track": 2,
         "daily_remaining": 50,
         "daily_limit": 50,
@@ -4909,7 +4909,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T22:31:25",
           "first_seen_at": "[redacted]T22:31:20",
-          "age_days": 12,
+          "age_days": 13,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -4929,7 +4929,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T22:26:54",
           "first_seen_at": "[redacted]T22:26:49",
-          "age_days": 13,
+          "age_days": 14,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -6913,7 +6913,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T22:31:25",
           "first_seen_at": "[redacted]T22:31:20",
-          "age_days": 12,
+          "age_days": 13,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -6933,7 +6933,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T22:26:54",
           "first_seen_at": "[redacted]T22:26:49",
-          "age_days": 13,
+          "age_days": 14,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
