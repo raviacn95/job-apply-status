@@ -1,5 +1,5 @@
 {
-  "updated_at": "[redacted]T11:14:48+00:00",
+  "updated_at": "[redacted]T11:48:44+00:00",
   "pages_url": "https://raviacn95.github.io/job-apply-status/",
   "users": [
     {
@@ -21,7 +21,7 @@
         "hidden_other_track": 73,
         "daily_remaining": 50,
         "daily_limit": 50,
-        "last_cycle_at": "[redacted]T11:07:38+00:00",
+        "last_cycle_at": "[redacted]T11:42:40+00:00",
         "last_apply_at": "[redacted]T11:30:49"
       },
       "mail": {
@@ -33,8 +33,8 @@
       },
       "runs": [
         {
-          "id": 337,
-          "started_at": "[redacted]T11:07:38+00:00",
+          "id": 338,
+          "started_at": "[redacted]T11:42:40+00:00",
           "finished_at": "",
           "status": "running",
           "live": true,
@@ -46,6 +46,22 @@
           "replies": 0,
           "bounces": 0,
           "duration_sec": 0.0,
+          "google_429": 0
+        },
+        {
+          "id": 337,
+          "started_at": "[redacted]T11:07:38+00:00",
+          "finished_at": "[redacted]T11:15:12+00:00",
+          "status": "ok",
+          "live": true,
+          "ingested": 0,
+          "scanned": 32,
+          "applied": 0,
+          "queued": 221,
+          "errors": 0,
+          "replies": 0,
+          "bounces": 0,
+          "duration_sec": 454.0,
           "google_429": 0
         },
         {
@@ -655,22 +671,6 @@
           "bounces": 0,
           "duration_sec": 0.0,
           "google_429": 0
-        },
-        {
-          "id": 298,
-          "started_at": "[redacted]T06:32:38+00:00",
-          "finished_at": "",
-          "status": "running",
-          "live": true,
-          "ingested": 0,
-          "scanned": 0,
-          "applied": 0,
-          "queued": 0,
-          "errors": 0,
-          "replies": 0,
-          "bounces": 0,
-          "duration_sec": 0.0,
-          "google_429": 0
         }
       ],
       "applied_jobs": [
@@ -689,7 +689,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T11:30:49",
           "first_seen_at": "[redacted]T11:30:43",
-          "age_days": 0,
+          "age_days": 1,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -2553,7 +2553,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T11:30:49",
           "first_seen_at": "[redacted]T11:30:43",
-          "age_days": 0,
+          "age_days": 1,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -3926,7 +3926,7 @@
           "title": "Teradata Database Administrator (DBA)",
           "sent_at": "[redacted]T11:30:49",
           "last_activity": "[redacted]T11:30:49",
-          "waiting_days": 0,
+          "waiting_days": 1,
           "replies": 0,
           "followups": 0
         },
@@ -3953,11 +3953,11 @@
         "Tosca / SAP / Playwright Automation"
       ],
       "stats": {
-        "jobs": 1226,
-        "matched": 1074,
+        "jobs": 1227,
+        "matched": 1075,
         "applied": 152,
         "applied_this_week": 9,
-        "desk": 1074,
+        "desk": 1075,
         "hidden_other_track": 2,
         "daily_remaining": 50,
         "daily_limit": 50,
