@@ -1,5 +1,5 @@
 {
-  "updated_at": "[redacted]T15:16:18+00:00",
+  "updated_at": "[redacted]T15:50:54+00:00",
   "pages_url": "https://raviacn95.github.io/job-apply-status/",
   "users": [
     {
@@ -13,15 +13,15 @@
         "Teradata DBA"
       ],
       "stats": {
-        "jobs": 279,
-        "matched": 236,
+        "jobs": 280,
+        "matched": 237,
         "applied": 43,
         "applied_this_week": 4,
-        "desk": 236,
+        "desk": 237,
         "hidden_other_track": 81,
         "daily_remaining": 50,
         "daily_limit": 50,
-        "last_cycle_at": "[redacted]T15:07:38+00:00",
+        "last_cycle_at": "[redacted]T15:42:38+00:00",
         "last_apply_at": "[redacted]T11:30:49"
       },
       "mail": {
@@ -33,8 +33,8 @@
       },
       "runs": [
         {
-          "id": 367,
-          "started_at": "[redacted]T15:07:38+00:00",
+          "id": 368,
+          "started_at": "[redacted]T15:42:38+00:00",
           "finished_at": "",
           "status": "running",
           "live": true,
@@ -46,6 +46,22 @@
           "replies": 0,
           "bounces": 0,
           "duration_sec": 0.0,
+          "google_429": 0
+        },
+        {
+          "id": 367,
+          "started_at": "[redacted]T15:07:38+00:00",
+          "finished_at": "[redacted]T15:16:50+00:00",
+          "status": "ok",
+          "live": true,
+          "ingested": 0,
+          "scanned": 40,
+          "applied": 0,
+          "queued": 223,
+          "errors": 0,
+          "replies": 0,
+          "bounces": 0,
+          "duration_sec": 552.0,
           "google_429": 0
         },
         {
@@ -643,22 +659,6 @@
         {
           "id": 329,
           "started_at": "[redacted]T06:27:38+00:00",
-          "finished_at": "",
-          "status": "running",
-          "live": true,
-          "ingested": 0,
-          "scanned": 0,
-          "applied": 0,
-          "queued": 0,
-          "errors": 0,
-          "replies": 0,
-          "bounces": 0,
-          "duration_sec": 0.0,
-          "google_429": 0
-        },
-        {
-          "id": 328,
-          "started_at": "[redacted]T06:24:45+00:00",
           "finished_at": "",
           "status": "running",
           "live": true,
@@ -1551,7 +1551,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T15:19:40",
-          "age_days": 23,
+          "age_days": 24,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -1591,7 +1591,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T15:19:47",
-          "age_days": 23,
+          "age_days": 24,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -1631,7 +1631,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T15:19:45",
-          "age_days": 23,
+          "age_days": 24,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -1651,7 +1651,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T15:19:43",
-          "age_days": 23,
+          "age_days": 24,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -1671,7 +1671,27 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T15:20:00",
-          "age_days": 23,
+          "age_days": 24,
+          "ctc": "unlisted",
+          "outcome": "",
+          "on_track": true
+        },
+        {
+          "id": 446,
+          "status": "matched",
+          "track": "teradata_dba",
+          "track_label": "Teradata DBA",
+          "score": 28.0,
+          "company": "Capgemini",
+          "title": "FBS Apl Sub Matter Expert II- Informatica Powercenter",
+          "location": "MH, IN",
+          "source": "harvest_teradata",
+          "url": "https://in.indeed.com/viewjob?jk=eb948c57f8a1f9f1",
+          "channel": "apply desk",
+          "applied_via": "",
+          "applied_at": "",
+          "first_seen_at": "[redacted]T15:38:46",
+          "age_days": 0,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -2507,26 +2527,6 @@
           "location": "TS, IN",
           "source": "harvest_teradata",
           "url": "https://in.indeed.com/viewjob?jk=927818dc3e6225da",
-          "channel": "apply desk",
-          "applied_via": "",
-          "applied_at": "",
-          "first_seen_at": "[redacted]T20:01:41",
-          "age_days": 3,
-          "ctc": "unlisted",
-          "outcome": "",
-          "on_track": true
-        },
-        {
-          "id": 382,
-          "status": "matched",
-          "track": "teradata_dba",
-          "track_label": "Teradata DBA",
-          "score": 28.0,
-          "company": "Neurealm",
-          "title": "Lead - ETL Testing",
-          "location": "TN, IN",
-          "source": "harvest_teradata",
-          "url": "https://in.indeed.com/viewjob?jk=09908dad045d6b4e",
           "channel": "apply desk",
           "applied_via": "",
           "applied_at": "",
@@ -3413,7 +3413,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T15:19:40",
-          "age_days": 23,
+          "age_days": 24,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -3453,7 +3453,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T15:19:47",
-          "age_days": 23,
+          "age_days": 24,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -3493,7 +3493,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T15:19:45",
-          "age_days": 23,
+          "age_days": 24,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -3513,7 +3513,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T15:19:43",
-          "age_days": 23,
+          "age_days": 24,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -3533,7 +3533,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T15:20:00",
-          "age_days": 23,
+          "age_days": 24,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -3566,7 +3566,7 @@
           "title": "UK - London - ADS - Cloud DBA & Solution Architect, PowerBI",
           "sent_at": "[redacted]T08:38:45",
           "last_activity": "[redacted]T15:30:58",
-          "waiting_days": 12,
+          "waiting_days": 13,
           "replies": 0,
           "followups": 2
         },
@@ -3953,11 +3953,11 @@
         "Tosca / SAP / Playwright Automation"
       ],
       "stats": {
-        "jobs": 1232,
-        "matched": 1080,
+        "jobs": 1234,
+        "matched": 1082,
         "applied": 152,
         "applied_this_week": 9,
-        "desk": 1080,
+        "desk": 1082,
         "hidden_other_track": 2,
         "daily_remaining": 50,
         "daily_limit": 50,
@@ -4709,7 +4709,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T15:30:59",
           "first_seen_at": "[redacted]T15:27:59",
-          "age_days": 3,
+          "age_days": 4,
           "ctc": "149.4\u2013178.4 LPA",
           "outcome": "",
           "on_track": true
@@ -5911,7 +5911,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T15:27:58",
-          "age_days": 3,
+          "age_days": 4,
           "ctc": "34.9 LPA",
           "outcome": "",
           "on_track": true
@@ -6271,7 +6271,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T15:28:15",
-          "age_days": 3,
+          "age_days": 4,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -6431,7 +6431,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T15:27:59",
-          "age_days": 3,
+          "age_days": 4,
           "ctc": "124.5 LPA",
           "outcome": "",
           "on_track": true
@@ -6713,7 +6713,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T15:30:59",
           "first_seen_at": "[redacted]T15:27:59",
-          "age_days": 3,
+          "age_days": 4,
           "ctc": "149.4\u2013178.4 LPA",
           "outcome": "",
           "on_track": true
@@ -7716,7 +7716,7 @@
           "title": "SAP-Modul- und Prozessberater (m/w/d)",
           "sent_at": "[redacted]T05:29:06",
           "last_activity": "[redacted]T15:35:17",
-          "waiting_days": 3,
+          "waiting_days": 4,
           "replies": 0,
           "followups": 2
         },
@@ -7726,7 +7726,7 @@
           "title": "SAP FICO with BCM consultant",
           "sent_at": "[redacted]T05:28:59",
           "last_activity": "[redacted]T15:35:12",
-          "waiting_days": 3,
+          "waiting_days": 4,
           "replies": 0,
           "followups": 2
         },
@@ -7736,7 +7736,7 @@
           "title": "OpenText xECM for SAP Solutions Architect",
           "sent_at": "[redacted]T22:31:25",
           "last_activity": "[redacted]T15:35:07",
-          "waiting_days": 3,
+          "waiting_days": 4,
           "replies": 0,
           "followups": 1
         },
@@ -7746,7 +7746,7 @@
           "title": "Specialist, SAP Plant Maintenance",
           "sent_at": "[redacted]T16:27:39",
           "last_activity": "[redacted]T15:35:03",
-          "waiting_days": 3,
+          "waiting_days": 4,
           "replies": 0,
           "followups": 1
         },
@@ -7756,7 +7756,7 @@
           "title": "Digital Marketing Executive (Remote) \u2013 SaaS / WhatsApp Automation",
           "sent_at": "[redacted]T17:29:57",
           "last_activity": "[redacted]T15:34:58",
-          "waiting_days": 3,
+          "waiting_days": 4,
           "replies": 0,
           "followups": 1
         },
@@ -7766,7 +7766,7 @@
           "title": "SAP CoE O2C Business Analysis Specialist II, Senior",
           "sent_at": "[redacted]T17:30:05",
           "last_activity": "[redacted]T15:34:54",
-          "waiting_days": 3,
+          "waiting_days": 4,
           "replies": 0,
           "followups": 1
         },
@@ -7776,7 +7776,7 @@
           "title": "Senior Consultant SAP Test Management",
           "sent_at": "[redacted]T19:33:50",
           "last_activity": "[redacted]T15:34:50",
-          "waiting_days": 3,
+          "waiting_days": 4,
           "replies": 0,
           "followups": 1
         },
@@ -7786,7 +7786,7 @@
           "title": "Architect/Consultant SAP Business Technology Platform (BTP) (m/f/d)",
           "sent_at": "[redacted]T12:19:45",
           "last_activity": "[redacted]T15:34:45",
-          "waiting_days": 3,
+          "waiting_days": 4,
           "replies": 0,
           "followups": 1
         },
@@ -7796,7 +7796,7 @@
           "title": "Full Stack Product Engineer Intern, Agent Native",
           "sent_at": "[redacted]T15:31:10",
           "last_activity": "[redacted]T15:31:10",
-          "waiting_days": 3,
+          "waiting_days": 4,
           "replies": 0,
           "followups": 0
         },
@@ -7806,7 +7806,7 @@
           "title": "Senior Software Engineer, Front End / Full Stack",
           "sent_at": "[redacted]T15:30:59",
           "last_activity": "[redacted]T15:30:59",
-          "waiting_days": 3,
+          "waiting_days": 4,
           "replies": 0,
           "followups": 0
         },
@@ -7816,7 +7816,7 @@
           "title": "SAP ABAP Developer",
           "sent_at": "[redacted]T15:29:23",
           "last_activity": "[redacted]T15:29:23",
-          "waiting_days": 3,
+          "waiting_days": 4,
           "replies": 0,
           "followups": 0
         },
@@ -7826,7 +7826,7 @@
           "title": "Web Automation Test Engineer",
           "sent_at": "[redacted]T15:28:59",
           "last_activity": "[redacted]T15:28:59",
-          "waiting_days": 3,
+          "waiting_days": 4,
           "replies": 0,
           "followups": 0
         },
@@ -7836,7 +7836,7 @@
           "title": "IntegrationArchitect #SolutionArchitect #ApplicationIntegration #EnterpriseArchitecture",
           "sent_at": "[redacted]T15:28:49",
           "last_activity": "[redacted]T15:28:49",
-          "waiting_days": 3,
+          "waiting_days": 4,
           "replies": 0,
           "followups": 0
         },
@@ -7846,7 +7846,7 @@
           "title": "SAP Security Lead Consultant",
           "sent_at": "[redacted]T15:28:43",
           "last_activity": "[redacted]T15:28:43",
-          "waiting_days": 3,
+          "waiting_days": 4,
           "replies": 0,
           "followups": 0
         },
