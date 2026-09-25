@@ -1,5 +1,5 @@
 {
-  "updated_at": "[redacted]T20:24:13+00:00",
+  "updated_at": "[redacted]T21:03:50+00:00",
   "pages_url": "https://raviacn95.github.io/job-apply-status/",
   "users": [
     {
@@ -21,7 +21,7 @@
         "hidden_other_track": 86,
         "daily_remaining": 50,
         "daily_limit": 50,
-        "last_cycle_at": "[redacted]T20:17:38+00:00",
+        "last_cycle_at": "[redacted]T20:52:38+00:00",
         "last_apply_at": "[redacted]T11:30:49"
       },
       "mail": {
@@ -33,8 +33,8 @@
       },
       "runs": [
         {
-          "id": 391,
-          "started_at": "[redacted]T20:17:38+00:00",
+          "id": 392,
+          "started_at": "[redacted]T20:52:38+00:00",
           "finished_at": "",
           "status": "running",
           "live": true,
@@ -46,6 +46,22 @@
           "replies": 0,
           "bounces": 0,
           "duration_sec": 0.0,
+          "google_429": 0
+        },
+        {
+          "id": 391,
+          "started_at": "[redacted]T20:17:38+00:00",
+          "finished_at": "[redacted]T20:24:34+00:00",
+          "status": "ok",
+          "live": true,
+          "ingested": 0,
+          "scanned": 40,
+          "applied": 0,
+          "queued": 224,
+          "errors": 0,
+          "replies": 0,
+          "bounces": 0,
+          "duration_sec": 416.0,
           "google_429": 0
         },
         {
@@ -654,22 +670,6 @@
           "replies": 0,
           "bounces": 0,
           "duration_sec": 411.0,
-          "google_429": 0
-        },
-        {
-          "id": 352,
-          "started_at": "[redacted]T21:37:38+00:00",
-          "finished_at": "[redacted]T21:44:35+00:00",
-          "status": "ok",
-          "live": true,
-          "ingested": 1,
-          "scanned": 41,
-          "applied": 0,
-          "queued": 222,
-          "errors": 0,
-          "replies": 0,
-          "bounces": 0,
-          "duration_sec": 417.0,
           "google_429": 0
         }
       ],
@@ -1751,7 +1751,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T20:35:50",
-          "age_days": 1,
+          "age_days": 2,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -3646,7 +3646,7 @@
           "title": "Remote BI ETL Consultant",
           "sent_at": "[redacted]T16:41:26",
           "last_activity": "[redacted]T20:29:09",
-          "waiting_days": 14,
+          "waiting_days": 15,
           "replies": 0,
           "followups": 2
         },
@@ -3656,7 +3656,7 @@
           "title": "Informatica Engineer",
           "sent_at": "[redacted]T16:38:28",
           "last_activity": "[redacted]T20:29:05",
-          "waiting_days": 14,
+          "waiting_days": 15,
           "replies": 0,
           "followups": 2
         },
@@ -3666,7 +3666,7 @@
           "title": "BigData/Hadoop Administrator",
           "sent_at": "[redacted]T16:38:22",
           "last_activity": "[redacted]T20:29:02",
-          "waiting_days": 14,
+          "waiting_days": 15,
           "replies": 0,
           "followups": 2
         },
@@ -3676,7 +3676,7 @@
           "title": "Lead/Sr. ETL Engineer",
           "sent_at": "[redacted]T16:38:14",
           "last_activity": "[redacted]T20:28:58",
-          "waiting_days": 14,
+          "waiting_days": 15,
           "replies": 0,
           "followups": 2
         },
@@ -3686,7 +3686,7 @@
           "title": "Informatica Developer",
           "sent_at": "[redacted]T16:38:08",
           "last_activity": "[redacted]T20:28:55",
-          "waiting_days": 14,
+          "waiting_days": 15,
           "replies": 0,
           "followups": 2
         },
@@ -3696,7 +3696,7 @@
           "title": "Hadoop Administrator / Big Data Platform Engineer",
           "sent_at": "[redacted]T16:38:01",
           "last_activity": "[redacted]T20:28:50",
-          "waiting_days": 14,
+          "waiting_days": 15,
           "replies": 0,
           "followups": 2
         },
@@ -3706,7 +3706,7 @@
           "title": "Integration Developer - SAP & Informatica MDM | Remote(India) | Contract",
           "sent_at": "[redacted]T16:37:41",
           "last_activity": "[redacted]T20:28:47",
-          "waiting_days": 14,
+          "waiting_days": 15,
           "replies": 0,
           "followups": 2
         },
@@ -3716,7 +3716,7 @@
           "title": "Teradata DBA",
           "sent_at": "[redacted]T16:37:34",
           "last_activity": "[redacted]T20:28:43",
-          "waiting_days": 14,
+          "waiting_days": 15,
           "replies": 0,
           "followups": 2
         },
@@ -3953,11 +3953,11 @@
         "Tosca / SAP / Playwright Automation"
       ],
       "stats": {
-        "jobs": 1237,
-        "matched": 1084,
+        "jobs": 1238,
+        "matched": 1085,
         "applied": 153,
         "applied_this_week": 10,
-        "desk": 1084,
+        "desk": 1085,
         "hidden_other_track": 2,
         "daily_remaining": 50,
         "daily_limit": 50,
@@ -4709,7 +4709,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T15:31:10",
           "first_seen_at": "[redacted]T21:02:44",
-          "age_days": 15,
+          "age_days": 16,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -4769,7 +4769,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T15:28:59",
           "first_seen_at": "[redacted]T21:02:44",
-          "age_days": 15,
+          "age_days": 16,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -5931,7 +5931,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T21:02:44",
-          "age_days": 15,
+          "age_days": 16,
           "ctc": "82.2 LPA",
           "outcome": "",
           "on_track": true
@@ -6011,7 +6011,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T21:02:44",
-          "age_days": 15,
+          "age_days": 16,
           "ctc": "69.7 LPA",
           "outcome": "",
           "on_track": true
@@ -6111,7 +6111,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T21:02:44",
-          "age_days": 15,
+          "age_days": 16,
           "ctc": "111.6 LPA",
           "outcome": "",
           "on_track": true
@@ -6151,7 +6151,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T21:02:44",
-          "age_days": 15,
+          "age_days": 16,
           "ctc": "78.8\u201398.8 LPA",
           "outcome": "",
           "on_track": true
@@ -6291,7 +6291,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T21:02:44",
-          "age_days": 15,
+          "age_days": 16,
           "ctc": "34.9 LPA",
           "outcome": "",
           "on_track": true
@@ -6311,7 +6311,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T21:02:44",
-          "age_days": 15,
+          "age_days": 16,
           "ctc": "90.7 LPA",
           "outcome": "",
           "on_track": true
@@ -6331,7 +6331,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T21:02:44",
-          "age_days": 15,
+          "age_days": 16,
           "ctc": "34.9 LPA",
           "outcome": "",
           "on_track": true
@@ -6371,7 +6371,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T21:02:44",
-          "age_days": 15,
+          "age_days": 16,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -6471,7 +6471,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T21:02:53",
-          "age_days": 15,
+          "age_days": 16,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -6491,7 +6491,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T21:02:41",
-          "age_days": 15,
+          "age_days": 16,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -6591,7 +6591,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T21:02:44",
-          "age_days": 15,
+          "age_days": 16,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -6713,7 +6713,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T15:31:10",
           "first_seen_at": "[redacted]T21:02:44",
-          "age_days": 15,
+          "age_days": 16,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -6773,7 +6773,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T15:28:59",
           "first_seen_at": "[redacted]T21:02:44",
-          "age_days": 15,
+          "age_days": 16,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
