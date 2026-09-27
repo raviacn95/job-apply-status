@@ -1,5 +1,5 @@
 {
-  "updated_at": "[redacted]T20:49:07+00:00",
+  "updated_at": "[redacted]T21:33:59+00:00",
   "pages_url": "https://raviacn95.github.io/job-apply-status/",
   "users": [
     {
@@ -1711,7 +1711,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T21:31:11",
-          "age_days": 1,
+          "age_days": 2,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -3596,7 +3596,7 @@
           "title": "Staff Software Engineer, Data Warehouse Foundation",
           "sent_at": "[redacted]T16:47:03",
           "last_activity": "[redacted]T21:04:14",
-          "waiting_days": 16,
+          "waiting_days": 17,
           "replies": 0,
           "followups": 2
         },
@@ -3606,7 +3606,7 @@
           "title": "Enterprise Data Warehouse (EDW) ETL/Data Engineer",
           "sent_at": "[redacted]T16:46:45",
           "last_activity": "[redacted]T21:04:10",
-          "waiting_days": 16,
+          "waiting_days": 17,
           "replies": 0,
           "followups": 2
         },
@@ -3616,7 +3616,7 @@
           "title": "Data Warehouse Integration Engineer",
           "sent_at": "[redacted]T16:46:39",
           "last_activity": "[redacted]T21:04:07",
-          "waiting_days": 16,
+          "waiting_days": 17,
           "replies": 0,
           "followups": 2
         },
@@ -3626,7 +3626,7 @@
           "title": "Hadoop Administrator / MAPR - Admin",
           "sent_at": "[redacted]T16:46:32",
           "last_activity": "[redacted]T21:04:03",
-          "waiting_days": 16,
+          "waiting_days": 17,
           "replies": 0,
           "followups": 2
         },
@@ -3636,7 +3636,7 @@
           "title": "Data Engineer / Senior Data Engineer (B)",
           "sent_at": "[redacted]T16:46:26",
           "last_activity": "[redacted]T21:04:00",
-          "waiting_days": 16,
+          "waiting_days": 17,
           "replies": 0,
           "followups": 2
         },
@@ -3646,7 +3646,7 @@
           "title": "Sr. Data Engineer",
           "sent_at": "[redacted]T16:41:39",
           "last_activity": "[redacted]T21:03:56",
-          "waiting_days": 16,
+          "waiting_days": 17,
           "replies": 0,
           "followups": 2
         },
@@ -3961,20 +3961,20 @@
         "hidden_other_track": 2,
         "daily_remaining": 48,
         "daily_limit": 50,
-        "last_cycle_at": "[redacted]T20:42:38+00:00",
+        "last_cycle_at": "[redacted]T21:17:38+00:00",
         "last_apply_at": "[redacted]T20:43:41"
       },
       "mail": {
         "threads": 156,
-        "waiting": 10,
-        "followup_due": 134,
+        "waiting": 18,
+        "followup_due": 126,
         "replied": 12,
         "bounced": 0
       },
       "runs": [
         {
-          "id": 62,
-          "started_at": "[redacted]T20:42:38+00:00",
+          "id": 63,
+          "started_at": "[redacted]T21:17:38+00:00",
           "finished_at": "",
           "status": "running",
           "live": true,
@@ -3986,6 +3986,22 @@
           "replies": 0,
           "bounces": 0,
           "duration_sec": 0.0,
+          "google_429": 0
+        },
+        {
+          "id": 62,
+          "started_at": "[redacted]T20:42:38+00:00",
+          "finished_at": "[redacted]T20:49:42+00:00",
+          "status": "ok",
+          "live": true,
+          "ingested": 5,
+          "scanned": 13,
+          "applied": 2,
+          "queued": 995,
+          "errors": 0,
+          "replies": 0,
+          "bounces": 0,
+          "duration_sec": 424.0,
           "google_429": 0
         },
         {
@@ -4595,22 +4611,6 @@
           "bounces": 0,
           "duration_sec": 394.0,
           "google_429": 87
-        },
-        {
-          "id": 23,
-          "started_at": "[redacted]T11:50:10+00:00",
-          "finished_at": "[redacted]T11:58:12+00:00",
-          "status": "ok",
-          "live": true,
-          "ingested": 0,
-          "scanned": 32,
-          "applied": 0,
-          "queued": 40,
-          "errors": 0,
-          "replies": 0,
-          "bounces": 0,
-          "duration_sec": 482.0,
-          "google_429": 41
         }
       ],
       "applied_jobs": [
@@ -4749,7 +4749,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T15:31:10",
           "first_seen_at": "[redacted]T21:02:44",
-          "age_days": 17,
+          "age_days": 18,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -4809,7 +4809,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T15:28:59",
           "first_seen_at": "[redacted]T21:02:44",
-          "age_days": 17,
+          "age_days": 18,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -5931,7 +5931,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T21:02:44",
-          "age_days": 17,
+          "age_days": 18,
           "ctc": "82.2 LPA",
           "outcome": "",
           "on_track": true
@@ -6011,7 +6011,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T21:02:44",
-          "age_days": 17,
+          "age_days": 18,
           "ctc": "69.7 LPA",
           "outcome": "",
           "on_track": true
@@ -6111,7 +6111,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T21:02:44",
-          "age_days": 17,
+          "age_days": 18,
           "ctc": "111.6 LPA",
           "outcome": "",
           "on_track": true
@@ -6151,7 +6151,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T21:02:44",
-          "age_days": 17,
+          "age_days": 18,
           "ctc": "78.8\u201398.8 LPA",
           "outcome": "",
           "on_track": true
@@ -6331,7 +6331,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T21:02:44",
-          "age_days": 17,
+          "age_days": 18,
           "ctc": "34.9 LPA",
           "outcome": "",
           "on_track": true
@@ -6351,7 +6351,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T21:02:44",
-          "age_days": 17,
+          "age_days": 18,
           "ctc": "90.7 LPA",
           "outcome": "",
           "on_track": true
@@ -6371,7 +6371,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T21:02:44",
-          "age_days": 17,
+          "age_days": 18,
           "ctc": "34.9 LPA",
           "outcome": "",
           "on_track": true
@@ -6411,7 +6411,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T21:02:44",
-          "age_days": 17,
+          "age_days": 18,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -6511,7 +6511,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T21:02:53",
-          "age_days": 17,
+          "age_days": 18,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -6531,7 +6531,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T21:02:41",
-          "age_days": 17,
+          "age_days": 18,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -6753,7 +6753,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T15:31:10",
           "first_seen_at": "[redacted]T21:02:44",
-          "age_days": 17,
+          "age_days": 18,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -6813,7 +6813,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T15:28:59",
           "first_seen_at": "[redacted]T21:02:44",
-          "age_days": 17,
+          "age_days": 18,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -7642,26 +7642,6 @@
         },
         {
           "status": "follow-up-due",
-          "company": "Avery Dennison",
-          "title": "Payroll coordinator",
-          "sent_at": "[redacted]T09:32:28",
-          "last_activity": "[redacted]T17:29:00",
-          "waiting_days": 7,
-          "replies": 0,
-          "followups": 1
-        },
-        {
-          "status": "follow-up-due",
-          "company": "Parity Cube Private Limited",
-          "title": "QA Automation Engineer",
-          "sent_at": "[redacted]T16:32:07",
-          "last_activity": "[redacted]T16:32:07",
-          "waiting_days": 7,
-          "replies": 0,
-          "followups": 0
-        },
-        {
-          "status": "follow-up-due",
           "company": "ACONEXT Stuttgart GmbH",
           "title": "SAP-Modul- und Prozessberater (m/w/d)",
           "sent_at": "[redacted]T05:29:06",
@@ -7679,66 +7659,6 @@
           "waiting_days": 7,
           "replies": 0,
           "followups": 2
-        },
-        {
-          "status": "follow-up-due",
-          "company": "Qellus, LLC",
-          "title": "OpenText xECM for SAP Solutions Architect",
-          "sent_at": "[redacted]T22:31:25",
-          "last_activity": "[redacted]T15:35:07",
-          "waiting_days": 7,
-          "replies": 0,
-          "followups": 1
-        },
-        {
-          "status": "follow-up-due",
-          "company": "Scout Motors",
-          "title": "Specialist, SAP Plant Maintenance",
-          "sent_at": "[redacted]T16:27:39",
-          "last_activity": "[redacted]T15:35:03",
-          "waiting_days": 7,
-          "replies": 0,
-          "followups": 1
-        },
-        {
-          "status": "follow-up-due",
-          "company": "WHALEXY",
-          "title": "Digital Marketing Executive (Remote) \u2013 SaaS / WhatsApp Automation",
-          "sent_at": "[redacted]T17:29:57",
-          "last_activity": "[redacted]T15:34:58",
-          "waiting_days": 7,
-          "replies": 0,
-          "followups": 1
-        },
-        {
-          "status": "follow-up-due",
-          "company": "PPG",
-          "title": "SAP CoE O2C Business Analysis Specialist II, Senior",
-          "sent_at": "[redacted]T17:30:05",
-          "last_activity": "[redacted]T15:34:54",
-          "waiting_days": 7,
-          "replies": 0,
-          "followups": 1
-        },
-        {
-          "status": "follow-up-due",
-          "company": "QESTIT",
-          "title": "Senior Consultant SAP Test Management",
-          "sent_at": "[redacted]T19:33:50",
-          "last_activity": "[redacted]T15:34:50",
-          "waiting_days": 7,
-          "replies": 0,
-          "followups": 1
-        },
-        {
-          "status": "follow-up-due",
-          "company": "x1F GmbH",
-          "title": "Architect/Consultant SAP Business Technology Platform (BTP) (m/f/d)",
-          "sent_at": "[redacted]T12:19:45",
-          "last_activity": "[redacted]T15:34:45",
-          "waiting_days": 7,
-          "replies": 0,
-          "followups": 1
         },
         {
           "status": "follow-up-due",
@@ -7806,7 +7726,7 @@
           "title": "Java Full Stack Developer",
           "sent_at": "[redacted]T19:57:48",
           "last_activity": "[redacted]T21:06:36",
-          "waiting_days": 17,
+          "waiting_days": 18,
           "replies": 0,
           "followups": 2
         },
@@ -7816,7 +7736,7 @@
           "title": "Playwright / Test Automation",
           "sent_at": "[redacted]T19:57:42",
           "last_activity": "[redacted]T21:06:32",
-          "waiting_days": 17,
+          "waiting_days": 18,
           "replies": 0,
           "followups": 2
         },
@@ -7826,7 +7746,7 @@
           "title": "\u2705 API Testing & Automation Frameworks",
           "sent_at": "[redacted]T19:57:35",
           "last_activity": "[redacted]T21:06:28",
-          "waiting_days": 17,
+          "waiting_days": 18,
           "replies": 0,
           "followups": 2
         },
@@ -7836,7 +7756,7 @@
           "title": "\u2705 UI Automation \u2013 Selenium, Cypress, Playwright",
           "sent_at": "[redacted]T19:57:31",
           "last_activity": "[redacted]T21:06:24",
-          "waiting_days": 17,
+          "waiting_days": 18,
           "replies": 0,
           "followups": 2
         },
@@ -7846,7 +7766,7 @@
           "title": "Pavithra M",
           "sent_at": "[redacted]T19:46:45",
           "last_activity": "[redacted]T21:06:20",
-          "waiting_days": 17,
+          "waiting_days": 18,
           "replies": 0,
           "followups": 2
         },
@@ -7856,7 +7776,7 @@
           "title": "Bench Sales and US IT Recruiter (staffing)",
           "sent_at": "[redacted]T19:46:40",
           "last_activity": "[redacted]T21:06:16",
-          "waiting_days": 17,
+          "waiting_days": 18,
           "replies": 0,
           "followups": 2
         },
@@ -8016,6 +7936,86 @@
           "title": "Sustainability Consultant (SAP, OCDEA) - Remote",
           "sent_at": "[redacted]T04:16:12",
           "last_activity": "[redacted]T04:16:12",
+          "waiting_days": 23,
+          "replies": 0,
+          "followups": 0
+        },
+        {
+          "status": "follow-up-due",
+          "company": "IT Resonance Private Limited",
+          "title": "SAP BW on HANA developer with hands-on AMDP",
+          "sent_at": "[redacted]T04:16:06",
+          "last_activity": "[redacted]T04:16:06",
+          "waiting_days": 23,
+          "replies": 0,
+          "followups": 0
+        },
+        {
+          "status": "follow-up-due",
+          "company": "CloudLabs Inc",
+          "title": "Senior Senior SAP FICO Consultant",
+          "sent_at": "[redacted]T04:15:59",
+          "last_activity": "[redacted]T04:15:59",
+          "waiting_days": 23,
+          "replies": 0,
+          "followups": 0
+        },
+        {
+          "status": "follow-up-due",
+          "company": "mindsquare AG",
+          "title": "Senior SAP FI Consultant (m/w/d) - S/4HANA Transformation",
+          "sent_at": "[redacted]T04:15:52",
+          "last_activity": "[redacted]T04:15:52",
+          "waiting_days": 23,
+          "replies": 0,
+          "followups": 0
+        },
+        {
+          "status": "follow-up-due",
+          "company": "hsag Heidelberger Services AG",
+          "title": "(Junior / Senior) SAP IS-U Berater / Consultant (w/m/d) Energiewirtschaft \u2013 Remote / Deutschland / Neuseeland",
+          "sent_at": "[redacted]T04:15:45",
+          "last_activity": "[redacted]T04:15:45",
+          "waiting_days": 23,
+          "replies": 0,
+          "followups": 0
+        },
+        {
+          "status": "follow-up-due",
+          "company": "Seargin",
+          "title": "SAP FICO (CAPEX, FI-AA) Consultant",
+          "sent_at": "[redacted]T04:15:38",
+          "last_activity": "[redacted]T04:15:38",
+          "waiting_days": 23,
+          "replies": 0,
+          "followups": 0
+        },
+        {
+          "status": "follow-up-due",
+          "company": "RVK | Regionalverkehr K\u00f6ln GmbH",
+          "title": "SAP Consultant (FI/CO & S/4HANA) (m/w/d)",
+          "sent_at": "[redacted]T04:15:31",
+          "last_activity": "[redacted]T04:15:31",
+          "waiting_days": 23,
+          "replies": 0,
+          "followups": 0
+        },
+        {
+          "status": "follow-up-due",
+          "company": "Inwerken AG",
+          "title": "SAP CS / PM Consultant (m/w/d)",
+          "sent_at": "[redacted]T04:15:24",
+          "last_activity": "[redacted]T04:15:24",
+          "waiting_days": 23,
+          "replies": 0,
+          "followups": 0
+        },
+        {
+          "status": "follow-up-due",
+          "company": "F\u00d6RCH",
+          "title": "(Junior) Consultant (m/w/d) SAP Basis",
+          "sent_at": "[redacted]T04:15:17",
+          "last_activity": "[redacted]T04:15:17",
           "waiting_days": 23,
           "replies": 0,
           "followups": 0
