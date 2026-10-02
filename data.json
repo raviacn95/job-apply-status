@@ -1,5 +1,5 @@
 {
-  "updated_at": "[redacted]T09:56:49+00:00",
+  "updated_at": "[redacted]T10:31:44+00:00",
   "pages_url": "https://raviacn95.github.io/job-apply-status/",
   "users": [
     {
@@ -13,15 +13,15 @@
         "Teradata DBA"
       ],
       "stats": {
-        "jobs": 285,
-        "matched": 241,
+        "jobs": 286,
+        "matched": 242,
         "applied": 44,
         "applied_this_week": 1,
-        "desk": 241,
+        "desk": 242,
         "hidden_other_track": 96,
         "daily_remaining": 50,
         "daily_limit": 50,
-        "last_cycle_at": "[redacted]T09:47:38+00:00",
+        "last_cycle_at": "[redacted]T10:22:38+00:00",
         "last_apply_at": "[redacted]T22:34:59"
       },
       "mail": {
@@ -33,8 +33,8 @@
       },
       "runs": [
         {
-          "id": 486,
-          "started_at": "[redacted]T09:47:38+00:00",
+          "id": 487,
+          "started_at": "[redacted]T10:22:38+00:00",
           "finished_at": "",
           "status": "running",
           "live": true,
@@ -46,6 +46,22 @@
           "replies": 0,
           "bounces": 0,
           "duration_sec": 0.0,
+          "google_429": 0
+        },
+        {
+          "id": 486,
+          "started_at": "[redacted]T09:47:38+00:00",
+          "finished_at": "[redacted]T09:57:10+00:00",
+          "status": "ok",
+          "live": true,
+          "ingested": 0,
+          "scanned": 48,
+          "applied": 0,
+          "queued": 228,
+          "errors": 0,
+          "replies": 0,
+          "bounces": 0,
+          "duration_sec": 572.0,
           "google_429": 0
         },
         {
@@ -654,22 +670,6 @@
           "replies": 0,
           "bounces": 0,
           "duration_sec": 329.0,
-          "google_429": 0
-        },
-        {
-          "id": 447,
-          "started_at": "[redacted]T12:27:38+00:00",
-          "finished_at": "[redacted]T12:32:29+00:00",
-          "status": "ok",
-          "live": true,
-          "ingested": 0,
-          "scanned": 40,
-          "applied": 0,
-          "queued": 226,
-          "errors": 0,
-          "replies": 0,
-          "bounces": 0,
-          "duration_sec": 291.0,
           "google_429": 0
         }
       ],
@@ -1697,6 +1697,26 @@
           "on_track": true
         },
         {
+          "id": 480,
+          "status": "matched",
+          "track": "teradata_dba",
+          "track_label": "Teradata DBA",
+          "score": 28.0,
+          "company": "Realign",
+          "title": "ETL Technical Lead-5",
+          "location": "TX, US",
+          "source": "harvest_teradata",
+          "url": "https://www.indeed.com/viewjob?jk=5a5189d034bdf374",
+          "channel": "apply desk",
+          "applied_via": "",
+          "applied_at": "",
+          "first_seen_at": "[redacted]T10:25:38",
+          "age_days": 0,
+          "ctc": "unlisted",
+          "outcome": "",
+          "on_track": true
+        },
+        {
           "id": 468,
           "status": "matched",
           "track": "teradata_dba",
@@ -2527,26 +2547,6 @@
           "location": "Austin, TX, US",
           "source": "harvest_teradata",
           "url": "https://www.indeed.com/viewjob?jk=27b99ce7b72a51b2",
-          "channel": "apply desk",
-          "applied_via": "",
-          "applied_at": "",
-          "first_seen_at": "[redacted]T20:01:42",
-          "age_days": 11,
-          "ctc": "unlisted",
-          "outcome": "",
-          "on_track": true
-        },
-        {
-          "id": 387,
-          "status": "matched",
-          "track": "teradata_dba",
-          "track_label": "Teradata DBA",
-          "score": 28.0,
-          "company": "HI5 CONSULTING SOLUTIONS PTE LTD",
-          "title": "Senior Data Engineer",
-          "location": "SG",
-          "source": "harvest_teradata",
-          "url": "https://sg.indeed.com/viewjob?jk=097fd4894fa205f5",
           "channel": "apply desk",
           "applied_via": "",
           "applied_at": "",
@@ -3973,11 +3973,11 @@
         "Tosca / SAP / Playwright Automation"
       ],
       "stats": {
-        "jobs": 1273,
-        "matched": 1113,
+        "jobs": 1275,
+        "matched": 1115,
         "applied": 160,
         "applied_this_week": 7,
-        "desk": 1113,
+        "desk": 1115,
         "hidden_other_track": 2,
         "daily_remaining": 48,
         "daily_limit": 50,
