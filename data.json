@@ -1,5 +1,5 @@
 {
-  "updated_at": "[redacted]T12:13:08+00:00",
+  "updated_at": "[redacted]T12:51:08+00:00",
   "pages_url": "https://raviacn95.github.io/job-apply-status/",
   "users": [
     {
@@ -21,20 +21,20 @@
         "hidden_other_track": 96,
         "daily_remaining": 50,
         "daily_limit": 50,
-        "last_cycle_at": "[redacted]T12:07:39+00:00",
+        "last_cycle_at": "[redacted]T12:42:38+00:00",
         "last_apply_at": "[redacted]T22:34:59"
       },
       "mail": {
         "threads": 44,
-        "waiting": 1,
+        "waiting": 0,
         "followup_due": 36,
-        "replied": 7,
+        "replied": 8,
         "bounced": 0
       },
       "runs": [
         {
-          "id": 490,
-          "started_at": "[redacted]T12:07:39+00:00",
+          "id": 491,
+          "started_at": "[redacted]T12:42:38+00:00",
           "finished_at": "",
           "status": "running",
           "live": true,
@@ -46,6 +46,22 @@
           "replies": 0,
           "bounces": 0,
           "duration_sec": 0.0,
+          "google_429": 0
+        },
+        {
+          "id": 490,
+          "started_at": "[redacted]T12:07:39+00:00",
+          "finished_at": "[redacted]T12:13:16+00:00",
+          "status": "ok",
+          "live": true,
+          "ingested": 0,
+          "scanned": 48,
+          "applied": 0,
+          "queued": 229,
+          "errors": 0,
+          "replies": 0,
+          "bounces": 0,
+          "duration_sec": 337.0,
           "google_429": 0
         },
         {
@@ -655,22 +671,6 @@
           "bounces": 0,
           "duration_sec": 536.0,
           "google_429": 0
-        },
-        {
-          "id": 451,
-          "started_at": "[redacted]T14:47:38+00:00",
-          "finished_at": "[redacted]T14:55:15+00:00",
-          "status": "ok",
-          "live": true,
-          "ingested": 0,
-          "scanned": 40,
-          "applied": 0,
-          "queued": 227,
-          "errors": 0,
-          "replies": 0,
-          "bounces": 0,
-          "duration_sec": 457.0,
-          "google_429": 0
         }
       ],
       "applied_jobs": [
@@ -889,7 +889,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T12:28:03",
           "first_seen_at": "[redacted]T12:27:58",
-          "age_days": 21,
+          "age_days": 22,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -2773,7 +2773,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T12:28:03",
           "first_seen_at": "[redacted]T12:27:58",
-          "age_days": 21,
+          "age_days": 22,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -3922,6 +3922,16 @@
         },
         {
           "status": "replied",
+          "company": "Fidelity Canada",
+          "title": "Team Manager Data Warehouse",
+          "sent_at": "[redacted]T22:34:59",
+          "last_activity": "[redacted]T12:27:19",
+          "waiting_days": 2,
+          "replies": 1,
+          "followups": 0
+        },
+        {
+          "status": "replied",
           "company": "CloudLabs Inc",
           "title": "Senior Informatica MDM Cloud Developer - India Remote",
           "sent_at": "[redacted]T14:31:09",
@@ -3949,16 +3959,6 @@
           "waiting_days": 16,
           "replies": 1,
           "followups": 0
-        },
-        {
-          "status": "replied",
-          "company": "United Concordia Dental",
-          "title": "Senior Application Developer (Candidates must have experience with Informatica)",
-          "sent_at": "[redacted]T16:37:48",
-          "last_activity": "[redacted]T15:44:20",
-          "waiting_days": 27,
-          "replies": 1,
-          "followups": 0
         }
       ]
     },
@@ -3973,11 +3973,11 @@
         "Tosca / SAP / Playwright Automation"
       ],
       "stats": {
-        "jobs": 1276,
-        "matched": 1115,
+        "jobs": 1278,
+        "matched": 1117,
         "applied": 161,
         "applied_this_week": 8,
-        "desk": 1115,
+        "desk": 1117,
         "hidden_other_track": 2,
         "daily_remaining": 47,
         "daily_limit": 50,
@@ -4829,7 +4829,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T12:30:06",
           "first_seen_at": "[redacted]T12:30:00",
-          "age_days": 9,
+          "age_days": 10,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -5009,7 +5009,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T12:19:45",
           "first_seen_at": "[redacted]T12:19:40",
-          "age_days": 19,
+          "age_days": 20,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -6111,7 +6111,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T12:28:47",
-          "age_days": 33,
+          "age_days": 34,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -6471,7 +6471,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T12:28:52",
-          "age_days": 33,
+          "age_days": 34,
           "ctc": "166 LPA",
           "outcome": "",
           "on_track": true
@@ -6631,7 +6631,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T12:28:36",
-          "age_days": 33,
+          "age_days": 34,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -6833,7 +6833,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T12:30:06",
           "first_seen_at": "[redacted]T12:30:00",
-          "age_days": 9,
+          "age_days": 10,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -7013,7 +7013,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T12:19:45",
           "first_seen_at": "[redacted]T12:19:40",
-          "age_days": 19,
+          "age_days": 20,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
