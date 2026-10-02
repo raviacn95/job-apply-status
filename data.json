@@ -1,5 +1,5 @@
 {
-  "updated_at": "[redacted]T11:11:58+00:00",
+  "updated_at": "[redacted]T11:42:58+00:00",
   "pages_url": "https://raviacn95.github.io/job-apply-status/",
   "users": [
     {
@@ -21,7 +21,7 @@
         "hidden_other_track": 96,
         "daily_remaining": 50,
         "daily_limit": 50,
-        "last_cycle_at": "[redacted]T10:57:39+00:00",
+        "last_cycle_at": "[redacted]T11:32:40+00:00",
         "last_apply_at": "[redacted]T22:34:59"
       },
       "mail": {
@@ -33,8 +33,8 @@
       },
       "runs": [
         {
-          "id": 488,
-          "started_at": "[redacted]T10:57:39+00:00",
+          "id": 489,
+          "started_at": "[redacted]T11:32:40+00:00",
           "finished_at": "",
           "status": "running",
           "live": true,
@@ -46,6 +46,22 @@
           "replies": 0,
           "bounces": 0,
           "duration_sec": 0.0,
+          "google_429": 0
+        },
+        {
+          "id": 488,
+          "started_at": "[redacted]T10:57:39+00:00",
+          "finished_at": "[redacted]T11:12:34+00:00",
+          "status": "ok",
+          "live": true,
+          "ingested": 0,
+          "scanned": 48,
+          "applied": 0,
+          "queued": 229,
+          "errors": 0,
+          "replies": 0,
+          "bounces": 0,
+          "duration_sec": 895.0,
           "google_429": 0
         },
         {
@@ -655,22 +671,6 @@
           "bounces": 0,
           "duration_sec": 0.0,
           "google_429": 0
-        },
-        {
-          "id": 449,
-          "started_at": "[redacted]T13:37:38+00:00",
-          "finished_at": "[redacted]T13:43:52+00:00",
-          "status": "ok",
-          "live": true,
-          "ingested": 0,
-          "scanned": 40,
-          "applied": 0,
-          "queued": 226,
-          "errors": 0,
-          "replies": 0,
-          "bounces": 0,
-          "duration_sec": 374.0,
-          "google_429": 0
         }
       ],
       "applied_jobs": [
@@ -709,7 +709,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T11:30:49",
           "first_seen_at": "[redacted]T11:30:43",
-          "age_days": 9,
+          "age_days": 10,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -2593,7 +2593,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T11:30:49",
           "first_seen_at": "[redacted]T11:30:43",
-          "age_days": 9,
+          "age_days": 10,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -3576,7 +3576,7 @@
           "title": "Senior Informatica PowerCenter Migration Engineer",
           "sent_at": "[redacted]T06:21:23",
           "last_activity": "[redacted]T11:23:56",
-          "waiting_days": 3,
+          "waiting_days": 4,
           "replies": 0,
           "followups": 2
         },
@@ -3973,20 +3973,20 @@
         "Tosca / SAP / Playwright Automation"
       ],
       "stats": {
-        "jobs": 1275,
+        "jobs": 1276,
         "matched": 1115,
-        "applied": 160,
-        "applied_this_week": 7,
+        "applied": 161,
+        "applied_this_week": 8,
         "desk": 1115,
         "hidden_other_track": 2,
-        "daily_remaining": 48,
+        "daily_remaining": 47,
         "daily_limit": 50,
         "last_cycle_at": "[redacted]T21:17:38+00:00",
-        "last_apply_at": "[redacted]T09:25:36"
+        "last_apply_at": "[redacted]T11:25:57"
       },
       "mail": {
-        "threads": 161,
-        "waiting": 3,
+        "threads": 162,
+        "waiting": 4,
         "followup_due": 146,
         "replied": 12,
         "bounced": 0
@@ -4634,6 +4634,26 @@
         }
       ],
       "applied_jobs": [
+        {
+          "id": 1324,
+          "status": "applied",
+          "track": "automation",
+          "track_label": "Tosca / SAP / Playwright Automation",
+          "score": 28.0,
+          "company": "Calfus",
+          "title": "SAP S/4Hana Accounts Payable Specialist",
+          "location": "Pleasanton, CA, US",
+          "source": "harvest_remote",
+          "url": "https://www.indeed.com/viewjob?jk=311923a501f8ba4f",
+          "channel": "email",
+          "applied_via": "email",
+          "applied_at": "[redacted]T11:25:57",
+          "first_seen_at": "[redacted]T11:25:50",
+          "age_days": 0,
+          "ctc": "unlisted",
+          "outcome": "",
+          "on_track": true
+        },
         {
           "id": 1320,
           "status": "applied",
@@ -5609,26 +5629,6 @@
           "applied_via": "email",
           "applied_at": "[redacted]T04:17:01",
           "first_seen_at": "[redacted]T04:16:57",
-          "age_days": 28,
-          "ctc": "unlisted",
-          "outcome": "",
-          "on_track": true
-        },
-        {
-          "id": 243,
-          "status": "applied",
-          "track": "automation",
-          "track_label": "Tosca / SAP / Playwright Automation",
-          "score": 28.0,
-          "company": "Dr\u00e4ger",
-          "title": "Praktikum / Abschlussarbeit IT \u2013 SAP Integration",
-          "location": "L\u00fcbeck, SH, DE",
-          "source": "harvest_remote",
-          "url": "https://de.indeed.com/viewjob?jk=7a3daa19e31ea0dd",
-          "channel": "email",
-          "applied_via": "email",
-          "applied_at": "[redacted]T04:16:54",
-          "first_seen_at": "[redacted]T04:16:50",
           "age_days": 28,
           "ctc": "unlisted",
           "outcome": "",
@@ -6639,6 +6639,26 @@
       ],
       "jobs": [
         {
+          "id": 1324,
+          "status": "applied",
+          "track": "automation",
+          "track_label": "Tosca / SAP / Playwright Automation",
+          "score": 28.0,
+          "company": "Calfus",
+          "title": "SAP S/4Hana Accounts Payable Specialist",
+          "location": "Pleasanton, CA, US",
+          "source": "harvest_remote",
+          "url": "https://www.indeed.com/viewjob?jk=311923a501f8ba4f",
+          "channel": "email",
+          "applied_via": "email",
+          "applied_at": "[redacted]T11:25:57",
+          "first_seen_at": "[redacted]T11:25:50",
+          "age_days": 0,
+          "ctc": "unlisted",
+          "outcome": "",
+          "on_track": true
+        },
+        {
           "id": 1320,
           "status": "applied",
           "track": "automation",
@@ -7613,26 +7633,6 @@
           "applied_via": "email",
           "applied_at": "[redacted]T04:17:01",
           "first_seen_at": "[redacted]T04:16:57",
-          "age_days": 28,
-          "ctc": "unlisted",
-          "outcome": "",
-          "on_track": true
-        },
-        {
-          "id": 243,
-          "status": "applied",
-          "track": "automation",
-          "track_label": "Tosca / SAP / Playwright Automation",
-          "score": 28.0,
-          "company": "Dr\u00e4ger",
-          "title": "Praktikum / Abschlussarbeit IT \u2013 SAP Integration",
-          "location": "L\u00fcbeck, SH, DE",
-          "source": "harvest_remote",
-          "url": "https://de.indeed.com/viewjob?jk=7a3daa19e31ea0dd",
-          "channel": "email",
-          "applied_via": "email",
-          "applied_at": "[redacted]T04:16:54",
-          "first_seen_at": "[redacted]T04:16:50",
           "age_days": 28,
           "ctc": "unlisted",
           "outcome": "",
