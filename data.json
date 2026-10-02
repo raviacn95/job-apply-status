@@ -1,5 +1,5 @@
 {
-  "updated_at": "[redacted]T12:51:08+00:00",
+  "updated_at": "[redacted]T13:23:41+00:00",
   "pages_url": "https://raviacn95.github.io/job-apply-status/",
   "users": [
     {
@@ -21,7 +21,7 @@
         "hidden_other_track": 96,
         "daily_remaining": 50,
         "daily_limit": 50,
-        "last_cycle_at": "[redacted]T12:42:38+00:00",
+        "last_cycle_at": "[redacted]T13:17:38+00:00",
         "last_apply_at": "[redacted]T22:34:59"
       },
       "mail": {
@@ -33,8 +33,8 @@
       },
       "runs": [
         {
-          "id": 491,
-          "started_at": "[redacted]T12:42:38+00:00",
+          "id": 492,
+          "started_at": "[redacted]T13:17:38+00:00",
           "finished_at": "",
           "status": "running",
           "live": true,
@@ -46,6 +46,22 @@
           "replies": 0,
           "bounces": 0,
           "duration_sec": 0.0,
+          "google_429": 0
+        },
+        {
+          "id": 491,
+          "started_at": "[redacted]T12:42:38+00:00",
+          "finished_at": "[redacted]T12:51:27+00:00",
+          "status": "ok",
+          "live": true,
+          "ingested": 0,
+          "scanned": 48,
+          "applied": 0,
+          "queued": 229,
+          "errors": 0,
+          "replies": 1,
+          "bounces": 0,
+          "duration_sec": 529.0,
           "google_429": 0
         },
         {
@@ -654,22 +670,6 @@
           "replies": 0,
           "bounces": 0,
           "duration_sec": 454.0,
-          "google_429": 0
-        },
-        {
-          "id": 452,
-          "started_at": "[redacted]T15:33:44+00:00",
-          "finished_at": "[redacted]T15:42:40+00:00",
-          "status": "ok",
-          "live": true,
-          "ingested": 0,
-          "scanned": 40,
-          "applied": 0,
-          "queued": 227,
-          "errors": 0,
-          "replies": 0,
-          "bounces": 0,
-          "duration_sec": 536.0,
           "google_429": 0
         }
       ],
@@ -5691,7 +5691,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T12:59:47",
-          "age_days": 33,
+          "age_days": 34,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -5771,7 +5771,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T12:59:34",
-          "age_days": 33,
+          "age_days": 34,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -5811,7 +5811,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T12:59:40",
-          "age_days": 33,
+          "age_days": 34,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -5831,7 +5831,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T12:59:33",
-          "age_days": 33,
+          "age_days": 34,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -5871,7 +5871,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T12:59:41",
-          "age_days": 33,
+          "age_days": 34,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -5891,7 +5891,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T12:59:56",
-          "age_days": 33,
+          "age_days": 34,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -5911,7 +5911,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T12:59:40",
-          "age_days": 33,
+          "age_days": 34,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -5971,7 +5971,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T12:59:57",
-          "age_days": 33,
+          "age_days": 34,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -5991,7 +5991,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T12:59:56",
-          "age_days": 33,
+          "age_days": 34,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -6011,7 +6011,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T12:59:43",
-          "age_days": 33,
+          "age_days": 34,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -6191,7 +6191,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T12:59:38",
-          "age_days": 33,
+          "age_days": 34,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -6211,7 +6211,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T12:59:55",
-          "age_days": 33,
+          "age_days": 34,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
