@@ -1,5 +1,5 @@
 {
-  "updated_at": "[redacted]T20:38:48+00:00",
+  "updated_at": "[redacted]T21:16:36+00:00",
   "pages_url": "https://raviacn95.github.io/job-apply-status/",
   "users": [
     {
@@ -21,7 +21,7 @@
         "hidden_other_track": 101,
         "daily_remaining": 50,
         "daily_limit": 50,
-        "last_cycle_at": "[redacted]T20:32:38+00:00",
+        "last_cycle_at": "[redacted]T21:07:38+00:00",
         "last_apply_at": "[redacted]T22:34:59"
       },
       "mail": {
@@ -33,8 +33,8 @@
       },
       "runs": [
         {
-          "id": 515,
-          "started_at": "[redacted]T20:32:38+00:00",
+          "id": 516,
+          "started_at": "[redacted]T21:07:38+00:00",
           "finished_at": "",
           "status": "running",
           "live": true,
@@ -46,6 +46,22 @@
           "replies": 0,
           "bounces": 0,
           "duration_sec": 0.0,
+          "google_429": 0
+        },
+        {
+          "id": 515,
+          "started_at": "[redacted]T20:32:38+00:00",
+          "finished_at": "[redacted]T20:39:08+00:00",
+          "status": "ok",
+          "live": true,
+          "ingested": 0,
+          "scanned": 48,
+          "applied": 0,
+          "queued": 233,
+          "errors": 0,
+          "replies": 0,
+          "bounces": 0,
+          "duration_sec": 390.0,
           "google_429": 0
         },
         {
@@ -654,22 +670,6 @@
           "replies": 0,
           "bounces": 0,
           "duration_sec": 320.0,
-          "google_429": 0
-        },
-        {
-          "id": 476,
-          "started_at": "[redacted]T08:47:38+00:00",
-          "finished_at": "[redacted]T08:52:38+00:00",
-          "status": "ok",
-          "live": true,
-          "ingested": 0,
-          "scanned": 40,
-          "applied": 0,
-          "queued": 228,
-          "errors": 0,
-          "replies": 0,
-          "bounces": 0,
-          "duration_sec": 300.0,
           "google_429": 0
         }
       ],
@@ -3646,7 +3646,7 @@
           "title": "Staff Software Engineer, Data Warehouse Foundation",
           "sent_at": "[redacted]T16:47:03",
           "last_activity": "[redacted]T21:04:14",
-          "waiting_days": 25,
+          "waiting_days": 26,
           "replies": 0,
           "followups": 2
         },
@@ -3656,7 +3656,7 @@
           "title": "Enterprise Data Warehouse (EDW) ETL/Data Engineer",
           "sent_at": "[redacted]T16:46:45",
           "last_activity": "[redacted]T21:04:10",
-          "waiting_days": 25,
+          "waiting_days": 26,
           "replies": 0,
           "followups": 2
         },
@@ -3666,7 +3666,7 @@
           "title": "Data Warehouse Integration Engineer",
           "sent_at": "[redacted]T16:46:39",
           "last_activity": "[redacted]T21:04:07",
-          "waiting_days": 25,
+          "waiting_days": 26,
           "replies": 0,
           "followups": 2
         },
@@ -3676,7 +3676,7 @@
           "title": "Hadoop Administrator / MAPR - Admin",
           "sent_at": "[redacted]T16:46:32",
           "last_activity": "[redacted]T21:04:03",
-          "waiting_days": 25,
+          "waiting_days": 26,
           "replies": 0,
           "followups": 2
         },
@@ -3686,7 +3686,7 @@
           "title": "Data Engineer / Senior Data Engineer (B)",
           "sent_at": "[redacted]T16:46:26",
           "last_activity": "[redacted]T21:04:00",
-          "waiting_days": 25,
+          "waiting_days": 26,
           "replies": 0,
           "followups": 2
         },
@@ -3696,7 +3696,7 @@
           "title": "Sr. Data Engineer",
           "sent_at": "[redacted]T16:41:39",
           "last_activity": "[redacted]T21:03:56",
-          "waiting_days": 25,
+          "waiting_days": 26,
           "replies": 0,
           "followups": 2
         },
@@ -4769,7 +4769,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T20:43:41",
           "first_seen_at": "[redacted]T20:43:01",
-          "age_days": 8,
+          "age_days": 9,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -4789,7 +4789,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T20:43:22",
           "first_seen_at": "[redacted]T20:42:48",
-          "age_days": 8,
+          "age_days": 9,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -4889,7 +4889,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T15:31:10",
           "first_seen_at": "[redacted]T21:02:44",
-          "age_days": 26,
+          "age_days": 27,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -4949,7 +4949,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T15:28:59",
           "first_seen_at": "[redacted]T21:02:44",
-          "age_days": 26,
+          "age_days": 27,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -5951,7 +5951,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T21:02:44",
-          "age_days": 26,
+          "age_days": 27,
           "ctc": "82.2 LPA",
           "outcome": "",
           "on_track": true
@@ -6031,7 +6031,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T21:02:44",
-          "age_days": 26,
+          "age_days": 27,
           "ctc": "69.7 LPA",
           "outcome": "",
           "on_track": true
@@ -6131,7 +6131,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T21:02:44",
-          "age_days": 26,
+          "age_days": 27,
           "ctc": "111.6 LPA",
           "outcome": "",
           "on_track": true
@@ -6171,7 +6171,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T21:02:44",
-          "age_days": 26,
+          "age_days": 27,
           "ctc": "78.8\u201398.8 LPA",
           "outcome": "",
           "on_track": true
@@ -6251,7 +6251,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T20:42:49",
-          "age_days": 8,
+          "age_days": 9,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -6311,7 +6311,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T20:43:02",
-          "age_days": 8,
+          "age_days": 9,
           "ctc": "67.1\u201391.5 LPA",
           "outcome": "",
           "on_track": true
@@ -6351,7 +6351,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T21:02:44",
-          "age_days": 26,
+          "age_days": 27,
           "ctc": "34.9 LPA",
           "outcome": "",
           "on_track": true
@@ -6371,7 +6371,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T21:02:44",
-          "age_days": 26,
+          "age_days": 27,
           "ctc": "90.7 LPA",
           "outcome": "",
           "on_track": true
@@ -6391,7 +6391,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T21:02:44",
-          "age_days": 26,
+          "age_days": 27,
           "ctc": "34.9 LPA",
           "outcome": "",
           "on_track": true
@@ -6431,7 +6431,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T21:02:44",
-          "age_days": 26,
+          "age_days": 27,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -6531,7 +6531,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T21:02:53",
-          "age_days": 26,
+          "age_days": 27,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -6551,7 +6551,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T21:02:41",
-          "age_days": 26,
+          "age_days": 27,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -6591,7 +6591,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T20:42:59",
-          "age_days": 8,
+          "age_days": 9,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -6773,7 +6773,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T20:43:41",
           "first_seen_at": "[redacted]T20:43:01",
-          "age_days": 8,
+          "age_days": 9,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -6793,7 +6793,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T20:43:22",
           "first_seen_at": "[redacted]T20:42:48",
-          "age_days": 8,
+          "age_days": 9,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -6893,7 +6893,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T15:31:10",
           "first_seen_at": "[redacted]T21:02:44",
-          "age_days": 26,
+          "age_days": 27,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -6953,7 +6953,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T15:28:59",
           "first_seen_at": "[redacted]T21:02:44",
-          "age_days": 26,
+          "age_days": 27,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -7786,7 +7786,7 @@
           "title": "Tosca Specialist (m/w/d) ghc solutions GmbH",
           "sent_at": "[redacted]T04:20:09",
           "last_activity": "[redacted]T20:48:36",
-          "waiting_days": 8,
+          "waiting_days": 9,
           "replies": 0,
           "followups": 2
         },
@@ -7796,7 +7796,7 @@
           "title": "Tricentis NeoLoad Performance Test Engineer",
           "sent_at": "[redacted]T04:20:02",
           "last_activity": "[redacted]T20:48:32",
-          "waiting_days": 8,
+          "waiting_days": 9,
           "replies": 0,
           "followups": 2
         },
@@ -7806,7 +7806,7 @@
           "title": "QA Automation Engineer (Tosca + Salesforce) | C2C| Max $55/Hr",
           "sent_at": "[redacted]T04:19:56",
           "last_activity": "[redacted]T20:48:29",
-          "waiting_days": 8,
+          "waiting_days": 9,
           "replies": 0,
           "followups": 2
         },
@@ -7816,7 +7816,7 @@
           "title": "SAP SuccessFactors Tosca Automation Test Analyst",
           "sent_at": "[redacted]T04:19:49",
           "last_activity": "[redacted]T20:48:25",
-          "waiting_days": 8,
+          "waiting_days": 9,
           "replies": 0,
           "followups": 2
         },
@@ -7826,7 +7826,7 @@
           "title": "Product Marketing and Community Manager",
           "sent_at": "[redacted]T04:18:42",
           "last_activity": "[redacted]T20:48:21",
-          "waiting_days": 8,
+          "waiting_days": 9,
           "replies": 0,
           "followups": 2
         },
@@ -7836,7 +7836,7 @@
           "title": "| QA Automation Selenium/Playwright | Fresher/Intern | Ahmedabad (Work from Office).",
           "sent_at": "[redacted]T06:21:07",
           "last_activity": "[redacted]T20:48:17",
-          "waiting_days": 8,
+          "waiting_days": 9,
           "replies": 0,
           "followups": 1
         },
@@ -7846,7 +7846,7 @@
           "title": "SAP QA Tester",
           "sent_at": "[redacted]T12:30:06",
           "last_activity": "[redacted]T20:48:14",
-          "waiting_days": 8,
+          "waiting_days": 9,
           "replies": 0,
           "followups": 1
         },
@@ -7856,7 +7856,7 @@
           "title": "Automation QA Engineer (AQA)",
           "sent_at": "[redacted]T19:40:11",
           "last_activity": "[redacted]T20:48:10",
-          "waiting_days": 8,
+          "waiting_days": 9,
           "replies": 0,
           "followups": 1
         },
@@ -7866,7 +7866,7 @@
           "title": "Product Engineer",
           "sent_at": "[redacted]T20:43:41",
           "last_activity": "[redacted]T20:43:41",
-          "waiting_days": 8,
+          "waiting_days": 9,
           "replies": 0,
           "followups": 0
         },
@@ -7876,7 +7876,7 @@
           "title": "Lead Automation Engineer",
           "sent_at": "[redacted]T20:43:22",
           "last_activity": "[redacted]T20:43:22",
-          "waiting_days": 8,
+          "waiting_days": 9,
           "replies": 0,
           "followups": 0
         },
@@ -7986,7 +7986,7 @@
           "title": "Java Full Stack Developer",
           "sent_at": "[redacted]T19:57:48",
           "last_activity": "[redacted]T21:06:36",
-          "waiting_days": 26,
+          "waiting_days": 27,
           "replies": 0,
           "followups": 2
         },
@@ -7996,7 +7996,7 @@
           "title": "Playwright / Test Automation",
           "sent_at": "[redacted]T19:57:42",
           "last_activity": "[redacted]T21:06:32",
-          "waiting_days": 26,
+          "waiting_days": 27,
           "replies": 0,
           "followups": 2
         },
@@ -8006,7 +8006,7 @@
           "title": "\u2705 API Testing & Automation Frameworks",
           "sent_at": "[redacted]T19:57:35",
           "last_activity": "[redacted]T21:06:28",
-          "waiting_days": 26,
+          "waiting_days": 27,
           "replies": 0,
           "followups": 2
         },
@@ -8016,7 +8016,7 @@
           "title": "\u2705 UI Automation \u2013 Selenium, Cypress, Playwright",
           "sent_at": "[redacted]T19:57:31",
           "last_activity": "[redacted]T21:06:24",
-          "waiting_days": 26,
+          "waiting_days": 27,
           "replies": 0,
           "followups": 2
         },
@@ -8026,7 +8026,7 @@
           "title": "Pavithra M",
           "sent_at": "[redacted]T19:46:45",
           "last_activity": "[redacted]T21:06:20",
-          "waiting_days": 26,
+          "waiting_days": 27,
           "replies": 0,
           "followups": 2
         },
@@ -8036,7 +8036,7 @@
           "title": "Bench Sales and US IT Recruiter (staffing)",
           "sent_at": "[redacted]T19:46:40",
           "last_activity": "[redacted]T21:06:16",
-          "waiting_days": 26,
+          "waiting_days": 27,
           "replies": 0,
           "followups": 2
         }
