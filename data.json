@@ -1,5 +1,5 @@
 {
-  "updated_at": "[redacted]T22:15:37+00:00",
+  "updated_at": "[redacted]T22:57:54+00:00",
   "pages_url": "https://raviacn95.github.io/job-apply-status/",
   "users": [
     {
@@ -18,10 +18,10 @@
         "applied": 45,
         "applied_this_week": 1,
         "desk": 249,
-        "hidden_other_track": 101,
+        "hidden_other_track": 102,
         "daily_remaining": 49,
         "daily_limit": 50,
-        "last_cycle_at": "[redacted]T22:07:38+00:00",
+        "last_cycle_at": "[redacted]T22:42:38+00:00",
         "last_apply_at": "[redacted]T21:25:30"
       },
       "mail": {
@@ -33,8 +33,8 @@
       },
       "runs": [
         {
-          "id": 522,
-          "started_at": "[redacted]T22:07:38+00:00",
+          "id": 523,
+          "started_at": "[redacted]T22:42:38+00:00",
           "finished_at": "",
           "status": "running",
           "live": true,
@@ -46,6 +46,22 @@
           "replies": 0,
           "bounces": 0,
           "duration_sec": 0.0,
+          "google_429": 0
+        },
+        {
+          "id": 522,
+          "started_at": "[redacted]T22:07:38+00:00",
+          "finished_at": "[redacted]T22:16:16+00:00",
+          "status": "ok",
+          "live": true,
+          "ingested": 0,
+          "scanned": 48,
+          "applied": 0,
+          "queued": 236,
+          "errors": 0,
+          "replies": 0,
+          "bounces": 0,
+          "duration_sec": 518.0,
           "google_429": 0
         },
         {
@@ -655,22 +671,6 @@
           "bounces": 0,
           "duration_sec": 584.0,
           "google_429": 0
-        },
-        {
-          "id": 483,
-          "started_at": "[redacted]T08:17:11+00:00",
-          "finished_at": "[redacted]T08:29:07+00:00",
-          "status": "ok",
-          "live": true,
-          "ingested": 2,
-          "scanned": 50,
-          "applied": 0,
-          "queued": 228,
-          "errors": 0,
-          "replies": 0,
-          "bounces": 0,
-          "duration_sec": 716.0,
-          "google_429": 0
         }
       ],
       "applied_jobs": [
@@ -709,7 +709,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T22:34:59",
           "first_seen_at": "[redacted]T22:34:54",
-          "age_days": 8,
+          "age_days": 9,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -2613,7 +2613,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T22:34:59",
           "first_seen_at": "[redacted]T22:34:54",
-          "age_days": 8,
+          "age_days": 9,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -3946,7 +3946,7 @@
           "title": "Team Manager Data Warehouse",
           "sent_at": "[redacted]T22:34:59",
           "last_activity": "[redacted]T12:27:19",
-          "waiting_days": 8,
+          "waiting_days": 9,
           "replies": 1,
           "followups": 0
         },
@@ -3993,11 +3993,11 @@
         "Tosca / SAP / Playwright Automation"
       ],
       "stats": {
-        "jobs": 1312,
-        "matched": 1149,
+        "jobs": 1314,
+        "matched": 1151,
         "applied": 163,
         "applied_this_week": 5,
-        "desk": 1149,
+        "desk": 1151,
         "hidden_other_track": 2,
         "daily_remaining": 48,
         "daily_limit": 50,
@@ -5169,7 +5169,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T22:31:25",
           "first_seen_at": "[redacted]T22:31:20",
-          "age_days": 27,
+          "age_days": 28,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -5189,7 +5189,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T22:26:54",
           "first_seen_at": "[redacted]T22:26:49",
-          "age_days": 28,
+          "age_days": 29,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -7173,7 +7173,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T22:31:25",
           "first_seen_at": "[redacted]T22:31:20",
-          "age_days": 27,
+          "age_days": 28,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -7193,7 +7193,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T22:26:54",
           "first_seen_at": "[redacted]T22:26:49",
-          "age_days": 28,
+          "age_days": 29,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
