@@ -1,5 +1,5 @@
 {
-  "updated_at": "[redacted]T21:06:04+00:00",
+  "updated_at": "[redacted]T21:42:08+00:00",
   "pages_url": "https://raviacn95.github.io/job-apply-status/",
   "users": [
     {
@@ -13,28 +13,28 @@
         "Teradata DBA"
       ],
       "stats": {
-        "jobs": 292,
-        "matched": 248,
-        "applied": 44,
-        "applied_this_week": 0,
-        "desk": 248,
+        "jobs": 294,
+        "matched": 249,
+        "applied": 45,
+        "applied_this_week": 1,
+        "desk": 249,
         "hidden_other_track": 101,
-        "daily_remaining": 50,
+        "daily_remaining": 49,
         "daily_limit": 50,
-        "last_cycle_at": "[redacted]T20:57:38+00:00",
-        "last_apply_at": "[redacted]T22:34:59"
+        "last_cycle_at": "[redacted]T21:32:38+00:00",
+        "last_apply_at": "[redacted]T21:25:30"
       },
       "mail": {
-        "threads": 44,
-        "waiting": 0,
+        "threads": 45,
+        "waiting": 1,
         "followup_due": 36,
         "replied": 8,
         "bounced": 0
       },
       "runs": [
         {
-          "id": 520,
-          "started_at": "[redacted]T20:57:38+00:00",
+          "id": 521,
+          "started_at": "[redacted]T21:32:38+00:00",
           "finished_at": "",
           "status": "running",
           "live": true,
@@ -46,6 +46,22 @@
           "replies": 0,
           "bounces": 0,
           "duration_sec": 0.0,
+          "google_429": 0
+        },
+        {
+          "id": 520,
+          "started_at": "[redacted]T20:57:38+00:00",
+          "finished_at": "[redacted]T21:07:09+00:00",
+          "status": "ok",
+          "live": true,
+          "ingested": 0,
+          "scanned": 48,
+          "applied": 0,
+          "queued": 235,
+          "errors": 0,
+          "replies": 0,
+          "bounces": 0,
+          "duration_sec": 571.0,
           "google_429": 0
         },
         {
@@ -655,25 +671,29 @@
           "bounces": 0,
           "duration_sec": 0.0,
           "google_429": 0
-        },
-        {
-          "id": 481,
-          "started_at": "[redacted]T08:58:31+00:00",
-          "finished_at": "",
-          "status": "running",
-          "live": true,
-          "ingested": 0,
-          "scanned": 0,
-          "applied": 0,
-          "queued": 0,
-          "errors": 0,
-          "replies": 0,
-          "bounces": 0,
-          "duration_sec": 0.0,
-          "google_429": 0
         }
       ],
       "applied_jobs": [
+        {
+          "id": 496,
+          "status": "applied",
+          "track": "teradata_dba",
+          "track_label": "Teradata DBA",
+          "score": 28.0,
+          "company": "Oxford Global Resources",
+          "title": "Data Warehouse Analyst",
+          "location": "Remote, US",
+          "source": "harvest_teradata",
+          "url": "https://www.indeed.com/viewjob?jk=75d1e0e5203a9c10",
+          "channel": "email",
+          "applied_via": "email",
+          "applied_at": "[redacted]T21:25:30",
+          "first_seen_at": "[redacted]T21:25:25",
+          "age_days": 0,
+          "ctc": "unlisted",
+          "outcome": "",
+          "on_track": true
+        },
         {
           "id": 469,
           "status": "applied",
@@ -1697,6 +1717,26 @@
           "on_track": true
         },
         {
+          "id": 497,
+          "status": "matched",
+          "track": "teradata_dba",
+          "track_label": "Teradata DBA",
+          "score": 28.0,
+          "company": "American business solutions inc",
+          "title": "SQL Server DBA -Only Ohio Candidate",
+          "location": "Columbus, OH, US",
+          "source": "harvest_teradata",
+          "url": "https://www.indeed.com/viewjob?jk=d066027f5cb26d03",
+          "channel": "apply desk",
+          "applied_via": "",
+          "applied_at": "",
+          "first_seen_at": "[redacted]T21:25:32",
+          "age_days": 0,
+          "ctc": "unlisted",
+          "outcome": "",
+          "on_track": true
+        },
+        {
           "id": 495,
           "status": "matched",
           "track": "teradata_dba",
@@ -1891,7 +1931,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T21:31:11",
-          "age_days": 12,
+          "age_days": 13,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -2535,29 +2575,29 @@
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
-        },
-        {
-          "id": 394,
-          "status": "matched",
-          "track": "teradata_dba",
-          "track_label": "Teradata DBA",
-          "score": 28.0,
-          "company": "Realign",
-          "title": "Data Engineer -2",
-          "location": "Charlotte, NC, US",
-          "source": "harvest_teradata",
-          "url": "https://www.indeed.com/viewjob?jk=29a5141f317bf5d2",
-          "channel": "apply desk",
-          "applied_via": "",
-          "applied_at": "",
-          "first_seen_at": "[redacted]T20:01:42",
-          "age_days": 18,
-          "ctc": "unlisted",
-          "outcome": "",
-          "on_track": true
         }
       ],
       "jobs": [
+        {
+          "id": 496,
+          "status": "applied",
+          "track": "teradata_dba",
+          "track_label": "Teradata DBA",
+          "score": 28.0,
+          "company": "Oxford Global Resources",
+          "title": "Data Warehouse Analyst",
+          "location": "Remote, US",
+          "source": "harvest_teradata",
+          "url": "https://www.indeed.com/viewjob?jk=75d1e0e5203a9c10",
+          "channel": "email",
+          "applied_via": "email",
+          "applied_at": "[redacted]T21:25:30",
+          "first_seen_at": "[redacted]T21:25:25",
+          "age_days": 0,
+          "ctc": "unlisted",
+          "outcome": "",
+          "on_track": true
+        },
         {
           "id": 469,
           "status": "applied",
@@ -3537,26 +3577,6 @@
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
-        },
-        {
-          "id": 5,
-          "status": "matched",
-          "track": "teradata_dba",
-          "track_label": "Teradata DBA",
-          "score": 36.0,
-          "company": "Teradata",
-          "title": "Principal Architect",
-          "location": "Bengaluru, Karnataka, India",
-          "source": "linkedin",
-          "url": "https://www.linkedin.com/jobs/view/[redacted]",
-          "channel": "linkedin \u00b7 apply desk",
-          "applied_via": "",
-          "applied_at": "",
-          "first_seen_at": "[redacted]T15:19:43",
-          "age_days": 38,
-          "ctc": "unlisted",
-          "outcome": "",
-          "on_track": true
         }
       ],
       "threads": [
@@ -3973,11 +3993,11 @@
         "Tosca / SAP / Playwright Automation"
       ],
       "stats": {
-        "jobs": 1311,
-        "matched": 1148,
+        "jobs": 1312,
+        "matched": 1149,
         "applied": 163,
         "applied_this_week": 5,
-        "desk": 1148,
+        "desk": 1149,
         "hidden_other_track": 2,
         "daily_remaining": 48,
         "daily_limit": 50,
@@ -7706,7 +7726,7 @@
           "title": "Architect/Consultant SAP Business Technology Platform (BTP) (m/f/d)",
           "sent_at": "[redacted]T12:19:45",
           "last_activity": "[redacted]T21:33:25",
-          "waiting_days": 10,
+          "waiting_days": 11,
           "replies": 0,
           "followups": 2
         },
@@ -7716,7 +7736,7 @@
           "title": "Senior Consultant SAP Test Management",
           "sent_at": "[redacted]T19:33:50",
           "last_activity": "[redacted]T21:33:21",
-          "waiting_days": 10,
+          "waiting_days": 11,
           "replies": 0,
           "followups": 2
         },
@@ -7726,7 +7746,7 @@
           "title": "SAP CoE O2C Business Analysis Specialist II, Senior",
           "sent_at": "[redacted]T17:30:05",
           "last_activity": "[redacted]T21:33:17",
-          "waiting_days": 10,
+          "waiting_days": 11,
           "replies": 0,
           "followups": 2
         },
@@ -7736,7 +7756,7 @@
           "title": "Digital Marketing Executive (Remote) \u2013 SaaS / WhatsApp Automation",
           "sent_at": "[redacted]T17:29:57",
           "last_activity": "[redacted]T21:33:13",
-          "waiting_days": 10,
+          "waiting_days": 11,
           "replies": 0,
           "followups": 2
         },
@@ -7746,7 +7766,7 @@
           "title": "Specialist, SAP Plant Maintenance",
           "sent_at": "[redacted]T16:27:39",
           "last_activity": "[redacted]T21:33:09",
-          "waiting_days": 10,
+          "waiting_days": 11,
           "replies": 0,
           "followups": 2
         },
@@ -7756,7 +7776,7 @@
           "title": "OpenText xECM for SAP Solutions Architect",
           "sent_at": "[redacted]T22:31:25",
           "last_activity": "[redacted]T21:33:05",
-          "waiting_days": 10,
+          "waiting_days": 11,
           "replies": 0,
           "followups": 2
         },
@@ -7766,7 +7786,7 @@
           "title": "QA Automation Engineer",
           "sent_at": "[redacted]T16:32:07",
           "last_activity": "[redacted]T21:33:01",
-          "waiting_days": 10,
+          "waiting_days": 11,
           "replies": 0,
           "followups": 1
         },
@@ -7776,7 +7796,7 @@
           "title": "Payroll coordinator",
           "sent_at": "[redacted]T09:32:28",
           "last_activity": "[redacted]T21:32:57",
-          "waiting_days": 10,
+          "waiting_days": 11,
           "replies": 0,
           "followups": 2
         },
@@ -7986,7 +8006,7 @@
           "title": "Java Full Stack Developer",
           "sent_at": "[redacted]T19:57:48",
           "last_activity": "[redacted]T21:06:36",
-          "waiting_days": 28,
+          "waiting_days": 29,
           "replies": 0,
           "followups": 2
         },
@@ -7996,7 +8016,7 @@
           "title": "Playwright / Test Automation",
           "sent_at": "[redacted]T19:57:42",
           "last_activity": "[redacted]T21:06:32",
-          "waiting_days": 28,
+          "waiting_days": 29,
           "replies": 0,
           "followups": 2
         },
@@ -8006,7 +8026,7 @@
           "title": "\u2705 API Testing & Automation Frameworks",
           "sent_at": "[redacted]T19:57:35",
           "last_activity": "[redacted]T21:06:28",
-          "waiting_days": 28,
+          "waiting_days": 29,
           "replies": 0,
           "followups": 2
         },
@@ -8016,7 +8036,7 @@
           "title": "\u2705 UI Automation \u2013 Selenium, Cypress, Playwright",
           "sent_at": "[redacted]T19:57:31",
           "last_activity": "[redacted]T21:06:24",
-          "waiting_days": 28,
+          "waiting_days": 29,
           "replies": 0,
           "followups": 2
         },
@@ -8026,7 +8046,7 @@
           "title": "Pavithra M",
           "sent_at": "[redacted]T19:46:45",
           "last_activity": "[redacted]T21:06:20",
-          "waiting_days": 28,
+          "waiting_days": 29,
           "replies": 0,
           "followups": 2
         },
@@ -8036,7 +8056,7 @@
           "title": "Bench Sales and US IT Recruiter (staffing)",
           "sent_at": "[redacted]T19:46:40",
           "last_activity": "[redacted]T21:06:16",
-          "waiting_days": 28,
+          "waiting_days": 29,
           "replies": 0,
           "followups": 2
         }
