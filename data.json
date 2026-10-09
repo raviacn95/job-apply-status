@@ -1,5 +1,5 @@
 {
-  "updated_at": "[redacted]T23:29:26+00:00",
+  "updated_at": "[redacted]T00:05:34+00:00",
   "pages_url": "https://raviacn95.github.io/job-apply-status/",
   "users": [
     {
@@ -19,9 +19,9 @@
         "applied_this_week": 1,
         "desk": 249,
         "hidden_other_track": 102,
-        "daily_remaining": 49,
+        "daily_remaining": 50,
         "daily_limit": 50,
-        "last_cycle_at": "[redacted]T23:17:40+00:00",
+        "last_cycle_at": "[redacted]T23:52:38+00:00",
         "last_apply_at": "[redacted]T21:25:30"
       },
       "mail": {
@@ -33,8 +33,8 @@
       },
       "runs": [
         {
-          "id": 524,
-          "started_at": "[redacted]T23:17:40+00:00",
+          "id": 525,
+          "started_at": "[redacted]T23:52:38+00:00",
           "finished_at": "",
           "status": "running",
           "live": true,
@@ -46,6 +46,22 @@
           "replies": 0,
           "bounces": 0,
           "duration_sec": 0.0,
+          "google_429": 0
+        },
+        {
+          "id": 524,
+          "started_at": "[redacted]T23:17:40+00:00",
+          "finished_at": "[redacted]T23:30:07+00:00",
+          "status": "ok",
+          "live": true,
+          "ingested": 0,
+          "scanned": 48,
+          "applied": 0,
+          "queued": 236,
+          "errors": 0,
+          "replies": 0,
+          "bounces": 0,
+          "duration_sec": 747.0,
           "google_429": 0
         },
         {
@@ -654,22 +670,6 @@
           "replies": 0,
           "bounces": 0,
           "duration_sec": 572.0,
-          "google_429": 0
-        },
-        {
-          "id": 485,
-          "started_at": "[redacted]T09:12:39+00:00",
-          "finished_at": "[redacted]T09:23:10+00:00",
-          "status": "ok",
-          "live": true,
-          "ingested": 0,
-          "scanned": 48,
-          "applied": 0,
-          "queued": 228,
-          "errors": 0,
-          "replies": 0,
-          "bounces": 0,
-          "duration_sec": 631.0,
           "google_429": 0
         }
       ],
@@ -3999,7 +3999,7 @@
         "applied_this_week": 5,
         "desk": 1151,
         "hidden_other_track": 2,
-        "daily_remaining": 48,
+        "daily_remaining": 50,
         "daily_limit": 50,
         "last_cycle_at": "[redacted]T21:17:38+00:00",
         "last_apply_at": "[redacted]T20:54:30"
