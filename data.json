@@ -1,5 +1,5 @@
 {
-  "updated_at": "[redacted]T18:29:57+00:00",
+  "updated_at": "[redacted]T18:59:41+00:00",
   "pages_url": "https://raviacn95.github.io/job-apply-status/",
   "users": [
     {
@@ -13,15 +13,15 @@
         "Teradata DBA"
       ],
       "stats": {
-        "jobs": 305,
-        "matched": 260,
+        "jobs": 307,
+        "matched": 262,
         "applied": 45,
         "applied_this_week": 1,
-        "desk": 260,
+        "desk": 262,
         "hidden_other_track": 110,
         "daily_remaining": 50,
         "daily_limit": 50,
-        "last_cycle_at": "[redacted]T18:21:34+00:00",
+        "last_cycle_at": "[redacted]T18:37:39+00:00",
         "last_apply_at": "[redacted]T21:25:30"
       },
       "mail": {
@@ -33,8 +33,8 @@
       },
       "runs": [
         {
-          "id": 550,
-          "started_at": "[redacted]T18:21:34+00:00",
+          "id": 551,
+          "started_at": "[redacted]T18:37:39+00:00",
           "finished_at": "",
           "status": "running",
           "live": true,
@@ -46,6 +46,22 @@
           "replies": 0,
           "bounces": 0,
           "duration_sec": 0.0,
+          "google_429": 0
+        },
+        {
+          "id": 550,
+          "started_at": "[redacted]T18:21:34+00:00",
+          "finished_at": "[redacted]T18:30:29+00:00",
+          "status": "ok",
+          "live": true,
+          "ingested": 3,
+          "scanned": 51,
+          "applied": 0,
+          "queued": 247,
+          "errors": 0,
+          "replies": 0,
+          "bounces": 0,
+          "duration_sec": 535.0,
           "google_429": 0
         },
         {
@@ -655,22 +671,6 @@
           "bounces": 0,
           "duration_sec": 673.0,
           "google_429": 0
-        },
-        {
-          "id": 511,
-          "started_at": "[redacted]T18:12:38+00:00",
-          "finished_at": "[redacted]T18:25:02+00:00",
-          "status": "ok",
-          "live": true,
-          "ingested": 0,
-          "scanned": 48,
-          "applied": 0,
-          "queued": 231,
-          "errors": 0,
-          "replies": 0,
-          "bounces": 0,
-          "duration_sec": 744.0,
-          "google_429": 8
         }
       ],
       "applied_jobs": [
@@ -1717,6 +1717,46 @@
           "on_track": true
         },
         {
+          "id": 519,
+          "status": "matched",
+          "track": "teradata_dba",
+          "track_label": "Teradata DBA",
+          "score": 28.0,
+          "company": "RCR Technology",
+          "title": "MDM ETL Expert / Technical Lead",
+          "location": "Remote, US",
+          "source": "harvest_teradata",
+          "url": "https://www.indeed.com/viewjob?jk=a9420cbb263d1444",
+          "channel": "apply desk",
+          "applied_via": "",
+          "applied_at": "",
+          "first_seen_at": "[redacted]T18:30:47",
+          "age_days": 0,
+          "ctc": "unlisted",
+          "outcome": "",
+          "on_track": true
+        },
+        {
+          "id": 518,
+          "status": "matched",
+          "track": "teradata_dba",
+          "track_label": "Teradata DBA",
+          "score": 28.0,
+          "company": "COMPEST SOLUTIONS INDIA PRIVATE LIMITED",
+          "title": "Pega Informatica Developer",
+          "location": "Remote, US",
+          "source": "harvest_teradata",
+          "url": "https://www.indeed.com/viewjob?jk=b87544bd0c119bed",
+          "channel": "apply desk",
+          "applied_via": "",
+          "applied_at": "",
+          "first_seen_at": "[redacted]T18:30:47",
+          "age_days": 0,
+          "ctc": "unlisted",
+          "outcome": "",
+          "on_track": true
+        },
+        {
           "id": 514,
           "status": "matched",
           "track": "teradata_dba",
@@ -2071,7 +2111,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T18:33:15",
-          "age_days": 12,
+          "age_days": 13,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -2527,46 +2567,6 @@
           "location": "Chicago, IL, US",
           "source": "harvest_teradata",
           "url": "https://www.indeed.com/viewjob?jk=67d0d3ecc1106859",
-          "channel": "apply desk",
-          "applied_via": "",
-          "applied_at": "",
-          "first_seen_at": "[redacted]T20:01:42",
-          "age_days": 24,
-          "ctc": "unlisted",
-          "outcome": "",
-          "on_track": true
-        },
-        {
-          "id": 407,
-          "status": "matched",
-          "track": "teradata_dba",
-          "track_label": "Teradata DBA",
-          "score": 28.0,
-          "company": "NTT DATA",
-          "title": "ETL Developer",
-          "location": "New York, NY, US",
-          "source": "harvest_teradata",
-          "url": "https://www.indeed.com/viewjob?jk=0a9ab035b419ae49",
-          "channel": "apply desk",
-          "applied_via": "",
-          "applied_at": "",
-          "first_seen_at": "[redacted]T20:01:42",
-          "age_days": 24,
-          "ctc": "unlisted",
-          "outcome": "",
-          "on_track": true
-        },
-        {
-          "id": 406,
-          "status": "matched",
-          "track": "teradata_dba",
-          "track_label": "Teradata DBA",
-          "score": 28.0,
-          "company": "Delan Associates, Inc",
-          "title": "Senior Data Analyst / Data Engineer",
-          "location": "Juno Beach, FL, US",
-          "source": "harvest_teradata",
-          "url": "https://www.indeed.com/viewjob?jk=e9ad3a[redacted]",
           "channel": "apply desk",
           "applied_via": "",
           "applied_at": "",
@@ -3993,11 +3993,11 @@
         "Tosca / SAP / Playwright Automation"
       ],
       "stats": {
-        "jobs": 1347,
-        "matched": 1182,
+        "jobs": 1349,
+        "matched": 1184,
         "applied": 165,
         "applied_this_week": 4,
-        "desk": 1182,
+        "desk": 1184,
         "hidden_other_track": 2,
         "daily_remaining": 50,
         "daily_limit": 50,
