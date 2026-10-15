@@ -1,5 +1,5 @@
 {
-  "updated_at": "[redacted]T21:41:00+00:00",
+  "updated_at": "[redacted]T22:15:24+00:00",
   "pages_url": "https://raviacn95.github.io/job-apply-status/",
   "users": [
     {
@@ -18,10 +18,10 @@
         "applied": 45,
         "applied_this_week": 0,
         "desk": 263,
-        "hidden_other_track": 110,
+        "hidden_other_track": 111,
         "daily_remaining": 50,
         "daily_limit": 50,
-        "last_cycle_at": "[redacted]T21:32:38+00:00",
+        "last_cycle_at": "[redacted]T22:07:38+00:00",
         "last_apply_at": "[redacted]T21:25:30"
       },
       "mail": {
@@ -33,8 +33,8 @@
       },
       "runs": [
         {
-          "id": 555,
-          "started_at": "[redacted]T21:32:38+00:00",
+          "id": 556,
+          "started_at": "[redacted]T22:07:38+00:00",
           "finished_at": "",
           "status": "running",
           "live": true,
@@ -46,6 +46,22 @@
           "replies": 0,
           "bounces": 0,
           "duration_sec": 0.0,
+          "google_429": 0
+        },
+        {
+          "id": 555,
+          "started_at": "[redacted]T21:32:38+00:00",
+          "finished_at": "[redacted]T21:41:29+00:00",
+          "status": "ok",
+          "live": true,
+          "ingested": 0,
+          "scanned": 48,
+          "applied": 0,
+          "queued": 250,
+          "errors": 0,
+          "replies": 0,
+          "bounces": 0,
+          "duration_sec": 531.0,
           "google_429": 0
         },
         {
@@ -654,22 +670,6 @@
           "replies": 0,
           "bounces": 0,
           "duration_sec": 0.0,
-          "google_429": 0
-        },
-        {
-          "id": 516,
-          "started_at": "[redacted]T21:07:38+00:00",
-          "finished_at": "[redacted]T21:17:40+00:00",
-          "status": "ok",
-          "live": true,
-          "ingested": 0,
-          "scanned": 48,
-          "applied": 0,
-          "queued": 233,
-          "errors": 0,
-          "replies": 0,
-          "bounces": 0,
-          "duration_sec": 602.0,
           "google_429": 0
         }
       ],
@@ -2111,7 +2111,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T21:50:47",
-          "age_days": 11,
+          "age_days": 12,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -4669,7 +4669,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T21:45:50",
           "first_seen_at": "[redacted]T21:45:38",
-          "age_days": 4,
+          "age_days": 5,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -6673,7 +6673,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T21:45:50",
           "first_seen_at": "[redacted]T21:45:38",
-          "age_days": 4,
+          "age_days": 5,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -7666,7 +7666,7 @@
           "title": "SDE II - QA, (Fixed term Contract)",
           "sent_at": "[redacted]T21:45:50",
           "last_activity": "[redacted]T21:45:50",
-          "waiting_days": 4,
+          "waiting_days": 5,
           "replies": 0,
           "followups": 0
         },
