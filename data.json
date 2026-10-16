@@ -1,5 +1,5 @@
 {
-  "updated_at": "[redacted]T18:18:32+00:00",
+  "updated_at": "[redacted]T18:37:13+00:00",
   "pages_url": "https://raviacn95.github.io/job-apply-status/",
   "users": [
     {
@@ -13,28 +13,28 @@
         "Teradata DBA"
       ],
       "stats": {
-        "jobs": 308,
-        "matched": 263,
-        "applied": 45,
-        "applied_this_week": 0,
-        "desk": 263,
+        "jobs": 310,
+        "matched": 264,
+        "applied": 46,
+        "applied_this_week": 1,
+        "desk": 264,
         "hidden_other_track": 116,
-        "daily_remaining": 50,
+        "daily_remaining": 49,
         "daily_limit": 50,
-        "last_cycle_at": "[redacted]T18:13:46+00:00",
-        "last_apply_at": "[redacted]T21:25:30"
+        "last_cycle_at": "[redacted]T18:32:38+00:00",
+        "last_apply_at": "[redacted]T18:30:14"
       },
       "mail": {
-        "threads": 45,
-        "waiting": 1,
+        "threads": 46,
+        "waiting": 2,
         "followup_due": 36,
         "replied": 8,
         "bounced": 0
       },
       "runs": [
         {
-          "id": 566,
-          "started_at": "[redacted]T18:13:46+00:00",
+          "id": 567,
+          "started_at": "[redacted]T18:32:38+00:00",
           "finished_at": "",
           "status": "running",
           "live": true,
@@ -46,6 +46,22 @@
           "replies": 0,
           "bounces": 0,
           "duration_sec": 0.0,
+          "google_429": 0
+        },
+        {
+          "id": 566,
+          "started_at": "[redacted]T18:13:46+00:00",
+          "finished_at": "[redacted]T18:18:41+00:00",
+          "status": "ok",
+          "live": true,
+          "ingested": 2,
+          "scanned": 50,
+          "applied": 0,
+          "queued": 250,
+          "errors": 0,
+          "replies": 0,
+          "bounces": 0,
+          "duration_sec": 295.0,
           "google_429": 0
         },
         {
@@ -655,25 +671,29 @@
           "bounces": 0,
           "duration_sec": 442.0,
           "google_429": 0
-        },
-        {
-          "id": 527,
-          "started_at": "[redacted]T20:52:22+00:00",
-          "finished_at": "[redacted]T21:00:57+00:00",
-          "status": "ok",
-          "live": true,
-          "ingested": 2,
-          "scanned": 50,
-          "applied": 0,
-          "queued": 236,
-          "errors": 0,
-          "replies": 0,
-          "bounces": 0,
-          "duration_sec": 515.0,
-          "google_429": 0
         }
       ],
       "applied_jobs": [
+        {
+          "id": 529,
+          "status": "applied",
+          "track": "teradata_dba",
+          "track_label": "Teradata DBA",
+          "score": 28.0,
+          "company": "State of Colorado",
+          "title": "ETL (Extract Transform Load) Developer - Classified",
+          "location": "Denver, CO, US",
+          "source": "harvest_teradata",
+          "url": "https://www.indeed.com/viewjob?jk=c9a3b944ce1e76b8",
+          "channel": "email",
+          "applied_via": "email",
+          "applied_at": "[redacted]T18:30:14",
+          "first_seen_at": "[redacted]T18:30:08",
+          "age_days": 0,
+          "ctc": "unlisted",
+          "outcome": "",
+          "on_track": true
+        },
         {
           "id": 496,
           "status": "applied",
@@ -889,7 +909,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T18:28:56",
           "first_seen_at": "[redacted]T18:28:51",
-          "age_days": 35,
+          "age_days": 36,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -1717,6 +1737,26 @@
           "on_track": true
         },
         {
+          "id": 530,
+          "status": "matched",
+          "track": "teradata_dba",
+          "track_label": "Teradata DBA",
+          "score": 28.0,
+          "company": "nan",
+          "title": "SQL Developer",
+          "location": "Rancho Cucamonga, CA, US",
+          "source": "harvest_teradata",
+          "url": "https://www.indeed.com/viewjob?jk=3c39c5b9ff170ef9",
+          "channel": "apply desk",
+          "applied_via": "",
+          "applied_at": "",
+          "first_seen_at": "[redacted]T18:30:17",
+          "age_days": 0,
+          "ctc": "unlisted",
+          "outcome": "",
+          "on_track": true
+        },
+        {
           "id": 521,
           "status": "matched",
           "track": "teradata_dba",
@@ -1751,7 +1791,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T18:30:47",
-          "age_days": 0,
+          "age_days": 1,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -1771,7 +1811,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T18:30:47",
-          "age_days": 0,
+          "age_days": 1,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -2131,7 +2171,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T18:33:15",
-          "age_days": 13,
+          "age_days": 14,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -2555,29 +2595,29 @@
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
-        },
-        {
-          "id": 409,
-          "status": "matched",
-          "track": "teradata_dba",
-          "track_label": "Teradata DBA",
-          "score": 28.0,
-          "company": "Unknown",
-          "title": "ETL Tester with AI Exp",
-          "location": "Chicago, IL, US",
-          "source": "harvest_teradata",
-          "url": "https://www.indeed.com/viewjob?jk=4c[redacted]",
-          "channel": "apply desk",
-          "applied_via": "",
-          "applied_at": "",
-          "first_seen_at": "[redacted]T20:01:42",
-          "age_days": 25,
-          "ctc": "unlisted",
-          "outcome": "",
-          "on_track": true
         }
       ],
       "jobs": [
+        {
+          "id": 529,
+          "status": "applied",
+          "track": "teradata_dba",
+          "track_label": "Teradata DBA",
+          "score": 28.0,
+          "company": "State of Colorado",
+          "title": "ETL (Extract Transform Load) Developer - Classified",
+          "location": "Denver, CO, US",
+          "source": "harvest_teradata",
+          "url": "https://www.indeed.com/viewjob?jk=c9a3b944ce1e76b8",
+          "channel": "email",
+          "applied_via": "email",
+          "applied_at": "[redacted]T18:30:14",
+          "first_seen_at": "[redacted]T18:30:08",
+          "age_days": 0,
+          "ctc": "unlisted",
+          "outcome": "",
+          "on_track": true
+        },
         {
           "id": 496,
           "status": "applied",
@@ -2793,7 +2833,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T18:28:56",
           "first_seen_at": "[redacted]T18:28:51",
-          "age_days": 35,
+          "age_days": 36,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -3557,26 +3597,6 @@
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
-        },
-        {
-          "id": 8,
-          "status": "matched",
-          "track": "teradata_dba",
-          "track_label": "Teradata DBA",
-          "score": 45.5,
-          "company": "Teradata",
-          "title": "System Performance Engineer",
-          "location": "Hyderabad, Telangana, India",
-          "source": "linkedin",
-          "url": "https://www.linkedin.com/jobs/view/[redacted]",
-          "channel": "linkedin \u00b7 apply desk",
-          "applied_via": "",
-          "applied_at": "",
-          "first_seen_at": "[redacted]T15:19:45",
-          "age_days": 46,
-          "ctc": "unlisted",
-          "outcome": "",
-          "on_track": true
         }
       ],
       "threads": [
@@ -3993,11 +4013,11 @@
         "Tosca / SAP / Playwright Automation"
       ],
       "stats": {
-        "jobs": 1361,
-        "matched": 1196,
+        "jobs": 1366,
+        "matched": 1201,
         "applied": 165,
         "applied_this_week": 2,
-        "desk": 1196,
+        "desk": 1201,
         "hidden_other_track": 2,
         "daily_remaining": 50,
         "daily_limit": 50,
