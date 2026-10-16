@@ -1,5 +1,5 @@
 {
-  "updated_at": "[redacted]T20:45:34+00:00",
+  "updated_at": "[redacted]T20:59:41+00:00",
   "pages_url": "https://raviacn95.github.io/job-apply-status/",
   "users": [
     {
@@ -13,15 +13,15 @@
         "Teradata DBA"
       ],
       "stats": {
-        "jobs": 310,
-        "matched": 264,
+        "jobs": 311,
+        "matched": 265,
         "applied": 46,
         "applied_this_week": 1,
-        "desk": 264,
+        "desk": 265,
         "hidden_other_track": 116,
         "daily_remaining": 49,
         "daily_limit": 50,
-        "last_cycle_at": "[redacted]T20:38:19+00:00",
+        "last_cycle_at": "[redacted]T20:52:38+00:00",
         "last_apply_at": "[redacted]T18:30:14"
       },
       "mail": {
@@ -33,8 +33,8 @@
       },
       "runs": [
         {
-          "id": 568,
-          "started_at": "[redacted]T20:38:19+00:00",
+          "id": 569,
+          "started_at": "[redacted]T20:52:38+00:00",
           "finished_at": "",
           "status": "running",
           "live": true,
@@ -46,6 +46,22 @@
           "replies": 0,
           "bounces": 0,
           "duration_sec": 0.0,
+          "google_429": 0
+        },
+        {
+          "id": 568,
+          "started_at": "[redacted]T20:38:19+00:00",
+          "finished_at": "[redacted]T20:46:14+00:00",
+          "status": "ok",
+          "live": true,
+          "ingested": 0,
+          "scanned": 48,
+          "applied": 0,
+          "queued": 251,
+          "errors": 0,
+          "replies": 0,
+          "bounces": 0,
+          "duration_sec": 475.0,
           "google_429": 0
         },
         {
@@ -643,22 +659,6 @@
         {
           "id": 530,
           "started_at": "[redacted]T06:30:45+00:00",
-          "finished_at": "",
-          "status": "running",
-          "live": true,
-          "ingested": 0,
-          "scanned": 0,
-          "applied": 0,
-          "queued": 0,
-          "errors": 0,
-          "replies": 0,
-          "bounces": 0,
-          "duration_sec": 0.0,
-          "google_429": 0
-        },
-        {
-          "id": 529,
-          "started_at": "[redacted]T21:57:38+00:00",
           "finished_at": "",
           "status": "running",
           "live": true,
@@ -1737,6 +1737,26 @@
           "on_track": true
         },
         {
+          "id": 531,
+          "status": "matched",
+          "track": "teradata_dba",
+          "track_label": "Teradata DBA",
+          "score": 28.0,
+          "company": "STEELPRO",
+          "title": "Microsoft SQL (T-SQL) Database Administrator (DBA)",
+          "location": "Wayne, MI, US",
+          "source": "harvest_teradata",
+          "url": "https://www.indeed.com/viewjob?jk=344806d25e9c1f8c",
+          "channel": "apply desk",
+          "applied_via": "",
+          "applied_at": "",
+          "first_seen_at": "[redacted]T20:56:50",
+          "age_days": 0,
+          "ctc": "unlisted",
+          "outcome": "",
+          "on_track": true
+        },
+        {
           "id": 530,
           "status": "matched",
           "track": "teradata_dba",
@@ -2567,26 +2587,6 @@
           "location": "Austin, TX, US",
           "source": "harvest_teradata",
           "url": "https://www.indeed.com/viewjob?jk=b4f577bcfc8c4a97",
-          "channel": "apply desk",
-          "applied_via": "",
-          "applied_at": "",
-          "first_seen_at": "[redacted]T20:01:42",
-          "age_days": 26,
-          "ctc": "unlisted",
-          "outcome": "",
-          "on_track": true
-        },
-        {
-          "id": 410,
-          "status": "matched",
-          "track": "teradata_dba",
-          "track_label": "Teradata DBA",
-          "score": 28.0,
-          "company": "Public Sector Resourcing",
-          "title": "Senior Data Engineer (Informatica)",
-          "location": "Leeds, ENG, GB",
-          "source": "harvest_teradata",
-          "url": "https://uk.indeed.com/viewjob?jk=2979015d85f107da",
           "channel": "apply desk",
           "applied_via": "",
           "applied_at": "",
@@ -4013,11 +4013,11 @@
         "Tosca / SAP / Playwright Automation"
       ],
       "stats": {
-        "jobs": 1366,
-        "matched": 1201,
+        "jobs": 1370,
+        "matched": 1205,
         "applied": 165,
         "applied_this_week": 2,
-        "desk": 1201,
+        "desk": 1205,
         "hidden_other_track": 2,
         "daily_remaining": 50,
         "daily_limit": 50,
@@ -4729,7 +4729,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T20:54:30",
           "first_seen_at": "[redacted]T20:54:25",
-          "age_days": 7,
+          "age_days": 8,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -6733,7 +6733,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T20:54:30",
           "first_seen_at": "[redacted]T20:54:25",
-          "age_days": 7,
+          "age_days": 8,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -7706,7 +7706,7 @@
           "title": "QA Engineer (Playwright /JavaScript) \u2013 Permanent | Remote |",
           "sent_at": "[redacted]T20:54:30",
           "last_activity": "[redacted]T20:54:30",
-          "waiting_days": 7,
+          "waiting_days": 8,
           "replies": 0,
           "followups": 0
         },
@@ -7866,7 +7866,7 @@
           "title": "Tosca Specialist (m/w/d) ghc solutions GmbH",
           "sent_at": "[redacted]T04:20:09",
           "last_activity": "[redacted]T20:48:36",
-          "waiting_days": 18,
+          "waiting_days": 19,
           "replies": 0,
           "followups": 2
         },
@@ -7876,7 +7876,7 @@
           "title": "Tricentis NeoLoad Performance Test Engineer",
           "sent_at": "[redacted]T04:20:02",
           "last_activity": "[redacted]T20:48:32",
-          "waiting_days": 18,
+          "waiting_days": 19,
           "replies": 0,
           "followups": 2
         },
@@ -7886,7 +7886,7 @@
           "title": "QA Automation Engineer (Tosca + Salesforce) | C2C| Max $55/Hr",
           "sent_at": "[redacted]T04:19:56",
           "last_activity": "[redacted]T20:48:29",
-          "waiting_days": 18,
+          "waiting_days": 19,
           "replies": 0,
           "followups": 2
         },
@@ -7896,7 +7896,7 @@
           "title": "SAP SuccessFactors Tosca Automation Test Analyst",
           "sent_at": "[redacted]T04:19:49",
           "last_activity": "[redacted]T20:48:25",
-          "waiting_days": 18,
+          "waiting_days": 19,
           "replies": 0,
           "followups": 2
         },
@@ -7906,7 +7906,7 @@
           "title": "Product Marketing and Community Manager",
           "sent_at": "[redacted]T04:18:42",
           "last_activity": "[redacted]T20:48:21",
-          "waiting_days": 18,
+          "waiting_days": 19,
           "replies": 0,
           "followups": 2
         },
@@ -7916,7 +7916,7 @@
           "title": "| QA Automation Selenium/Playwright | Fresher/Intern | Ahmedabad (Work from Office).",
           "sent_at": "[redacted]T06:21:07",
           "last_activity": "[redacted]T20:48:17",
-          "waiting_days": 18,
+          "waiting_days": 19,
           "replies": 0,
           "followups": 1
         },
@@ -7926,7 +7926,7 @@
           "title": "SAP QA Tester",
           "sent_at": "[redacted]T12:30:06",
           "last_activity": "[redacted]T20:48:14",
-          "waiting_days": 18,
+          "waiting_days": 19,
           "replies": 0,
           "followups": 1
         },
@@ -7936,7 +7936,7 @@
           "title": "Automation QA Engineer (AQA)",
           "sent_at": "[redacted]T19:40:11",
           "last_activity": "[redacted]T20:48:10",
-          "waiting_days": 18,
+          "waiting_days": 19,
           "replies": 0,
           "followups": 1
         },
