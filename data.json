@@ -1,5 +1,5 @@
 {
-  "updated_at": "[redacted]T23:29:14+00:00",
+  "updated_at": "[redacted]T00:00:47+00:00",
   "pages_url": "https://raviacn95.github.io/job-apply-status/",
   "users": [
     {
@@ -21,7 +21,7 @@
         "hidden_other_track": 113,
         "daily_remaining": 50,
         "daily_limit": 50,
-        "last_cycle_at": "[redacted]T23:17:40+00:00",
+        "last_cycle_at": "[redacted]T23:52:38+00:00",
         "last_apply_at": "[redacted]T21:25:30"
       },
       "mail": {
@@ -33,8 +33,8 @@
       },
       "runs": [
         {
-          "id": 558,
-          "started_at": "[redacted]T23:17:40+00:00",
+          "id": 559,
+          "started_at": "[redacted]T23:52:38+00:00",
           "finished_at": "",
           "status": "running",
           "live": true,
@@ -46,6 +46,22 @@
           "replies": 0,
           "bounces": 0,
           "duration_sec": 0.0,
+          "google_429": 0
+        },
+        {
+          "id": 558,
+          "started_at": "[redacted]T23:17:40+00:00",
+          "finished_at": "[redacted]T23:29:50+00:00",
+          "status": "ok",
+          "live": true,
+          "ingested": 0,
+          "scanned": 48,
+          "applied": 0,
+          "queued": 250,
+          "errors": 0,
+          "replies": 0,
+          "bounces": 0,
+          "duration_sec": 730.0,
           "google_429": 0
         },
         {
@@ -654,22 +670,6 @@
           "replies": 0,
           "bounces": 0,
           "duration_sec": 571.0,
-          "google_429": 0
-        },
-        {
-          "id": 519,
-          "started_at": "[redacted]T20:27:41+00:00",
-          "finished_at": "[redacted]T20:35:06+00:00",
-          "status": "ok",
-          "live": true,
-          "ingested": 0,
-          "scanned": 48,
-          "applied": 0,
-          "queued": 235,
-          "errors": 0,
-          "replies": 0,
-          "bounces": 0,
-          "duration_sec": 445.0,
           "google_429": 0
         }
       ],
@@ -1811,7 +1811,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T23:55:08",
-          "age_days": 1,
+          "age_days": 2,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -1831,7 +1831,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T23:55:06",
-          "age_days": 1,
+          "age_days": 2,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -1851,7 +1851,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T23:55:06",
-          "age_days": 1,
+          "age_days": 2,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -1871,7 +1871,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T23:55:03",
-          "age_days": 1,
+          "age_days": 2,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -1891,7 +1891,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T23:55:03",
-          "age_days": 1,
+          "age_days": 2,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -1911,7 +1911,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T23:55:02",
-          "age_days": 1,
+          "age_days": 2,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -1931,7 +1931,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T23:55:01",
-          "age_days": 1,
+          "age_days": 2,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -1951,7 +1951,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T23:54:59",
-          "age_days": 1,
+          "age_days": 2,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
