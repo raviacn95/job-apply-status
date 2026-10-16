@@ -1,5 +1,5 @@
 {
-  "updated_at": "[redacted]T00:00:47+00:00",
+  "updated_at": "[redacted]T00:33:37+00:00",
   "pages_url": "https://raviacn95.github.io/job-apply-status/",
   "users": [
     {
@@ -18,10 +18,10 @@
         "applied": 45,
         "applied_this_week": 0,
         "desk": 263,
-        "hidden_other_track": 113,
+        "hidden_other_track": 114,
         "daily_remaining": 50,
         "daily_limit": 50,
-        "last_cycle_at": "[redacted]T23:52:38+00:00",
+        "last_cycle_at": "[redacted]T00:27:38+00:00",
         "last_apply_at": "[redacted]T21:25:30"
       },
       "mail": {
@@ -33,8 +33,8 @@
       },
       "runs": [
         {
-          "id": 559,
-          "started_at": "[redacted]T23:52:38+00:00",
+          "id": 560,
+          "started_at": "[redacted]T00:27:38+00:00",
           "finished_at": "",
           "status": "running",
           "live": true,
@@ -46,6 +46,22 @@
           "replies": 0,
           "bounces": 0,
           "duration_sec": 0.0,
+          "google_429": 0
+        },
+        {
+          "id": 559,
+          "started_at": "[redacted]T23:52:38+00:00",
+          "finished_at": "[redacted]T00:01:26+00:00",
+          "status": "ok",
+          "live": true,
+          "ingested": 0,
+          "scanned": 48,
+          "applied": 0,
+          "queued": 250,
+          "errors": 0,
+          "replies": 0,
+          "bounces": 0,
+          "duration_sec": 528.0,
           "google_429": 0
         },
         {
@@ -654,22 +670,6 @@
           "replies": 0,
           "bounces": 0,
           "duration_sec": 594.0,
-          "google_429": 0
-        },
-        {
-          "id": 520,
-          "started_at": "[redacted]T20:57:38+00:00",
-          "finished_at": "[redacted]T21:07:09+00:00",
-          "status": "ok",
-          "live": true,
-          "ingested": 0,
-          "scanned": 48,
-          "applied": 0,
-          "queued": 235,
-          "errors": 0,
-          "replies": 0,
-          "bounces": 0,
-          "duration_sec": 571.0,
           "google_429": 0
         }
       ],
