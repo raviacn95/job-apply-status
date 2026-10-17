@@ -1,5 +1,5 @@
 {
-  "updated_at": "[redacted]T00:27:26+00:00",
+  "updated_at": "[redacted]T01:02:03+00:00",
   "pages_url": "https://raviacn95.github.io/job-apply-status/",
   "users": [
     {
@@ -21,7 +21,7 @@
         "hidden_other_track": 116,
         "daily_remaining": 50,
         "daily_limit": 50,
-        "last_cycle_at": "[redacted]T00:22:37+00:00",
+        "last_cycle_at": "[redacted]T00:57:37+00:00",
         "last_apply_at": "[redacted]T18:30:14"
       },
       "mail": {
@@ -33,8 +33,8 @@
       },
       "runs": [
         {
-          "id": 575,
-          "started_at": "[redacted]T00:22:37+00:00",
+          "id": 576,
+          "started_at": "[redacted]T00:57:37+00:00",
           "finished_at": "",
           "status": "running",
           "live": true,
@@ -46,6 +46,22 @@
           "replies": 0,
           "bounces": 0,
           "duration_sec": 0.0,
+          "google_429": 0
+        },
+        {
+          "id": 575,
+          "started_at": "[redacted]T00:22:37+00:00",
+          "finished_at": "[redacted]T00:27:37+00:00",
+          "status": "ok",
+          "live": true,
+          "ingested": 0,
+          "scanned": 48,
+          "applied": 0,
+          "queued": 252,
+          "errors": 0,
+          "replies": 0,
+          "bounces": 0,
+          "duration_sec": 300.0,
           "google_429": 0
         },
         {
@@ -655,22 +671,6 @@
           "bounces": 0,
           "duration_sec": 0.0,
           "google_429": 0
-        },
-        {
-          "id": 536,
-          "started_at": "[redacted]T22:00:54+00:00",
-          "finished_at": "[redacted]T22:10:15+00:00",
-          "status": "ok",
-          "live": true,
-          "ingested": 0,
-          "scanned": 48,
-          "applied": 0,
-          "queued": 238,
-          "errors": 0,
-          "replies": 0,
-          "bounces": 0,
-          "duration_sec": 561.0,
-          "google_429": 88
         }
       ],
       "applied_jobs": [
