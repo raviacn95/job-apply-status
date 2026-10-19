@@ -1,5 +1,5 @@
 {
-  "updated_at": "[redacted]T20:12:03+00:00",
+  "updated_at": "[redacted]T20:49:15+00:00",
   "pages_url": "https://raviacn95.github.io/job-apply-status/",
   "users": [
     {
@@ -21,7 +21,7 @@
         "hidden_other_track": 118,
         "daily_remaining": 50,
         "daily_limit": 50,
-        "last_cycle_at": "[redacted]T20:02:37+00:00",
+        "last_cycle_at": "[redacted]T20:37:38+00:00",
         "last_apply_at": "[redacted]T18:30:14"
       },
       "mail": {
@@ -33,8 +33,8 @@
       },
       "runs": [
         {
-          "id": 583,
-          "started_at": "[redacted]T20:02:37+00:00",
+          "id": 584,
+          "started_at": "[redacted]T20:37:38+00:00",
           "finished_at": "",
           "status": "running",
           "live": true,
@@ -46,6 +46,22 @@
           "replies": 0,
           "bounces": 0,
           "duration_sec": 0.0,
+          "google_429": 0
+        },
+        {
+          "id": 583,
+          "started_at": "[redacted]T20:02:37+00:00",
+          "finished_at": "[redacted]T20:12:56+00:00",
+          "status": "ok",
+          "live": true,
+          "ingested": 0,
+          "scanned": 48,
+          "applied": 0,
+          "queued": 252,
+          "errors": 0,
+          "replies": 0,
+          "bounces": 0,
+          "duration_sec": 619.0,
           "google_429": 0
         },
         {
@@ -654,22 +670,6 @@
           "replies": 0,
           "bounces": 0,
           "duration_sec": 607.0,
-          "google_429": 0
-        },
-        {
-          "id": 544,
-          "started_at": "[redacted]T02:22:38+00:00",
-          "finished_at": "[redacted]T02:32:24+00:00",
-          "status": "ok",
-          "live": true,
-          "ingested": 0,
-          "scanned": 48,
-          "applied": 0,
-          "queued": 246,
-          "errors": 0,
-          "replies": 0,
-          "bounces": 0,
-          "duration_sec": 586.0,
           "google_429": 0
         }
       ],
@@ -2071,7 +2071,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T20:24:54",
-          "age_days": 7,
+          "age_days": 8,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -2131,7 +2131,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T20:33:01",
-          "age_days": 10,
+          "age_days": 11,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -2151,7 +2151,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T20:33:01",
-          "age_days": 10,
+          "age_days": 11,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -2171,7 +2171,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T20:24:41",
-          "age_days": 12,
+          "age_days": 13,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -2391,7 +2391,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T20:35:50",
-          "age_days": 25,
+          "age_days": 26,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -3756,7 +3756,7 @@
           "title": "Remote BI ETL Consultant",
           "sent_at": "[redacted]T16:41:26",
           "last_activity": "[redacted]T20:29:09",
-          "waiting_days": 38,
+          "waiting_days": 39,
           "replies": 0,
           "followups": 2
         },
@@ -3766,7 +3766,7 @@
           "title": "Informatica Engineer",
           "sent_at": "[redacted]T16:38:28",
           "last_activity": "[redacted]T20:29:05",
-          "waiting_days": 38,
+          "waiting_days": 39,
           "replies": 0,
           "followups": 2
         },
@@ -3776,7 +3776,7 @@
           "title": "BigData/Hadoop Administrator",
           "sent_at": "[redacted]T16:38:22",
           "last_activity": "[redacted]T20:29:02",
-          "waiting_days": 38,
+          "waiting_days": 39,
           "replies": 0,
           "followups": 2
         },
@@ -3786,7 +3786,7 @@
           "title": "Lead/Sr. ETL Engineer",
           "sent_at": "[redacted]T16:38:14",
           "last_activity": "[redacted]T20:28:58",
-          "waiting_days": 38,
+          "waiting_days": 39,
           "replies": 0,
           "followups": 2
         },
@@ -3796,7 +3796,7 @@
           "title": "Informatica Developer",
           "sent_at": "[redacted]T16:38:08",
           "last_activity": "[redacted]T20:28:55",
-          "waiting_days": 38,
+          "waiting_days": 39,
           "replies": 0,
           "followups": 2
         },
@@ -3806,7 +3806,7 @@
           "title": "Hadoop Administrator / Big Data Platform Engineer",
           "sent_at": "[redacted]T16:38:01",
           "last_activity": "[redacted]T20:28:50",
-          "waiting_days": 38,
+          "waiting_days": 39,
           "replies": 0,
           "followups": 2
         },
@@ -3816,7 +3816,7 @@
           "title": "Integration Developer - SAP & Informatica MDM | Remote(India) | Contract",
           "sent_at": "[redacted]T16:37:41",
           "last_activity": "[redacted]T20:28:47",
-          "waiting_days": 38,
+          "waiting_days": 39,
           "replies": 0,
           "followups": 2
         },
@@ -3826,7 +3826,7 @@
           "title": "Teradata DBA",
           "sent_at": "[redacted]T16:37:34",
           "last_activity": "[redacted]T20:28:43",
-          "waiting_days": 38,
+          "waiting_days": 39,
           "replies": 0,
           "followups": 2
         },
@@ -3986,7 +3986,7 @@
           "title": "Senior Informatica MDM Cloud Developer - India Remote",
           "sent_at": "[redacted]T14:31:09",
           "last_activity": "[redacted]T15:13:38",
-          "waiting_days": 28,
+          "waiting_days": 29,
           "replies": 1,
           "followups": 2
         },
@@ -4013,11 +4013,11 @@
         "Tosca / SAP / Playwright Automation"
       ],
       "stats": {
-        "jobs": 1379,
-        "matched": 1214,
+        "jobs": 1382,
+        "matched": 1217,
         "applied": 165,
         "applied_this_week": 0,
-        "desk": 1214,
+        "desk": 1217,
         "hidden_other_track": 2,
         "daily_remaining": 50,
         "daily_limit": 50,
@@ -4749,7 +4749,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T20:32:51",
           "first_seen_at": "[redacted]T20:32:45",
-          "age_days": 10,
+          "age_days": 11,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -4889,7 +4889,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T20:43:41",
           "first_seen_at": "[redacted]T20:43:01",
-          "age_days": 21,
+          "age_days": 22,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -4909,7 +4909,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T20:43:22",
           "first_seen_at": "[redacted]T20:42:48",
-          "age_days": 21,
+          "age_days": 22,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -6291,7 +6291,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T20:42:49",
-          "age_days": 21,
+          "age_days": 22,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -6351,7 +6351,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T20:43:02",
-          "age_days": 21,
+          "age_days": 22,
           "ctc": "67.1\u201391.5 LPA",
           "outcome": "",
           "on_track": true
@@ -6631,7 +6631,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T20:42:59",
-          "age_days": 21,
+          "age_days": 22,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -6753,7 +6753,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T20:32:51",
           "first_seen_at": "[redacted]T20:32:45",
-          "age_days": 10,
+          "age_days": 11,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -6893,7 +6893,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T20:43:41",
           "first_seen_at": "[redacted]T20:43:01",
-          "age_days": 21,
+          "age_days": 22,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -6913,7 +6913,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T20:43:22",
           "first_seen_at": "[redacted]T20:42:48",
-          "age_days": 21,
+          "age_days": 22,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -7716,7 +7716,7 @@
           "title": "Software Tester (QA)- (AUTOMATION)",
           "sent_at": "[redacted]T20:32:51",
           "last_activity": "[redacted]T20:32:51",
-          "waiting_days": 10,
+          "waiting_days": 11,
           "replies": 0,
           "followups": 0
         },
@@ -7866,7 +7866,7 @@
           "title": "Tosca Specialist (m/w/d) ghc solutions GmbH",
           "sent_at": "[redacted]T04:20:09",
           "last_activity": "[redacted]T20:48:36",
-          "waiting_days": 21,
+          "waiting_days": 22,
           "replies": 0,
           "followups": 2
         },
@@ -7876,7 +7876,7 @@
           "title": "Tricentis NeoLoad Performance Test Engineer",
           "sent_at": "[redacted]T04:20:02",
           "last_activity": "[redacted]T20:48:32",
-          "waiting_days": 21,
+          "waiting_days": 22,
           "replies": 0,
           "followups": 2
         },
@@ -7886,7 +7886,7 @@
           "title": "QA Automation Engineer (Tosca + Salesforce) | C2C| Max $55/Hr",
           "sent_at": "[redacted]T04:19:56",
           "last_activity": "[redacted]T20:48:29",
-          "waiting_days": 21,
+          "waiting_days": 22,
           "replies": 0,
           "followups": 2
         },
@@ -7896,7 +7896,7 @@
           "title": "SAP SuccessFactors Tosca Automation Test Analyst",
           "sent_at": "[redacted]T04:19:49",
           "last_activity": "[redacted]T20:48:25",
-          "waiting_days": 21,
+          "waiting_days": 22,
           "replies": 0,
           "followups": 2
         },
@@ -7906,7 +7906,7 @@
           "title": "Product Marketing and Community Manager",
           "sent_at": "[redacted]T04:18:42",
           "last_activity": "[redacted]T20:48:21",
-          "waiting_days": 21,
+          "waiting_days": 22,
           "replies": 0,
           "followups": 2
         },
@@ -7916,7 +7916,7 @@
           "title": "| QA Automation Selenium/Playwright | Fresher/Intern | Ahmedabad (Work from Office).",
           "sent_at": "[redacted]T06:21:07",
           "last_activity": "[redacted]T20:48:17",
-          "waiting_days": 21,
+          "waiting_days": 22,
           "replies": 0,
           "followups": 1
         },
@@ -7926,7 +7926,7 @@
           "title": "SAP QA Tester",
           "sent_at": "[redacted]T12:30:06",
           "last_activity": "[redacted]T20:48:14",
-          "waiting_days": 21,
+          "waiting_days": 22,
           "replies": 0,
           "followups": 1
         },
@@ -7936,7 +7936,7 @@
           "title": "Automation QA Engineer (AQA)",
           "sent_at": "[redacted]T19:40:11",
           "last_activity": "[redacted]T20:48:10",
-          "waiting_days": 21,
+          "waiting_days": 22,
           "replies": 0,
           "followups": 1
         },
@@ -7946,7 +7946,7 @@
           "title": "Product Engineer",
           "sent_at": "[redacted]T20:43:41",
           "last_activity": "[redacted]T20:43:41",
-          "waiting_days": 21,
+          "waiting_days": 22,
           "replies": 0,
           "followups": 0
         },
@@ -7956,7 +7956,7 @@
           "title": "Lead Automation Engineer",
           "sent_at": "[redacted]T20:43:22",
           "last_activity": "[redacted]T20:43:22",
-          "waiting_days": 21,
+          "waiting_days": 22,
           "replies": 0,
           "followups": 0
         },
