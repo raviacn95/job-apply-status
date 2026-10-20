@@ -1,5 +1,5 @@
 {
-  "updated_at": "[redacted]T18:18:49+00:00",
+  "updated_at": "[redacted]T18:53:29+00:00",
   "pages_url": "https://raviacn95.github.io/job-apply-status/",
   "users": [
     {
@@ -18,10 +18,10 @@
         "applied": 46,
         "applied_this_week": 1,
         "desk": 267,
-        "hidden_other_track": 119,
+        "hidden_other_track": 120,
         "daily_remaining": 50,
         "daily_limit": 50,
-        "last_cycle_at": "[redacted]T18:13:31+00:00",
+        "last_cycle_at": "[redacted]T18:47:38+00:00",
         "last_apply_at": "[redacted]T18:30:14"
       },
       "mail": {
@@ -33,8 +33,8 @@
       },
       "runs": [
         {
-          "id": 587,
-          "started_at": "[redacted]T18:13:31+00:00",
+          "id": 588,
+          "started_at": "[redacted]T18:47:38+00:00",
           "finished_at": "",
           "status": "running",
           "live": true,
@@ -46,6 +46,22 @@
           "replies": 0,
           "bounces": 0,
           "duration_sec": 0.0,
+          "google_429": 0
+        },
+        {
+          "id": 587,
+          "started_at": "[redacted]T18:13:31+00:00",
+          "finished_at": "[redacted]T18:19:14+00:00",
+          "status": "ok",
+          "live": true,
+          "ingested": 1,
+          "scanned": 49,
+          "applied": 0,
+          "queued": 252,
+          "errors": 0,
+          "replies": 0,
+          "bounces": 0,
+          "duration_sec": 343.0,
           "google_429": 0
         },
         {
@@ -655,22 +671,6 @@
           "bounces": 0,
           "duration_sec": 0.0,
           "google_429": 0
-        },
-        {
-          "id": 548,
-          "started_at": "[redacted]T04:42:38+00:00",
-          "finished_at": "[redacted]T04:50:24+00:00",
-          "status": "ok",
-          "live": true,
-          "ingested": 0,
-          "scanned": 48,
-          "applied": 0,
-          "queued": 247,
-          "errors": 0,
-          "replies": 0,
-          "bounces": 0,
-          "duration_sec": 466.0,
-          "google_429": 0
         }
       ],
       "applied_jobs": [
@@ -689,7 +689,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T18:30:14",
           "first_seen_at": "[redacted]T18:30:08",
-          "age_days": 3,
+          "age_days": 4,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -909,7 +909,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T18:28:56",
           "first_seen_at": "[redacted]T18:28:51",
-          "age_days": 39,
+          "age_days": 40,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -1811,7 +1811,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T18:30:17",
-          "age_days": 3,
+          "age_days": 4,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -1851,7 +1851,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T18:30:47",
-          "age_days": 4,
+          "age_days": 5,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -1871,7 +1871,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T18:30:47",
-          "age_days": 4,
+          "age_days": 5,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -2231,7 +2231,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T18:33:15",
-          "age_days": 17,
+          "age_days": 18,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -2613,7 +2613,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T18:30:14",
           "first_seen_at": "[redacted]T18:30:08",
-          "age_days": 3,
+          "age_days": 4,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -2833,7 +2833,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T18:28:56",
           "first_seen_at": "[redacted]T18:28:51",
-          "age_days": 39,
+          "age_days": 40,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -3606,7 +3606,7 @@
           "title": "Data Warehouse Analyst",
           "sent_at": "[redacted]T21:25:30",
           "last_activity": "[redacted]T18:29:17",
-          "waiting_days": 4,
+          "waiting_days": 5,
           "replies": 0,
           "followups": 2
         },
@@ -4013,11 +4013,11 @@
         "Tosca / SAP / Playwright Automation"
       ],
       "stats": {
-        "jobs": 1383,
-        "matched": 1218,
+        "jobs": 1386,
+        "matched": 1221,
         "applied": 165,
         "applied_this_week": 0,
-        "desk": 1218,
+        "desk": 1221,
         "hidden_other_track": 2,
         "daily_remaining": 50,
         "daily_limit": 50,
