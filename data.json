@@ -1,5 +1,5 @@
 {
-  "updated_at": "[redacted]T10:02:51+00:00",
+  "updated_at": "[redacted]T19:12:40+00:00",
   "pages_url": "https://raviacn95.github.io/job-apply-status/",
   "users": [
     {
@@ -21,7 +21,7 @@
         "hidden_other_track": 122,
         "daily_remaining": 50,
         "daily_limit": 50,
-        "last_cycle_at": "[redacted]T09:57:37+00:00",
+        "last_cycle_at": "[redacted]T14:21:40+00:00",
         "last_apply_at": "[redacted]T18:30:14"
       },
       "mail": {
@@ -33,8 +33,8 @@
       },
       "runs": [
         {
-          "id": 601,
-          "started_at": "[redacted]T09:57:37+00:00",
+          "id": 602,
+          "started_at": "[redacted]T14:21:40+00:00",
           "finished_at": "",
           "status": "running",
           "live": true,
@@ -46,6 +46,22 @@
           "replies": 0,
           "bounces": 0,
           "duration_sec": 0.0,
+          "google_429": 0
+        },
+        {
+          "id": 601,
+          "started_at": "[redacted]T09:57:37+00:00",
+          "finished_at": "[redacted]T10:03:02+00:00",
+          "status": "ok",
+          "live": true,
+          "ingested": 0,
+          "scanned": 48,
+          "applied": 0,
+          "queued": 255,
+          "errors": 0,
+          "replies": 0,
+          "bounces": 0,
+          "duration_sec": 325.0,
           "google_429": 0
         },
         {
@@ -655,22 +671,6 @@
           "bounces": 0,
           "duration_sec": 705.0,
           "google_429": 0
-        },
-        {
-          "id": 562,
-          "started_at": "[redacted]T04:46:45+00:00",
-          "finished_at": "[redacted]T04:57:52+00:00",
-          "status": "ok",
-          "live": true,
-          "ingested": 0,
-          "scanned": 48,
-          "applied": 0,
-          "queued": 250,
-          "errors": 0,
-          "replies": 0,
-          "bounces": 0,
-          "duration_sec": 667.0,
-          "google_429": 0
         }
       ],
       "applied_jobs": [
@@ -689,7 +689,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T18:30:14",
           "first_seen_at": "[redacted]T18:30:08",
-          "age_days": 4,
+          "age_days": 5,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -749,7 +749,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T11:30:49",
           "first_seen_at": "[redacted]T11:30:43",
-          "age_days": 28,
+          "age_days": 29,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -869,7 +869,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T15:15:40",
           "first_seen_at": "[redacted]T15:15:35",
-          "age_days": 35,
+          "age_days": 36,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -889,7 +889,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T14:31:09",
           "first_seen_at": "[redacted]T14:31:04",
-          "age_days": 36,
+          "age_days": 37,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -909,7 +909,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T18:28:56",
           "first_seen_at": "[redacted]T18:28:51",
-          "age_days": 40,
+          "age_days": 41,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -929,7 +929,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T12:28:03",
           "first_seen_at": "[redacted]T12:27:58",
-          "age_days": 40,
+          "age_days": 41,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -949,7 +949,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T08:38:45",
           "first_seen_at": "[redacted]T16:41:45",
-          "age_days": 46,
+          "age_days": 47,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -969,7 +969,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T16:47:03",
           "first_seen_at": "[redacted]T16:41:35",
-          "age_days": 46,
+          "age_days": 47,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -989,7 +989,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T16:46:45",
           "first_seen_at": "[redacted]T16:37:51",
-          "age_days": 46,
+          "age_days": 47,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -1009,7 +1009,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T16:46:39",
           "first_seen_at": "[redacted]T16:37:51",
-          "age_days": 46,
+          "age_days": 47,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -1029,7 +1029,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T16:46:32",
           "first_seen_at": "[redacted]T16:37:44",
-          "age_days": 46,
+          "age_days": 47,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -1049,7 +1049,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T16:46:26",
           "first_seen_at": "[redacted]T16:37:44",
-          "age_days": 46,
+          "age_days": 47,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -1069,7 +1069,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T16:41:39",
           "first_seen_at": "[redacted]T16:41:35",
-          "age_days": 46,
+          "age_days": 47,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -1089,7 +1089,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T16:41:32",
           "first_seen_at": "[redacted]T16:41:29",
-          "age_days": 46,
+          "age_days": 47,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -1109,7 +1109,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T16:41:26",
           "first_seen_at": "[redacted]T16:41:22",
-          "age_days": 46,
+          "age_days": 47,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -1129,7 +1129,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T16:38:35",
           "first_seen_at": "[redacted]T16:38:31",
-          "age_days": 46,
+          "age_days": 47,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -1149,7 +1149,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T16:38:28",
           "first_seen_at": "[redacted]T16:38:25",
-          "age_days": 46,
+          "age_days": 47,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -1169,7 +1169,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T16:38:22",
           "first_seen_at": "[redacted]T16:38:18",
-          "age_days": 46,
+          "age_days": 47,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -1189,7 +1189,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T16:38:14",
           "first_seen_at": "[redacted]T16:38:10",
-          "age_days": 46,
+          "age_days": 47,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -1209,7 +1209,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T16:38:08",
           "first_seen_at": "[redacted]T16:38:04",
-          "age_days": 46,
+          "age_days": 47,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -1229,7 +1229,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T16:38:01",
           "first_seen_at": "[redacted]T16:37:57",
-          "age_days": 46,
+          "age_days": 47,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -1249,7 +1249,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T16:37:55",
           "first_seen_at": "[redacted]T16:37:51",
-          "age_days": 46,
+          "age_days": 47,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -1269,7 +1269,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T16:37:48",
           "first_seen_at": "[redacted]T16:37:44",
-          "age_days": 46,
+          "age_days": 47,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -1289,7 +1289,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T16:37:41",
           "first_seen_at": "[redacted]T16:37:37",
-          "age_days": 46,
+          "age_days": 47,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -1309,7 +1309,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T16:37:34",
           "first_seen_at": "[redacted]T16:37:29",
-          "age_days": 46,
+          "age_days": 47,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -1611,7 +1611,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T15:19:40",
-          "age_days": 50,
+          "age_days": 51,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -1631,7 +1631,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T19:05:59",
-          "age_days": 50,
+          "age_days": 51,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -1651,7 +1651,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T15:19:47",
-          "age_days": 50,
+          "age_days": 51,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -1671,7 +1671,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T19:05:00",
-          "age_days": 50,
+          "age_days": 51,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -1691,7 +1691,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T15:19:45",
-          "age_days": 50,
+          "age_days": 51,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -1711,7 +1711,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T15:19:43",
-          "age_days": 50,
+          "age_days": 51,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -1731,7 +1731,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T15:20:00",
-          "age_days": 50,
+          "age_days": 51,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -1871,7 +1871,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T18:30:17",
-          "age_days": 4,
+          "age_days": 5,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -1911,7 +1911,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T18:30:47",
-          "age_days": 5,
+          "age_days": 6,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -1931,7 +1931,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T18:30:47",
-          "age_days": 5,
+          "age_days": 6,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -2291,7 +2291,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T18:33:15",
-          "age_days": 18,
+          "age_days": 19,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -2311,7 +2311,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T10:25:38",
-          "age_days": 18,
+          "age_days": 19,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -2351,7 +2351,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T15:07:10",
-          "age_days": 24,
+          "age_days": 25,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -2411,7 +2411,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T15:38:46",
-          "age_days": 26,
+          "age_days": 27,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -2431,7 +2431,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T10:37:06",
-          "age_days": 26,
+          "age_days": 27,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -2613,7 +2613,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T18:30:14",
           "first_seen_at": "[redacted]T18:30:08",
-          "age_days": 4,
+          "age_days": 5,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -2673,7 +2673,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T11:30:49",
           "first_seen_at": "[redacted]T11:30:43",
-          "age_days": 28,
+          "age_days": 29,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -2793,7 +2793,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T15:15:40",
           "first_seen_at": "[redacted]T15:15:35",
-          "age_days": 35,
+          "age_days": 36,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -2813,7 +2813,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T14:31:09",
           "first_seen_at": "[redacted]T14:31:04",
-          "age_days": 36,
+          "age_days": 37,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -2833,7 +2833,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T18:28:56",
           "first_seen_at": "[redacted]T18:28:51",
-          "age_days": 40,
+          "age_days": 41,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -2853,7 +2853,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T12:28:03",
           "first_seen_at": "[redacted]T12:27:58",
-          "age_days": 40,
+          "age_days": 41,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -2873,7 +2873,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T08:38:45",
           "first_seen_at": "[redacted]T16:41:45",
-          "age_days": 46,
+          "age_days": 47,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -2893,7 +2893,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T16:47:03",
           "first_seen_at": "[redacted]T16:41:35",
-          "age_days": 46,
+          "age_days": 47,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -2913,7 +2913,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T16:46:45",
           "first_seen_at": "[redacted]T16:37:51",
-          "age_days": 46,
+          "age_days": 47,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -2933,7 +2933,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T16:46:39",
           "first_seen_at": "[redacted]T16:37:51",
-          "age_days": 46,
+          "age_days": 47,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -2953,7 +2953,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T16:46:32",
           "first_seen_at": "[redacted]T16:37:44",
-          "age_days": 46,
+          "age_days": 47,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -2973,7 +2973,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T16:46:26",
           "first_seen_at": "[redacted]T16:37:44",
-          "age_days": 46,
+          "age_days": 47,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -2993,7 +2993,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T16:41:39",
           "first_seen_at": "[redacted]T16:41:35",
-          "age_days": 46,
+          "age_days": 47,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -3013,7 +3013,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T16:41:32",
           "first_seen_at": "[redacted]T16:41:29",
-          "age_days": 46,
+          "age_days": 47,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -3033,7 +3033,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T16:41:26",
           "first_seen_at": "[redacted]T16:41:22",
-          "age_days": 46,
+          "age_days": 47,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -3053,7 +3053,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T16:38:35",
           "first_seen_at": "[redacted]T16:38:31",
-          "age_days": 46,
+          "age_days": 47,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -3073,7 +3073,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T16:38:28",
           "first_seen_at": "[redacted]T16:38:25",
-          "age_days": 46,
+          "age_days": 47,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -3093,7 +3093,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T16:38:22",
           "first_seen_at": "[redacted]T16:38:18",
-          "age_days": 46,
+          "age_days": 47,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -3113,7 +3113,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T16:38:14",
           "first_seen_at": "[redacted]T16:38:10",
-          "age_days": 46,
+          "age_days": 47,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -3133,7 +3133,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T16:38:08",
           "first_seen_at": "[redacted]T16:38:04",
-          "age_days": 46,
+          "age_days": 47,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -3153,7 +3153,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T16:38:01",
           "first_seen_at": "[redacted]T16:37:57",
-          "age_days": 46,
+          "age_days": 47,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -3173,7 +3173,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T16:37:55",
           "first_seen_at": "[redacted]T16:37:51",
-          "age_days": 46,
+          "age_days": 47,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -3193,7 +3193,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T16:37:48",
           "first_seen_at": "[redacted]T16:37:44",
-          "age_days": 46,
+          "age_days": 47,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -3213,7 +3213,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T16:37:41",
           "first_seen_at": "[redacted]T16:37:37",
-          "age_days": 46,
+          "age_days": 47,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -3233,7 +3233,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T16:37:34",
           "first_seen_at": "[redacted]T16:37:29",
-          "age_days": 46,
+          "age_days": 47,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -3533,7 +3533,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T15:19:40",
-          "age_days": 50,
+          "age_days": 51,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -3553,7 +3553,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T19:05:59",
-          "age_days": 50,
+          "age_days": 51,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -3573,7 +3573,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T15:19:47",
-          "age_days": 50,
+          "age_days": 51,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -3593,7 +3593,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T19:05:00",
-          "age_days": 50,
+          "age_days": 51,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -3606,7 +3606,7 @@
           "title": "Data Warehouse Analyst",
           "sent_at": "[redacted]T21:25:30",
           "last_activity": "[redacted]T18:29:17",
-          "waiting_days": 5,
+          "waiting_days": 6,
           "replies": 0,
           "followups": 2
         },
@@ -3616,7 +3616,7 @@
           "title": "Teradata Database Administrator (DBA)",
           "sent_at": "[redacted]T11:30:49",
           "last_activity": "[redacted]T11:57:24",
-          "waiting_days": 22,
+          "waiting_days": 23,
           "replies": 0,
           "followups": 2
         },
@@ -3626,7 +3626,7 @@
           "title": "Senior Informatica PowerCenter Migration Engineer",
           "sent_at": "[redacted]T06:21:23",
           "last_activity": "[redacted]T11:23:56",
-          "waiting_days": 22,
+          "waiting_days": 23,
           "replies": 0,
           "followups": 2
         },
@@ -3646,7 +3646,7 @@
           "title": "ETL Developer",
           "sent_at": "[redacted]T05:23:29",
           "last_activity": "[redacted]T17:06:49",
-          "waiting_days": 27,
+          "waiting_days": 28,
           "replies": 0,
           "followups": 2
         },
@@ -3686,7 +3686,7 @@
           "title": "UK - London - ADS - Cloud DBA & Solution Architect, PowerBI",
           "sent_at": "[redacted]T08:38:45",
           "last_activity": "[redacted]T15:30:58",
-          "waiting_days": 39,
+          "waiting_days": 40,
           "replies": 0,
           "followups": 2
         },
@@ -4013,25 +4013,41 @@
         "Tosca / SAP / Playwright Automation"
       ],
       "stats": {
-        "jobs": 1396,
-        "matched": 1230,
-        "applied": 166,
-        "applied_this_week": 1,
-        "desk": 1230,
+        "jobs": 1403,
+        "matched": 1234,
+        "applied": 169,
+        "applied_this_week": 4,
+        "desk": 1234,
         "hidden_other_track": 2,
-        "daily_remaining": 50,
+        "daily_remaining": 47,
         "daily_limit": 50,
-        "last_cycle_at": "[redacted]T21:17:38+00:00",
-        "last_apply_at": "[redacted]T19:23:23"
+        "last_cycle_at": "[redacted]T19:07:56+00:00",
+        "last_apply_at": "[redacted]T19:09:28"
       },
       "mail": {
-        "threads": 167,
-        "waiting": 1,
-        "followup_due": 154,
+        "threads": 170,
+        "waiting": 12,
+        "followup_due": 146,
         "replied": 12,
         "bounced": 0
       },
       "runs": [
+        {
+          "id": 64,
+          "started_at": "[redacted]T19:07:56+00:00",
+          "finished_at": "",
+          "status": "running",
+          "live": true,
+          "ingested": 0,
+          "scanned": 0,
+          "applied": 0,
+          "queued": 0,
+          "errors": 0,
+          "replies": 0,
+          "bounces": 0,
+          "duration_sec": 0.0,
+          "google_429": 0
+        },
         {
           "id": 63,
           "started_at": "[redacted]T21:17:38+00:00",
@@ -4655,25 +4671,69 @@
           "bounces": 0,
           "duration_sec": 497.0,
           "google_429": 113
-        },
-        {
-          "id": 24,
-          "started_at": "[redacted]T12:18:42+00:00",
-          "finished_at": "[redacted]T12:25:16+00:00",
-          "status": "ok",
-          "live": true,
-          "ingested": 0,
-          "scanned": 32,
-          "applied": 0,
-          "queued": 40,
-          "errors": 0,
-          "replies": 0,
-          "bounces": 0,
-          "duration_sec": 394.0,
-          "google_429": 87
         }
       ],
       "applied_jobs": [
+        {
+          "id": 1449,
+          "status": "applied",
+          "track": "automation",
+          "track_label": "Tosca / SAP / Playwright Automation",
+          "score": 59.0,
+          "company": "Flex",
+          "title": "Senior Software Development Engineer in Test (SDET)",
+          "location": "Anywhere",
+          "source": "jobicy",
+          "url": "https://jobicy.com/jobs/155928-senior-software-development-engineer-in-test-sdet-2",
+          "channel": "email",
+          "applied_via": "email",
+          "applied_at": "[redacted]T19:09:28",
+          "first_seen_at": "[redacted]T19:08:03",
+          "age_days": 0,
+          "ctc": "112.9 LPA",
+          "outcome": "",
+          "on_track": true
+        },
+        {
+          "id": 1448,
+          "status": "applied",
+          "track": "automation",
+          "track_label": "Tosca / SAP / Playwright Automation",
+          "score": 36.0,
+          "company": "Astronomer",
+          "title": "Senior Software Engineer, Platform",
+          "location": "Ireland",
+          "source": "jobicy",
+          "url": "https://jobicy.com/jobs/156187-senior-software-engineer-platform-3",
+          "channel": "email",
+          "applied_via": "email",
+          "applied_at": "[redacted]T19:09:22",
+          "first_seen_at": "[redacted]T19:08:03",
+          "age_days": 0,
+          "ctc": "unlisted",
+          "outcome": "",
+          "on_track": true
+        },
+        {
+          "id": 1454,
+          "status": "applied",
+          "track": "automation",
+          "track_label": "Tosca / SAP / Playwright Automation",
+          "score": 38.5,
+          "company": "Conflux",
+          "title": "Senior Front End Consultant (React)",
+          "location": "Utrecht, Utrecht, Nederland",
+          "source": "arbeitnow",
+          "url": "https://www.arbeitnow.nl/jobs/companies/conflux/senior-front-end-consultant-react-utrecht-76711",
+          "channel": "email",
+          "applied_via": "email",
+          "applied_at": "[redacted]T19:09:16",
+          "first_seen_at": "[redacted]T19:08:10",
+          "age_days": 0,
+          "ctc": "unlisted",
+          "outcome": "",
+          "on_track": true
+        },
         {
           "id": 1435,
           "status": "applied",
@@ -4789,7 +4849,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T11:25:57",
           "first_seen_at": "[redacted]T11:25:50",
-          "age_days": 18,
+          "age_days": 19,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -4889,7 +4949,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T13:35:01",
           "first_seen_at": "[redacted]T13:34:45",
-          "age_days": 22,
+          "age_days": 23,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -4969,7 +5029,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T12:30:06",
           "first_seen_at": "[redacted]T12:30:00",
-          "age_days": 28,
+          "age_days": 29,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -5009,7 +5069,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T16:32:07",
           "first_seen_at": "[redacted]T16:32:02",
-          "age_days": 30,
+          "age_days": 31,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -5049,7 +5109,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T15:30:59",
           "first_seen_at": "[redacted]T15:27:59",
-          "age_days": 30,
+          "age_days": 31,
           "ctc": "149.4\u2013178.4 LPA",
           "outcome": "",
           "on_track": true
@@ -5149,7 +5209,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T12:19:45",
           "first_seen_at": "[redacted]T12:19:40",
-          "age_days": 38,
+          "age_days": 39,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -5189,7 +5249,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T17:30:05",
           "first_seen_at": "[redacted]T17:30:00",
-          "age_days": 39,
+          "age_days": 40,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -5209,7 +5269,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T17:29:57",
           "first_seen_at": "[redacted]T17:29:52",
-          "age_days": 39,
+          "age_days": 40,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -5229,7 +5289,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T16:27:39",
           "first_seen_at": "[redacted]T16:27:35",
-          "age_days": 39,
+          "age_days": 40,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -5613,66 +5673,6 @@
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
-        },
-        {
-          "id": 254,
-          "status": "applied",
-          "track": "automation",
-          "track_label": "Tosca / SAP / Playwright Automation",
-          "score": 28.0,
-          "company": "Unknown",
-          "title": "SAP Tosca test automation application.",
-          "location": "London, ENG, GB",
-          "source": "harvest_remote",
-          "url": "https://uk.indeed.com/viewjob?jk=0398af0d2bdc3e90",
-          "channel": "email",
-          "applied_via": "email",
-          "applied_at": "[redacted]T04:17:48",
-          "first_seen_at": "[redacted]T04:17:44",
-          "age_days": 47,
-          "ctc": "unlisted",
-          "outcome": "",
-          "on_track": true
-        },
-        {
-          "id": 252,
-          "status": "applied",
-          "track": "automation",
-          "track_label": "Tosca / SAP / Playwright Automation",
-          "score": 28.0,
-          "company": "Fossil Group",
-          "title": "SAP CPI - Software Engineer",
-          "location": "KA, IN",
-          "source": "harvest_remote",
-          "url": "https://in.indeed.com/viewjob?jk=570a4e1f886d3ca8",
-          "channel": "email",
-          "applied_via": "email",
-          "applied_at": "[redacted]T04:17:41",
-          "first_seen_at": "[redacted]T04:17:37",
-          "age_days": 47,
-          "ctc": "unlisted",
-          "outcome": "",
-          "on_track": true
-        },
-        {
-          "id": 250,
-          "status": "applied",
-          "track": "automation",
-          "track_label": "Tosca / SAP / Playwright Automation",
-          "score": 28.0,
-          "company": "msg",
-          "title": "Lead Business Consultant \u2013 SAP IBP Response & Supply (all genders)",
-          "location": "Berlin, BE, DE",
-          "source": "harvest_remote",
-          "url": "https://de.indeed.com/viewjob?jk=e054505ce06c0814",
-          "channel": "email",
-          "applied_via": "email",
-          "applied_at": "[redacted]T04:17:35",
-          "first_seen_at": "[redacted]T04:17:30",
-          "age_days": 47,
-          "ctc": "unlisted",
-          "outcome": "",
-          "on_track": true
         }
       ],
       "desk_jobs": [
@@ -5691,7 +5691,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T13:35:12",
-          "age_days": 50,
+          "age_days": 51,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -5711,7 +5711,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T13:34:19",
-          "age_days": 52,
+          "age_days": 53,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -5731,7 +5731,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T12:59:47",
-          "age_days": 52,
+          "age_days": 53,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -5751,7 +5751,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T15:53:21",
-          "age_days": 59,
+          "age_days": 60,
           "ctc": "42 LPA",
           "outcome": "",
           "on_track": true
@@ -5771,7 +5771,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T13:35:20",
-          "age_days": 50,
+          "age_days": 51,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -5791,7 +5791,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T13:35:13",
-          "age_days": 50,
+          "age_days": 51,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -5811,7 +5811,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T12:59:34",
-          "age_days": 52,
+          "age_days": 53,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -5851,7 +5851,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T12:59:40",
-          "age_days": 52,
+          "age_days": 53,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -5871,7 +5871,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T12:59:33",
-          "age_days": 52,
+          "age_days": 53,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -5911,7 +5911,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T12:59:41",
-          "age_days": 52,
+          "age_days": 53,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -5931,7 +5931,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T12:59:56",
-          "age_days": 52,
+          "age_days": 53,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -5951,7 +5951,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T12:59:40",
-          "age_days": 52,
+          "age_days": 53,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -5971,7 +5971,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T15:27:58",
-          "age_days": 30,
+          "age_days": 31,
           "ctc": "34.9 LPA",
           "outcome": "",
           "on_track": true
@@ -6011,7 +6011,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T12:59:57",
-          "age_days": 52,
+          "age_days": 53,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -6031,7 +6031,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T12:59:56",
-          "age_days": 52,
+          "age_days": 53,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -6051,8 +6051,28 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T12:59:43",
-          "age_days": 52,
+          "age_days": 53,
           "ctc": "unlisted",
+          "outcome": "",
+          "on_track": true
+        },
+        {
+          "id": 1445,
+          "status": "matched",
+          "track": "automation",
+          "track_label": "Tosca / SAP / Playwright Automation",
+          "score": 70.5,
+          "company": "Discord",
+          "title": "QA/DevOps Engineer",
+          "location": "USA",
+          "source": "jobicy",
+          "url": "https://jobicy.com/jobs/155923-qa-devops-engineer",
+          "channel": "apply desk",
+          "applied_via": "",
+          "applied_at": "",
+          "first_seen_at": "[redacted]T19:08:03",
+          "age_days": 0,
+          "ctc": "129.5\u2013145.7 LPA",
           "outcome": "",
           "on_track": true
         },
@@ -6091,7 +6111,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T13:34:39",
-          "age_days": 52,
+          "age_days": 53,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -6111,7 +6131,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T19:06:38",
-          "age_days": 54,
+          "age_days": 55,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -6151,7 +6171,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T12:28:47",
-          "age_days": 52,
+          "age_days": 53,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -6191,7 +6211,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T19:06:38",
-          "age_days": 54,
+          "age_days": 55,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -6231,7 +6251,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T12:59:38",
-          "age_days": 52,
+          "age_days": 53,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -6251,7 +6271,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T12:59:55",
-          "age_days": 52,
+          "age_days": 53,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -6271,7 +6291,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T13:34:37",
-          "age_days": 52,
+          "age_days": 53,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -6331,7 +6351,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T13:35:32",
-          "age_days": 52,
+          "age_days": 53,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -6371,7 +6391,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T15:28:15",
-          "age_days": 30,
+          "age_days": 31,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -6491,8 +6511,28 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T19:06:38",
-          "age_days": 54,
+          "age_days": 55,
           "ctc": "124.5 LPA",
+          "outcome": "",
+          "on_track": true
+        },
+        {
+          "id": 1450,
+          "status": "matched",
+          "track": "automation",
+          "track_label": "Tosca / SAP / Playwright Automation",
+          "score": 47.0,
+          "company": "Airtm",
+          "title": "Senior QA Engineer",
+          "location": "LATAM,  Canada,  USA",
+          "source": "jobicy",
+          "url": "https://jobicy.com/jobs/155766-senior-qa-engineer-3",
+          "channel": "apply desk",
+          "applied_via": "",
+          "applied_at": "",
+          "first_seen_at": "[redacted]T19:08:03",
+          "age_days": 0,
+          "ctc": "unlisted",
           "outcome": "",
           "on_track": true
         },
@@ -6511,7 +6551,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T12:28:52",
-          "age_days": 52,
+          "age_days": 53,
           "ctc": "166 LPA",
           "outcome": "",
           "on_track": true
@@ -6531,7 +6571,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T15:27:59",
-          "age_days": 30,
+          "age_days": 31,
           "ctc": "124.5 LPA",
           "outcome": "",
           "on_track": true
@@ -6551,7 +6591,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T19:06:38",
-          "age_days": 54,
+          "age_days": 55,
           "ctc": "66.4 LPA",
           "outcome": "",
           "on_track": true
@@ -6611,7 +6651,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T19:06:38",
-          "age_days": 54,
+          "age_days": 55,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -6635,49 +6675,69 @@
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
-        },
-        {
-          "id": 74,
-          "status": "matched",
-          "track": "automation",
-          "track_label": "Tosca / SAP / Playwright Automation",
-          "score": 42.0,
-          "company": "Zartis",
-          "title": ".NET Software Architect",
-          "location": "Europe",
-          "source": "jobicy",
-          "url": "https://jobicy.com/jobs/152042-net-software-architect",
-          "channel": "apply desk",
-          "applied_via": "",
-          "applied_at": "",
-          "first_seen_at": "[redacted]T04:53:10",
-          "age_days": 52,
-          "ctc": "unlisted",
-          "outcome": "",
-          "on_track": true
-        },
-        {
-          "id": 44,
-          "status": "matched",
-          "track": "automation",
-          "track_label": "Tosca / SAP / Playwright Automation",
-          "score": 41.0,
-          "company": "Lemon.io",
-          "title": "Senior QA Engineer",
-          "location": "Europe",
-          "source": "remotive",
-          "url": "https://remotive.com/remote-jobs/software-development/senior-qa-engineer-2091100",
-          "channel": "apply desk",
-          "applied_via": "",
-          "applied_at": "",
-          "first_seen_at": "[redacted]T12:28:36",
-          "age_days": 52,
-          "ctc": "unlisted",
-          "outcome": "",
-          "on_track": true
         }
       ],
       "jobs": [
+        {
+          "id": 1449,
+          "status": "applied",
+          "track": "automation",
+          "track_label": "Tosca / SAP / Playwright Automation",
+          "score": 59.0,
+          "company": "Flex",
+          "title": "Senior Software Development Engineer in Test (SDET)",
+          "location": "Anywhere",
+          "source": "jobicy",
+          "url": "https://jobicy.com/jobs/155928-senior-software-development-engineer-in-test-sdet-2",
+          "channel": "email",
+          "applied_via": "email",
+          "applied_at": "[redacted]T19:09:28",
+          "first_seen_at": "[redacted]T19:08:03",
+          "age_days": 0,
+          "ctc": "112.9 LPA",
+          "outcome": "",
+          "on_track": true
+        },
+        {
+          "id": 1448,
+          "status": "applied",
+          "track": "automation",
+          "track_label": "Tosca / SAP / Playwright Automation",
+          "score": 36.0,
+          "company": "Astronomer",
+          "title": "Senior Software Engineer, Platform",
+          "location": "Ireland",
+          "source": "jobicy",
+          "url": "https://jobicy.com/jobs/156187-senior-software-engineer-platform-3",
+          "channel": "email",
+          "applied_via": "email",
+          "applied_at": "[redacted]T19:09:22",
+          "first_seen_at": "[redacted]T19:08:03",
+          "age_days": 0,
+          "ctc": "unlisted",
+          "outcome": "",
+          "on_track": true
+        },
+        {
+          "id": 1454,
+          "status": "applied",
+          "track": "automation",
+          "track_label": "Tosca / SAP / Playwright Automation",
+          "score": 38.5,
+          "company": "Conflux",
+          "title": "Senior Front End Consultant (React)",
+          "location": "Utrecht, Utrecht, Nederland",
+          "source": "arbeitnow",
+          "url": "https://www.arbeitnow.nl/jobs/companies/conflux/senior-front-end-consultant-react-utrecht-76711",
+          "channel": "email",
+          "applied_via": "email",
+          "applied_at": "[redacted]T19:09:16",
+          "first_seen_at": "[redacted]T19:08:10",
+          "age_days": 0,
+          "ctc": "unlisted",
+          "outcome": "",
+          "on_track": true
+        },
         {
           "id": 1435,
           "status": "applied",
@@ -6793,7 +6853,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T11:25:57",
           "first_seen_at": "[redacted]T11:25:50",
-          "age_days": 18,
+          "age_days": 19,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -6893,7 +6953,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T13:35:01",
           "first_seen_at": "[redacted]T13:34:45",
-          "age_days": 22,
+          "age_days": 23,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -6973,7 +7033,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T12:30:06",
           "first_seen_at": "[redacted]T12:30:00",
-          "age_days": 28,
+          "age_days": 29,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -7013,7 +7073,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T16:32:07",
           "first_seen_at": "[redacted]T16:32:02",
-          "age_days": 30,
+          "age_days": 31,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -7053,7 +7113,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T15:30:59",
           "first_seen_at": "[redacted]T15:27:59",
-          "age_days": 30,
+          "age_days": 31,
           "ctc": "149.4\u2013178.4 LPA",
           "outcome": "",
           "on_track": true
@@ -7153,7 +7213,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T12:19:45",
           "first_seen_at": "[redacted]T12:19:40",
-          "age_days": 38,
+          "age_days": 39,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -7193,7 +7253,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T17:30:05",
           "first_seen_at": "[redacted]T17:30:00",
-          "age_days": 39,
+          "age_days": 40,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -7213,7 +7273,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T17:29:57",
           "first_seen_at": "[redacted]T17:29:52",
-          "age_days": 39,
+          "age_days": 40,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -7233,7 +7293,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T16:27:39",
           "first_seen_at": "[redacted]T16:27:35",
-          "age_days": 39,
+          "age_days": 40,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -7617,149 +7677,9 @@
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
-        },
-        {
-          "id": 254,
-          "status": "applied",
-          "track": "automation",
-          "track_label": "Tosca / SAP / Playwright Automation",
-          "score": 28.0,
-          "company": "Unknown",
-          "title": "SAP Tosca test automation application.",
-          "location": "London, ENG, GB",
-          "source": "harvest_remote",
-          "url": "https://uk.indeed.com/viewjob?jk=0398af0d2bdc3e90",
-          "channel": "email",
-          "applied_via": "email",
-          "applied_at": "[redacted]T04:17:48",
-          "first_seen_at": "[redacted]T04:17:44",
-          "age_days": 47,
-          "ctc": "unlisted",
-          "outcome": "",
-          "on_track": true
-        },
-        {
-          "id": 252,
-          "status": "applied",
-          "track": "automation",
-          "track_label": "Tosca / SAP / Playwright Automation",
-          "score": 28.0,
-          "company": "Fossil Group",
-          "title": "SAP CPI - Software Engineer",
-          "location": "KA, IN",
-          "source": "harvest_remote",
-          "url": "https://in.indeed.com/viewjob?jk=570a4e1f886d3ca8",
-          "channel": "email",
-          "applied_via": "email",
-          "applied_at": "[redacted]T04:17:41",
-          "first_seen_at": "[redacted]T04:17:37",
-          "age_days": 47,
-          "ctc": "unlisted",
-          "outcome": "",
-          "on_track": true
-        },
-        {
-          "id": 250,
-          "status": "applied",
-          "track": "automation",
-          "track_label": "Tosca / SAP / Playwright Automation",
-          "score": 28.0,
-          "company": "msg",
-          "title": "Lead Business Consultant \u2013 SAP IBP Response & Supply (all genders)",
-          "location": "Berlin, BE, DE",
-          "source": "harvest_remote",
-          "url": "https://de.indeed.com/viewjob?jk=e054505ce06c0814",
-          "channel": "email",
-          "applied_via": "email",
-          "applied_at": "[redacted]T04:17:35",
-          "first_seen_at": "[redacted]T04:17:30",
-          "age_days": 47,
-          "ctc": "unlisted",
-          "outcome": "",
-          "on_track": true
         }
       ],
       "threads": [
-        {
-          "status": "follow-up-due",
-          "company": "Jumio",
-          "title": "SDE II - QA, (Fixed term Contract)",
-          "sent_at": "[redacted]T21:45:50",
-          "last_activity": "[redacted]T21:45:50",
-          "waiting_days": 10,
-          "replies": 0,
-          "followups": 0
-        },
-        {
-          "status": "follow-up-due",
-          "company": "Leading IT Firm in Kochi",
-          "title": "QA Lead Engineer",
-          "sent_at": "[redacted]T21:28:58",
-          "last_activity": "[redacted]T21:28:58",
-          "waiting_days": 10,
-          "replies": 0,
-          "followups": 0
-        },
-        {
-          "status": "follow-up-due",
-          "company": "VENPA GLOBAL TECHNOLOGIES",
-          "title": "QA Engineer (Playwright /JavaScript) \u2013 Permanent | Remote |",
-          "sent_at": "[redacted]T20:54:30",
-          "last_activity": "[redacted]T20:54:30",
-          "waiting_days": 12,
-          "replies": 0,
-          "followups": 0
-        },
-        {
-          "status": "follow-up-due",
-          "company": "Codeplusplus Academy",
-          "title": "Software Tester (QA)- (AUTOMATION)",
-          "sent_at": "[redacted]T20:32:51",
-          "last_activity": "[redacted]T20:32:51",
-          "waiting_days": 12,
-          "replies": 0,
-          "followups": 0
-        },
-        {
-          "status": "follow-up-due",
-          "company": "Calfus",
-          "title": "SAP S/4Hana Accounts Payable Specialist",
-          "sent_at": "[redacted]T11:25:57",
-          "last_activity": "[redacted]T11:25:57",
-          "waiting_days": 18,
-          "replies": 0,
-          "followups": 0
-        },
-        {
-          "status": "follow-up-due",
-          "company": "Unknown",
-          "title": "TOSCA Automation Testing Trainer",
-          "sent_at": "[redacted]T09:25:36",
-          "last_activity": "[redacted]T09:25:36",
-          "waiting_days": 19,
-          "replies": 0,
-          "followups": 0
-        },
-        {
-          "status": "follow-up-due",
-          "company": "Blue Ocean Systems Infotech Pvt. Ltd.",
-          "title": "ServiceNow Developer (Functional & Technical)",
-          "sent_at": "[redacted]T09:25:28",
-          "last_activity": "[redacted]T09:25:28",
-          "waiting_days": 19,
-          "replies": 0,
-          "followups": 0
-        },
-        {
-          "status": "follow-up-due",
-          "company": "BALUSEN TECHNOLOGIES",
-          "title": "QA Automation Engineer",
-          "sent_at": "[redacted]T07:36:59",
-          "last_activity": "[redacted]T07:36:59",
-          "waiting_days": 21,
-          "replies": 0,
-          "followups": 0
-        },
         {
           "status": "follow-up-due",
           "company": "Acmedian Technologies",
@@ -7776,7 +7696,7 @@
           "title": "Senior Compleat Developer",
           "sent_at": "[redacted]T13:35:01",
           "last_activity": "[redacted]T13:35:01",
-          "waiting_days": 22,
+          "waiting_days": 23,
           "replies": 0,
           "followups": 0
         },
@@ -7966,7 +7886,7 @@
           "title": "Playwright Automation",
           "sent_at": "[redacted]T19:58:05",
           "last_activity": "[redacted]T17:29:11",
-          "waiting_days": 30,
+          "waiting_days": 31,
           "replies": 0,
           "followups": 2
         },
@@ -7976,7 +7896,7 @@
           "title": "SDET / Individual Contributor experience",
           "sent_at": "[redacted]T19:58:00",
           "last_activity": "[redacted]T17:29:05",
-          "waiting_days": 30,
+          "waiting_days": 31,
           "replies": 0,
           "followups": 2
         },
@@ -7986,7 +7906,7 @@
           "title": "SAP-Modul- und Prozessberater (m/w/d)",
           "sent_at": "[redacted]T05:29:06",
           "last_activity": "[redacted]T15:35:17",
-          "waiting_days": 30,
+          "waiting_days": 31,
           "replies": 0,
           "followups": 2
         },
@@ -7996,7 +7916,7 @@
           "title": "SAP FICO with BCM consultant",
           "sent_at": "[redacted]T05:28:59",
           "last_activity": "[redacted]T15:35:12",
-          "waiting_days": 30,
+          "waiting_days": 31,
           "replies": 0,
           "followups": 2
         },
@@ -8006,7 +7926,7 @@
           "title": "Full Stack Product Engineer Intern, Agent Native",
           "sent_at": "[redacted]T15:31:10",
           "last_activity": "[redacted]T15:31:10",
-          "waiting_days": 30,
+          "waiting_days": 31,
           "replies": 0,
           "followups": 0
         },
@@ -8016,7 +7936,7 @@
           "title": "Senior Software Engineer, Front End / Full Stack",
           "sent_at": "[redacted]T15:30:59",
           "last_activity": "[redacted]T15:30:59",
-          "waiting_days": 30,
+          "waiting_days": 31,
           "replies": 0,
           "followups": 0
         },
@@ -8026,7 +7946,7 @@
           "title": "SAP ABAP Developer",
           "sent_at": "[redacted]T15:29:23",
           "last_activity": "[redacted]T15:29:23",
-          "waiting_days": 30,
+          "waiting_days": 31,
           "replies": 0,
           "followups": 0
         },
@@ -8036,7 +7956,7 @@
           "title": "Web Automation Test Engineer",
           "sent_at": "[redacted]T15:28:59",
           "last_activity": "[redacted]T15:28:59",
-          "waiting_days": 30,
+          "waiting_days": 31,
           "replies": 0,
           "followups": 0
         },
@@ -8046,7 +7966,7 @@
           "title": "IntegrationArchitect #SolutionArchitect #ApplicationIntegration #EnterpriseArchitecture",
           "sent_at": "[redacted]T15:28:49",
           "last_activity": "[redacted]T15:28:49",
-          "waiting_days": 30,
+          "waiting_days": 31,
           "replies": 0,
           "followups": 0
         },
@@ -8056,7 +7976,7 @@
           "title": "SAP Security Lead Consultant",
           "sent_at": "[redacted]T15:28:43",
           "last_activity": "[redacted]T15:28:43",
-          "waiting_days": 30,
+          "waiting_days": 31,
           "replies": 0,
           "followups": 0
         },
@@ -8079,6 +7999,86 @@
           "waiting_days": 41,
           "replies": 0,
           "followups": 2
+        },
+        {
+          "status": "follow-up-due",
+          "company": "C2C Group By -corp-2-corp.com",
+          "title": "\u2705 API Testing & Automation Frameworks",
+          "sent_at": "[redacted]T19:57:35",
+          "last_activity": "[redacted]T21:06:28",
+          "waiting_days": 41,
+          "replies": 0,
+          "followups": 2
+        },
+        {
+          "status": "follow-up-due",
+          "company": "Direct State client Requirements-C2C/W2",
+          "title": "\u2705 UI Automation \u2013 Selenium, Cypress, Playwright",
+          "sent_at": "[redacted]T19:57:31",
+          "last_activity": "[redacted]T21:06:24",
+          "waiting_days": 41,
+          "replies": 0,
+          "followups": 2
+        },
+        {
+          "status": "follow-up-due",
+          "company": "Pavithra M",
+          "title": "Pavithra M",
+          "sent_at": "[redacted]T19:46:45",
+          "last_activity": "[redacted]T21:06:20",
+          "waiting_days": 41,
+          "replies": 0,
+          "followups": 2
+        },
+        {
+          "status": "follow-up-due",
+          "company": "Bench Sales and US IT Recruiter (staffing)",
+          "title": "Bench Sales and US IT Recruiter (staffing)",
+          "sent_at": "[redacted]T19:46:40",
+          "last_activity": "[redacted]T21:06:16",
+          "waiting_days": 41,
+          "replies": 0,
+          "followups": 2
+        },
+        {
+          "status": "follow-up-due",
+          "company": "teamative",
+          "title": "Senior Consultant ServiceNow ITOM / CMDB",
+          "sent_at": "[redacted]T04:18:35",
+          "last_activity": "[redacted]T04:18:35",
+          "waiting_days": 47,
+          "replies": 0,
+          "followups": 0
+        },
+        {
+          "status": "follow-up-due",
+          "company": "Foundever",
+          "title": "Call Center Agent (m/w/d) Vodafone Glasfaser Onboarding",
+          "sent_at": "[redacted]T04:18:28",
+          "last_activity": "[redacted]T04:18:28",
+          "waiting_days": 47,
+          "replies": 0,
+          "followups": 0
+        },
+        {
+          "status": "follow-up-due",
+          "company": "EPI-USE",
+          "title": "Lead Consultant in Data Privacy",
+          "sent_at": "[redacted]T04:18:21",
+          "last_activity": "[redacted]T04:18:21",
+          "waiting_days": 47,
+          "replies": 0,
+          "followups": 0
+        },
+        {
+          "status": "follow-up-due",
+          "company": "DHL",
+          "title": "Platform Lead PTP and Banking (f/m/x)",
+          "sent_at": "[redacted]T04:18:15",
+          "last_activity": "[redacted]T04:18:15",
+          "waiting_days": 47,
+          "replies": 0,
+          "followups": 0
         }
       ]
     }
