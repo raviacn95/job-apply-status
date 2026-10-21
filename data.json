@@ -1,5 +1,5 @@
 {
-  "updated_at": "[redacted]T19:12:40+00:00",
+  "updated_at": "[redacted]T19:27:31+00:00",
   "pages_url": "https://raviacn95.github.io/job-apply-status/",
   "users": [
     {
@@ -21,7 +21,7 @@
         "hidden_other_track": 122,
         "daily_remaining": 50,
         "daily_limit": 50,
-        "last_cycle_at": "[redacted]T14:21:40+00:00",
+        "last_cycle_at": "[redacted]T19:17:38+00:00",
         "last_apply_at": "[redacted]T18:30:14"
       },
       "mail": {
@@ -32,6 +32,22 @@
         "bounced": 0
       },
       "runs": [
+        {
+          "id": 603,
+          "started_at": "[redacted]T19:17:38+00:00",
+          "finished_at": "",
+          "status": "running",
+          "live": true,
+          "ingested": 0,
+          "scanned": 0,
+          "applied": 0,
+          "queued": 0,
+          "errors": 0,
+          "replies": 0,
+          "bounces": 0,
+          "duration_sec": 0.0,
+          "google_429": 0
+        },
         {
           "id": 602,
           "started_at": "[redacted]T14:21:40+00:00",
@@ -654,22 +670,6 @@
           "replies": 0,
           "bounces": 0,
           "duration_sec": 0.0,
-          "google_429": 0
-        },
-        {
-          "id": 563,
-          "started_at": "[redacted]T05:07:38+00:00",
-          "finished_at": "[redacted]T05:19:23+00:00",
-          "status": "ok",
-          "live": true,
-          "ingested": 0,
-          "scanned": 48,
-          "applied": 0,
-          "queued": 250,
-          "errors": 0,
-          "replies": 0,
-          "bounces": 0,
-          "duration_sec": 705.0,
           "google_429": 0
         }
       ],
@@ -1329,7 +1329,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T19:43:57",
           "first_seen_at": "[redacted]T19:26:59",
-          "age_days": 50,
+          "age_days": 51,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -1349,7 +1349,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T19:43:53",
           "first_seen_at": "[redacted]T19:26:59",
-          "age_days": 50,
+          "age_days": 51,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -1389,7 +1389,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T19:43:45",
           "first_seen_at": "[redacted]T19:26:59",
-          "age_days": 50,
+          "age_days": 51,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -1409,7 +1409,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T19:41:06",
           "first_seen_at": "[redacted]T19:26:58",
-          "age_days": 50,
+          "age_days": 51,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -1449,7 +1449,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T19:40:50",
           "first_seen_at": "[redacted]T19:26:58",
-          "age_days": 50,
+          "age_days": 51,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -1469,7 +1469,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T19:40:46",
           "first_seen_at": "[redacted]T19:26:58",
-          "age_days": 50,
+          "age_days": 51,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -1489,7 +1489,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T19:40:41",
           "first_seen_at": "[redacted]T19:26:59",
-          "age_days": 50,
+          "age_days": 51,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -1509,7 +1509,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T19:40:37",
           "first_seen_at": "[redacted]T19:26:59",
-          "age_days": 50,
+          "age_days": 51,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -1529,7 +1529,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T19:40:27",
           "first_seen_at": "[redacted]T19:26:59",
-          "age_days": 50,
+          "age_days": 51,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -1549,7 +1549,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T19:40:22",
           "first_seen_at": "[redacted]T19:26:59",
-          "age_days": 50,
+          "age_days": 51,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -1791,7 +1791,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T19:23:40",
-          "age_days": 0,
+          "age_days": 1,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -2471,7 +2471,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T19:27:15",
-          "age_days": 28,
+          "age_days": 29,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -3253,7 +3253,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T19:43:57",
           "first_seen_at": "[redacted]T19:26:59",
-          "age_days": 50,
+          "age_days": 51,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -3273,7 +3273,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T19:43:53",
           "first_seen_at": "[redacted]T19:26:59",
-          "age_days": 50,
+          "age_days": 51,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -3313,7 +3313,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T19:43:45",
           "first_seen_at": "[redacted]T19:26:59",
-          "age_days": 50,
+          "age_days": 51,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -3333,7 +3333,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T19:41:06",
           "first_seen_at": "[redacted]T19:26:58",
-          "age_days": 50,
+          "age_days": 51,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -3373,7 +3373,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T19:40:50",
           "first_seen_at": "[redacted]T19:26:58",
-          "age_days": 50,
+          "age_days": 51,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -3393,7 +3393,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T19:40:46",
           "first_seen_at": "[redacted]T19:26:58",
-          "age_days": 50,
+          "age_days": 51,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -3413,7 +3413,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T19:40:41",
           "first_seen_at": "[redacted]T19:26:59",
-          "age_days": 50,
+          "age_days": 51,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -3433,7 +3433,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T19:40:37",
           "first_seen_at": "[redacted]T19:26:59",
-          "age_days": 50,
+          "age_days": 51,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -3453,7 +3453,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T19:40:27",
           "first_seen_at": "[redacted]T19:26:59",
-          "age_days": 50,
+          "age_days": 51,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -3473,7 +3473,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T19:40:22",
           "first_seen_at": "[redacted]T19:26:59",
-          "age_days": 50,
+          "age_days": 51,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -4035,17 +4035,17 @@
         {
           "id": 64,
           "started_at": "[redacted]T19:07:56+00:00",
-          "finished_at": "",
-          "status": "running",
+          "finished_at": "[redacted]T19:12:49+00:00",
+          "status": "ok",
           "live": true,
-          "ingested": 0,
-          "scanned": 0,
-          "applied": 0,
-          "queued": 0,
+          "ingested": 10,
+          "scanned": 18,
+          "applied": 3,
+          "queued": 1189,
           "errors": 0,
           "replies": 0,
           "bounces": 0,
-          "duration_sec": 0.0,
+          "duration_sec": 293.0,
           "google_429": 0
         },
         {
@@ -4749,7 +4749,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T19:23:23",
           "first_seen_at": "[redacted]T19:23:18",
-          "age_days": 0,
+          "age_days": 1,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -6753,7 +6753,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T19:23:23",
           "first_seen_at": "[redacted]T19:23:18",
-          "age_days": 0,
+          "age_days": 1,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
