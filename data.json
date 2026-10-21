@@ -1,5 +1,5 @@
 {
-  "updated_at": "[redacted]T07:07:32+00:00",
+  "updated_at": "[redacted]T07:43:37+00:00",
   "pages_url": "https://raviacn95.github.io/job-apply-status/",
   "users": [
     {
@@ -21,7 +21,7 @@
         "hidden_other_track": 122,
         "daily_remaining": 50,
         "daily_limit": 50,
-        "last_cycle_at": "[redacted]T07:02:37+00:00",
+        "last_cycle_at": "[redacted]T07:37:38+00:00",
         "last_apply_at": "[redacted]T18:30:14"
       },
       "mail": {
@@ -33,8 +33,8 @@
       },
       "runs": [
         {
-          "id": 596,
-          "started_at": "[redacted]T07:02:37+00:00",
+          "id": 597,
+          "started_at": "[redacted]T07:37:38+00:00",
           "finished_at": "",
           "status": "running",
           "live": true,
@@ -46,6 +46,22 @@
           "replies": 0,
           "bounces": 0,
           "duration_sec": 0.0,
+          "google_429": 0
+        },
+        {
+          "id": 596,
+          "started_at": "[redacted]T07:02:37+00:00",
+          "finished_at": "[redacted]T07:07:42+00:00",
+          "status": "ok",
+          "live": true,
+          "ingested": 2,
+          "scanned": 50,
+          "applied": 0,
+          "queued": 254,
+          "errors": 0,
+          "replies": 0,
+          "bounces": 0,
+          "duration_sec": 305.0,
           "google_429": 1
         },
         {
@@ -654,22 +670,6 @@
           "replies": 0,
           "bounces": 0,
           "duration_sec": 730.0,
-          "google_429": 0
-        },
-        {
-          "id": 557,
-          "started_at": "[redacted]T22:42:38+00:00",
-          "finished_at": "[redacted]T22:54:02+00:00",
-          "status": "ok",
-          "live": true,
-          "ingested": 2,
-          "scanned": 50,
-          "applied": 0,
-          "queued": 250,
-          "errors": 0,
-          "replies": 0,
-          "bounces": 0,
-          "duration_sec": 684.0,
           "google_429": 0
         }
       ],
@@ -4849,7 +4849,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T07:36:59",
           "first_seen_at": "[redacted]T07:36:54",
-          "age_days": 20,
+          "age_days": 21,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -6853,7 +6853,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T07:36:59",
           "first_seen_at": "[redacted]T07:36:54",
-          "age_days": 20,
+          "age_days": 21,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -7756,7 +7756,7 @@
           "title": "QA Automation Engineer",
           "sent_at": "[redacted]T07:36:59",
           "last_activity": "[redacted]T07:36:59",
-          "waiting_days": 20,
+          "waiting_days": 21,
           "replies": 0,
           "followups": 0
         },
