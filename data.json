@@ -1,5 +1,5 @@
 {
-  "updated_at": "[redacted]T05:57:18+00:00",
+  "updated_at": "[redacted]T06:32:40+00:00",
   "pages_url": "https://raviacn95.github.io/job-apply-status/",
   "users": [
     {
@@ -13,15 +13,15 @@
         "Teradata DBA"
       ],
       "stats": {
-        "jobs": 314,
-        "matched": 268,
+        "jobs": 315,
+        "matched": 269,
         "applied": 46,
         "applied_this_week": 1,
-        "desk": 268,
+        "desk": 269,
         "hidden_other_track": 120,
         "daily_remaining": 50,
         "daily_limit": 50,
-        "last_cycle_at": "[redacted]T05:52:37+00:00",
+        "last_cycle_at": "[redacted]T06:27:37+00:00",
         "last_apply_at": "[redacted]T18:30:14"
       },
       "mail": {
@@ -33,8 +33,8 @@
       },
       "runs": [
         {
-          "id": 594,
-          "started_at": "[redacted]T05:52:37+00:00",
+          "id": 595,
+          "started_at": "[redacted]T06:27:37+00:00",
           "finished_at": "",
           "status": "running",
           "live": true,
@@ -46,6 +46,22 @@
           "replies": 0,
           "bounces": 0,
           "duration_sec": 0.0,
+          "google_429": 0
+        },
+        {
+          "id": 594,
+          "started_at": "[redacted]T05:52:37+00:00",
+          "finished_at": "[redacted]T05:57:28+00:00",
+          "status": "ok",
+          "live": true,
+          "ingested": 0,
+          "scanned": 48,
+          "applied": 0,
+          "queued": 253,
+          "errors": 0,
+          "replies": 0,
+          "bounces": 0,
+          "duration_sec": 291.0,
           "google_429": 0
         },
         {
@@ -655,22 +671,6 @@
           "bounces": 0,
           "duration_sec": 495.0,
           "google_429": 0
-        },
-        {
-          "id": 555,
-          "started_at": "[redacted]T21:32:38+00:00",
-          "finished_at": "[redacted]T21:41:29+00:00",
-          "status": "ok",
-          "live": true,
-          "ingested": 0,
-          "scanned": 48,
-          "applied": 0,
-          "queued": 250,
-          "errors": 0,
-          "replies": 0,
-          "bounces": 0,
-          "duration_sec": 531.0,
-          "google_429": 0
         }
       ],
       "applied_jobs": [
@@ -769,7 +769,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T06:21:23",
           "first_seen_at": "[redacted]T06:21:17",
-          "age_days": 28,
+          "age_days": 29,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -1737,6 +1737,26 @@
           "on_track": true
         },
         {
+          "id": 542,
+          "status": "matched",
+          "track": "teradata_dba",
+          "track_label": "Teradata DBA",
+          "score": 28.0,
+          "company": "Triade Flevoland",
+          "title": "Consultant \u2014 System Integration (Informatica IDMC: CDI / CAI)",
+          "location": "Remote, US",
+          "source": "harvest_teradata",
+          "url": "https://www.indeed.com/viewjob?jk=d22f323af4989133",
+          "channel": "apply desk",
+          "applied_via": "",
+          "applied_at": "",
+          "first_seen_at": "[redacted]T06:30:24",
+          "age_days": 0,
+          "ctc": "unlisted",
+          "outcome": "",
+          "on_track": true
+        },
+        {
           "id": 541,
           "status": "matched",
           "track": "teradata_dba",
@@ -2471,7 +2491,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T06:21:17",
-          "age_days": 28,
+          "age_days": 29,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -2567,26 +2587,6 @@
           "location": "Mechanicsburg, PA, US",
           "source": "harvest_teradata",
           "url": "https://www.indeed.com/viewjob?jk=a85001e6e2487bfc",
-          "channel": "apply desk",
-          "applied_via": "",
-          "applied_at": "",
-          "first_seen_at": "[redacted]T20:01:42",
-          "age_days": 30,
-          "ctc": "unlisted",
-          "outcome": "",
-          "on_track": true
-        },
-        {
-          "id": 414,
-          "status": "matched",
-          "track": "teradata_dba",
-          "track_label": "Teradata DBA",
-          "score": 28.0,
-          "company": "OPULENTSOFT",
-          "title": "Sr Informatica Developer",
-          "location": "Hartford, CT, US",
-          "source": "harvest_teradata",
-          "url": "https://www.indeed.com/viewjob?jk=441c2adfb670e225",
           "channel": "apply desk",
           "applied_via": "",
           "applied_at": "",
@@ -2693,7 +2693,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T06:21:23",
           "first_seen_at": "[redacted]T06:21:17",
-          "age_days": 28,
+          "age_days": 29,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -3636,7 +3636,7 @@
           "title": "Senior Informatica Developer",
           "sent_at": "[redacted]T20:01:38",
           "last_activity": "[redacted]T06:12:46",
-          "waiting_days": 23,
+          "waiting_days": 24,
           "replies": 0,
           "followups": 2
         },
@@ -4013,11 +4013,11 @@
         "Tosca / SAP / Playwright Automation"
       ],
       "stats": {
-        "jobs": 1393,
-        "matched": 1227,
+        "jobs": 1395,
+        "matched": 1229,
         "applied": 166,
         "applied_this_week": 1,
-        "desk": 1227,
+        "desk": 1229,
         "hidden_other_track": 2,
         "daily_remaining": 50,
         "daily_limit": 50,
@@ -4989,7 +4989,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T06:21:08",
           "first_seen_at": "[redacted]T06:21:02",
-          "age_days": 28,
+          "age_days": 29,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -6451,7 +6451,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T06:01:24",
-          "age_days": 51,
+          "age_days": 52,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -6993,7 +6993,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T06:21:08",
           "first_seen_at": "[redacted]T06:21:02",
-          "age_days": 28,
+          "age_days": 29,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
