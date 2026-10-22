@@ -1,5 +1,5 @@
 {
-  "updated_at": "[redacted]T17:05:16+00:00",
+  "updated_at": "[redacted]T17:35:11+00:00",
   "pages_url": "https://raviacn95.github.io/job-apply-status/",
   "users": [
     {
@@ -21,7 +21,7 @@
         "hidden_other_track": 125,
         "daily_remaining": 50,
         "daily_limit": 50,
-        "last_cycle_at": "[redacted]T16:52:38+00:00",
+        "last_cycle_at": "[redacted]T17:27:38+00:00",
         "last_apply_at": "[redacted]T18:30:14"
       },
       "mail": {
@@ -33,8 +33,8 @@
       },
       "runs": [
         {
-          "id": 613,
-          "started_at": "[redacted]T16:52:38+00:00",
+          "id": 614,
+          "started_at": "[redacted]T17:27:38+00:00",
           "finished_at": "",
           "status": "running",
           "live": true,
@@ -46,6 +46,22 @@
           "replies": 0,
           "bounces": 0,
           "duration_sec": 0.0,
+          "google_429": 0
+        },
+        {
+          "id": 613,
+          "started_at": "[redacted]T16:52:38+00:00",
+          "finished_at": "[redacted]T17:06:09+00:00",
+          "status": "ok",
+          "live": true,
+          "ingested": 0,
+          "scanned": 48,
+          "applied": 0,
+          "queued": 256,
+          "errors": 0,
+          "replies": 0,
+          "bounces": 0,
+          "duration_sec": 811.0,
           "google_429": 0
         },
         {
@@ -654,22 +670,6 @@
           "replies": 0,
           "bounces": 0,
           "duration_sec": 300.0,
-          "google_429": 0
-        },
-        {
-          "id": 574,
-          "started_at": "[redacted]T23:47:37+00:00",
-          "finished_at": "[redacted]T23:52:19+00:00",
-          "status": "ok",
-          "live": true,
-          "ingested": 0,
-          "scanned": 48,
-          "applied": 0,
-          "queued": 252,
-          "errors": 0,
-          "replies": 0,
-          "bounces": 0,
-          "duration_sec": 282.0,
           "google_429": 0
         }
       ],
@@ -3646,7 +3646,7 @@
           "title": "ETL Developer",
           "sent_at": "[redacted]T05:23:29",
           "last_activity": "[redacted]T17:06:49",
-          "waiting_days": 28,
+          "waiting_days": 29,
           "replies": 0,
           "followups": 2
         },
@@ -5249,7 +5249,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T17:30:05",
           "first_seen_at": "[redacted]T17:30:00",
-          "age_days": 40,
+          "age_days": 41,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -5269,7 +5269,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T17:29:57",
           "first_seen_at": "[redacted]T17:29:52",
-          "age_days": 40,
+          "age_days": 41,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -7253,7 +7253,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T17:30:05",
           "first_seen_at": "[redacted]T17:30:00",
-          "age_days": 40,
+          "age_days": 41,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -7273,7 +7273,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T17:29:57",
           "first_seen_at": "[redacted]T17:29:52",
-          "age_days": 40,
+          "age_days": 41,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -7886,7 +7886,7 @@
           "title": "Playwright Automation",
           "sent_at": "[redacted]T19:58:05",
           "last_activity": "[redacted]T17:29:11",
-          "waiting_days": 31,
+          "waiting_days": 32,
           "replies": 0,
           "followups": 2
         },
@@ -7896,7 +7896,7 @@
           "title": "SDET / Individual Contributor experience",
           "sent_at": "[redacted]T19:58:00",
           "last_activity": "[redacted]T17:29:05",
-          "waiting_days": 31,
+          "waiting_days": 32,
           "replies": 0,
           "followups": 2
         },
