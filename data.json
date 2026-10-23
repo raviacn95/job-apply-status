@@ -1,5 +1,5 @@
 {
-  "updated_at": "[redacted]T18:37:12+00:00",
+  "updated_at": "[redacted]T19:14:36+00:00",
   "pages_url": "https://raviacn95.github.io/job-apply-status/",
   "users": [
     {
@@ -21,7 +21,7 @@
         "hidden_other_track": 128,
         "daily_remaining": 50,
         "daily_limit": 50,
-        "last_cycle_at": "[redacted]T18:32:38+00:00",
+        "last_cycle_at": "[redacted]T19:07:38+00:00",
         "last_apply_at": "[redacted]T18:30:14"
       },
       "mail": {
@@ -33,8 +33,8 @@
       },
       "runs": [
         {
-          "id": 622,
-          "started_at": "[redacted]T18:32:38+00:00",
+          "id": 623,
+          "started_at": "[redacted]T19:07:38+00:00",
           "finished_at": "",
           "status": "running",
           "live": true,
@@ -46,6 +46,22 @@
           "replies": 0,
           "bounces": 0,
           "duration_sec": 0.0,
+          "google_429": 0
+        },
+        {
+          "id": 622,
+          "started_at": "[redacted]T18:32:38+00:00",
+          "finished_at": "[redacted]T18:37:23+00:00",
+          "status": "ok",
+          "live": true,
+          "ingested": 0,
+          "scanned": 48,
+          "applied": 0,
+          "queued": 258,
+          "errors": 0,
+          "replies": 0,
+          "bounces": 0,
+          "duration_sec": 285.0,
           "google_429": 0
         },
         {
@@ -654,22 +670,6 @@
           "replies": 0,
           "bounces": 0,
           "duration_sec": 934.0,
-          "google_429": 0
-        },
-        {
-          "id": 583,
-          "started_at": "[redacted]T20:02:37+00:00",
-          "finished_at": "[redacted]T20:12:56+00:00",
-          "status": "ok",
-          "live": true,
-          "ingested": 0,
-          "scanned": 48,
-          "applied": 0,
-          "queued": 252,
-          "errors": 0,
-          "replies": 0,
-          "bounces": 0,
-          "duration_sec": 619.0,
           "google_429": 0
         }
       ],
@@ -1631,7 +1631,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T19:05:59",
-          "age_days": 52,
+          "age_days": 53,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -1671,7 +1671,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T19:05:00",
-          "age_days": 52,
+          "age_days": 53,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -3553,7 +3553,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T19:05:59",
-          "age_days": 52,
+          "age_days": 53,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -3593,7 +3593,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T19:05:00",
-          "age_days": 52,
+          "age_days": 53,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -4013,20 +4013,20 @@
         "Tosca / SAP / Playwright Automation"
       ],
       "stats": {
-        "jobs": 1413,
-        "matched": 1244,
-        "applied": 169,
-        "applied_this_week": 4,
-        "desk": 1244,
+        "jobs": 1417,
+        "matched": 1247,
+        "applied": 170,
+        "applied_this_week": 5,
+        "desk": 1247,
         "hidden_other_track": 2,
-        "daily_remaining": 50,
+        "daily_remaining": 49,
         "daily_limit": 50,
         "last_cycle_at": "[redacted]T19:07:56+00:00",
-        "last_apply_at": "[redacted]T19:09:28"
+        "last_apply_at": "[redacted]T18:38:43"
       },
       "mail": {
-        "threads": 170,
-        "waiting": 12,
+        "threads": 171,
+        "waiting": 13,
         "followup_due": 146,
         "replied": 12,
         "bounced": 0
@@ -4675,6 +4675,26 @@
       ],
       "applied_jobs": [
         {
+          "id": 1466,
+          "status": "applied",
+          "track": "automation",
+          "track_label": "Tosca / SAP / Playwright Automation",
+          "score": 28.0,
+          "company": "CareerBoard",
+          "title": "QA Lead Engineer",
+          "location": "KA, IN",
+          "source": "harvest_remote",
+          "url": "https://in.indeed.com/viewjob?jk=f362ee39524a8059",
+          "channel": "email",
+          "applied_via": "email",
+          "applied_at": "[redacted]T18:38:43",
+          "first_seen_at": "[redacted]T18:38:36",
+          "age_days": 0,
+          "ctc": "unlisted",
+          "outcome": "",
+          "on_track": true
+        },
+        {
           "id": 1449,
           "status": "applied",
           "track": "automation",
@@ -4689,7 +4709,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T19:09:28",
           "first_seen_at": "[redacted]T19:08:03",
-          "age_days": 1,
+          "age_days": 2,
           "ctc": "112.9 LPA",
           "outcome": "",
           "on_track": true
@@ -4709,7 +4729,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T19:09:22",
           "first_seen_at": "[redacted]T19:08:03",
-          "age_days": 1,
+          "age_days": 2,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -4729,7 +4749,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T19:09:16",
           "first_seen_at": "[redacted]T19:08:10",
-          "age_days": 1,
+          "age_days": 2,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -5649,26 +5669,6 @@
           "applied_via": "email",
           "applied_at": "[redacted]T04:18:02",
           "first_seen_at": "[redacted]T04:17:58",
-          "age_days": 49,
-          "ctc": "unlisted",
-          "outcome": "",
-          "on_track": true
-        },
-        {
-          "id": 255,
-          "status": "applied",
-          "track": "automation",
-          "track_label": "Tosca / SAP / Playwright Automation",
-          "score": 28.0,
-          "company": "HH Global",
-          "title": "Finance Systems Integration Manager (SAP B1), any UK",
-          "location": "Manchester, ENG, GB",
-          "source": "harvest_remote",
-          "url": "https://uk.indeed.com/viewjob?jk=2016bc4b60920fb7",
-          "channel": "email",
-          "applied_via": "email",
-          "applied_at": "[redacted]T04:17:55",
-          "first_seen_at": "[redacted]T04:17:51",
           "age_days": 49,
           "ctc": "unlisted",
           "outcome": "",
@@ -6071,7 +6071,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T19:08:03",
-          "age_days": 1,
+          "age_days": 2,
           "ctc": "129.5\u2013145.7 LPA",
           "outcome": "",
           "on_track": true
@@ -6131,7 +6131,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T19:06:38",
-          "age_days": 56,
+          "age_days": 57,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -6211,7 +6211,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T19:06:38",
-          "age_days": 56,
+          "age_days": 57,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -6511,7 +6511,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T19:06:38",
-          "age_days": 56,
+          "age_days": 57,
           "ctc": "124.5 LPA",
           "outcome": "",
           "on_track": true
@@ -6531,7 +6531,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T19:08:03",
-          "age_days": 1,
+          "age_days": 2,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -6591,7 +6591,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T19:06:38",
-          "age_days": 56,
+          "age_days": 57,
           "ctc": "66.4 LPA",
           "outcome": "",
           "on_track": true
@@ -6651,7 +6651,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T19:06:38",
-          "age_days": 56,
+          "age_days": 57,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -6679,6 +6679,26 @@
       ],
       "jobs": [
         {
+          "id": 1466,
+          "status": "applied",
+          "track": "automation",
+          "track_label": "Tosca / SAP / Playwright Automation",
+          "score": 28.0,
+          "company": "CareerBoard",
+          "title": "QA Lead Engineer",
+          "location": "KA, IN",
+          "source": "harvest_remote",
+          "url": "https://in.indeed.com/viewjob?jk=f362ee39524a8059",
+          "channel": "email",
+          "applied_via": "email",
+          "applied_at": "[redacted]T18:38:43",
+          "first_seen_at": "[redacted]T18:38:36",
+          "age_days": 0,
+          "ctc": "unlisted",
+          "outcome": "",
+          "on_track": true
+        },
+        {
           "id": 1449,
           "status": "applied",
           "track": "automation",
@@ -6693,7 +6713,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T19:09:28",
           "first_seen_at": "[redacted]T19:08:03",
-          "age_days": 1,
+          "age_days": 2,
           "ctc": "112.9 LPA",
           "outcome": "",
           "on_track": true
@@ -6713,7 +6733,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T19:09:22",
           "first_seen_at": "[redacted]T19:08:03",
-          "age_days": 1,
+          "age_days": 2,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -6733,7 +6753,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T19:09:16",
           "first_seen_at": "[redacted]T19:08:10",
-          "age_days": 1,
+          "age_days": 2,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -7653,26 +7673,6 @@
           "applied_via": "email",
           "applied_at": "[redacted]T04:18:02",
           "first_seen_at": "[redacted]T04:17:58",
-          "age_days": 49,
-          "ctc": "unlisted",
-          "outcome": "",
-          "on_track": true
-        },
-        {
-          "id": 255,
-          "status": "applied",
-          "track": "automation",
-          "track_label": "Tosca / SAP / Playwright Automation",
-          "score": 28.0,
-          "company": "HH Global",
-          "title": "Finance Systems Integration Manager (SAP B1), any UK",
-          "location": "Manchester, ENG, GB",
-          "source": "harvest_remote",
-          "url": "https://uk.indeed.com/viewjob?jk=2016bc4b60920fb7",
-          "channel": "email",
-          "applied_via": "email",
-          "applied_at": "[redacted]T04:17:55",
-          "first_seen_at": "[redacted]T04:17:51",
           "age_days": 49,
           "ctc": "unlisted",
           "outcome": "",
