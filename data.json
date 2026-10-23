@@ -1,5 +1,5 @@
 {
-  "updated_at": "[redacted]T19:14:36+00:00",
+  "updated_at": "[redacted]T19:56:07+00:00",
   "pages_url": "https://raviacn95.github.io/job-apply-status/",
   "users": [
     {
@@ -13,15 +13,15 @@
         "Teradata DBA"
       ],
       "stats": {
-        "jobs": 319,
-        "matched": 273,
+        "jobs": 320,
+        "matched": 274,
         "applied": 46,
         "applied_this_week": 0,
-        "desk": 273,
+        "desk": 274,
         "hidden_other_track": 128,
         "daily_remaining": 50,
         "daily_limit": 50,
-        "last_cycle_at": "[redacted]T19:07:38+00:00",
+        "last_cycle_at": "[redacted]T19:42:39+00:00",
         "last_apply_at": "[redacted]T18:30:14"
       },
       "mail": {
@@ -33,8 +33,8 @@
       },
       "runs": [
         {
-          "id": 623,
-          "started_at": "[redacted]T19:07:38+00:00",
+          "id": 624,
+          "started_at": "[redacted]T19:42:39+00:00",
           "finished_at": "",
           "status": "running",
           "live": true,
@@ -46,6 +46,22 @@
           "replies": 0,
           "bounces": 0,
           "duration_sec": 0.0,
+          "google_429": 0
+        },
+        {
+          "id": 623,
+          "started_at": "[redacted]T19:07:38+00:00",
+          "finished_at": "[redacted]T19:15:27+00:00",
+          "status": "ok",
+          "live": true,
+          "ingested": 0,
+          "scanned": 48,
+          "applied": 0,
+          "queued": 258,
+          "errors": 0,
+          "replies": 0,
+          "bounces": 0,
+          "duration_sec": 469.0,
           "google_429": 0
         },
         {
@@ -654,22 +670,6 @@
           "replies": 0,
           "bounces": 0,
           "duration_sec": 0.0,
-          "google_429": 0
-        },
-        {
-          "id": 584,
-          "started_at": "[redacted]T20:37:38+00:00",
-          "finished_at": "[redacted]T20:53:12+00:00",
-          "status": "ok",
-          "live": true,
-          "ingested": 0,
-          "scanned": 48,
-          "applied": 0,
-          "queued": 252,
-          "errors": 0,
-          "replies": 0,
-          "bounces": 0,
-          "duration_sec": 934.0,
           "google_429": 0
         }
       ],
@@ -1329,7 +1329,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T19:43:57",
           "first_seen_at": "[redacted]T19:26:59",
-          "age_days": 52,
+          "age_days": 53,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -1349,7 +1349,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T19:43:53",
           "first_seen_at": "[redacted]T19:26:59",
-          "age_days": 52,
+          "age_days": 53,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -1369,7 +1369,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T19:43:49",
           "first_seen_at": "[redacted]T19:27:34",
-          "age_days": 52,
+          "age_days": 53,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -1389,7 +1389,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T19:43:45",
           "first_seen_at": "[redacted]T19:26:59",
-          "age_days": 52,
+          "age_days": 53,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -1409,7 +1409,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T19:41:06",
           "first_seen_at": "[redacted]T19:26:58",
-          "age_days": 52,
+          "age_days": 53,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -1429,7 +1429,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T19:41:01",
           "first_seen_at": "[redacted]T19:27:34",
-          "age_days": 52,
+          "age_days": 53,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -1449,7 +1449,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T19:40:50",
           "first_seen_at": "[redacted]T19:26:58",
-          "age_days": 52,
+          "age_days": 53,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -1469,7 +1469,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T19:40:46",
           "first_seen_at": "[redacted]T19:26:58",
-          "age_days": 52,
+          "age_days": 53,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -1489,7 +1489,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T19:40:41",
           "first_seen_at": "[redacted]T19:26:59",
-          "age_days": 52,
+          "age_days": 53,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -1509,7 +1509,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T19:40:37",
           "first_seen_at": "[redacted]T19:26:59",
-          "age_days": 52,
+          "age_days": 53,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -1529,7 +1529,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T19:40:27",
           "first_seen_at": "[redacted]T19:26:59",
-          "age_days": 52,
+          "age_days": 53,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -1549,7 +1549,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T19:40:22",
           "first_seen_at": "[redacted]T19:26:59",
-          "age_days": 52,
+          "age_days": 53,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -1569,7 +1569,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T19:40:18",
           "first_seen_at": "[redacted]T19:30:36",
-          "age_days": 52,
+          "age_days": 53,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -1589,7 +1589,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T19:40:14",
           "first_seen_at": "[redacted]T19:30:36",
-          "age_days": 52,
+          "age_days": 53,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -1737,6 +1737,26 @@
           "on_track": true
         },
         {
+          "id": 558,
+          "status": "matched",
+          "track": "teradata_dba",
+          "track_label": "Teradata DBA",
+          "score": 28.0,
+          "company": "Raj Technologies Inc",
+          "title": "PeopleSoft Oracle DBA",
+          "location": "New York, NY, US",
+          "source": "harvest_teradata",
+          "url": "https://www.indeed.com/viewjob?jk=5ace81481ff67c7a",
+          "channel": "apply desk",
+          "applied_via": "",
+          "applied_at": "",
+          "first_seen_at": "[redacted]T19:39:32",
+          "age_days": 0,
+          "ctc": "unlisted",
+          "outcome": "",
+          "on_track": true
+        },
+        {
           "id": 557,
           "status": "matched",
           "track": "teradata_dba",
@@ -1851,7 +1871,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T19:23:40",
-          "age_days": 2,
+          "age_days": 3,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -1871,7 +1891,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T19:50:33",
-          "age_days": 3,
+          "age_days": 4,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -2311,7 +2331,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T19:31:31",
-          "age_days": 16,
+          "age_days": 17,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -2531,7 +2551,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T19:27:15",
-          "age_days": 30,
+          "age_days": 31,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -2572,26 +2592,6 @@
           "applied_at": "",
           "first_seen_at": "[redacted]T06:21:17",
           "age_days": 31,
-          "ctc": "unlisted",
-          "outcome": "",
-          "on_track": true
-        },
-        {
-          "id": 419,
-          "status": "matched",
-          "track": "teradata_dba",
-          "track_label": "Teradata DBA",
-          "score": 28.0,
-          "company": "FlySoft",
-          "title": "Informatica",
-          "location": "Jamesburg, NJ, US",
-          "source": "harvest_teradata",
-          "url": "https://www.indeed.com/viewjob?jk=668cbc7c0ee99f57",
-          "channel": "apply desk",
-          "applied_via": "",
-          "applied_at": "",
-          "first_seen_at": "[redacted]T20:01:42",
-          "age_days": 32,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -3253,7 +3253,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T19:43:57",
           "first_seen_at": "[redacted]T19:26:59",
-          "age_days": 52,
+          "age_days": 53,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -3273,7 +3273,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T19:43:53",
           "first_seen_at": "[redacted]T19:26:59",
-          "age_days": 52,
+          "age_days": 53,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -3293,7 +3293,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T19:43:49",
           "first_seen_at": "[redacted]T19:27:34",
-          "age_days": 52,
+          "age_days": 53,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -3313,7 +3313,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T19:43:45",
           "first_seen_at": "[redacted]T19:26:59",
-          "age_days": 52,
+          "age_days": 53,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -3333,7 +3333,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T19:41:06",
           "first_seen_at": "[redacted]T19:26:58",
-          "age_days": 52,
+          "age_days": 53,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -3353,7 +3353,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T19:41:01",
           "first_seen_at": "[redacted]T19:27:34",
-          "age_days": 52,
+          "age_days": 53,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -3373,7 +3373,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T19:40:50",
           "first_seen_at": "[redacted]T19:26:58",
-          "age_days": 52,
+          "age_days": 53,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -3393,7 +3393,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T19:40:46",
           "first_seen_at": "[redacted]T19:26:58",
-          "age_days": 52,
+          "age_days": 53,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -3413,7 +3413,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T19:40:41",
           "first_seen_at": "[redacted]T19:26:59",
-          "age_days": 52,
+          "age_days": 53,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -3433,7 +3433,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T19:40:37",
           "first_seen_at": "[redacted]T19:26:59",
-          "age_days": 52,
+          "age_days": 53,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -3453,7 +3453,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T19:40:27",
           "first_seen_at": "[redacted]T19:26:59",
-          "age_days": 52,
+          "age_days": 53,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -3473,7 +3473,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T19:40:22",
           "first_seen_at": "[redacted]T19:26:59",
-          "age_days": 52,
+          "age_days": 53,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -3493,7 +3493,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T19:40:18",
           "first_seen_at": "[redacted]T19:30:36",
-          "age_days": 52,
+          "age_days": 53,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -3513,7 +3513,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T19:40:14",
           "first_seen_at": "[redacted]T19:30:36",
-          "age_days": 52,
+          "age_days": 53,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -3666,7 +3666,7 @@
           "title": "Java /ETL Developer",
           "sent_at": "[redacted]T18:28:56",
           "last_activity": "[redacted]T19:38:35",
-          "waiting_days": 35,
+          "waiting_days": 36,
           "replies": 0,
           "followups": 2
         },
@@ -3676,7 +3676,7 @@
           "title": "Teradata Database Administrator (DBA)",
           "sent_at": "[redacted]T12:28:03",
           "last_activity": "[redacted]T19:38:31",
-          "waiting_days": 35,
+          "waiting_days": 36,
           "replies": 0,
           "followups": 2
         },
@@ -4013,11 +4013,11 @@
         "Tosca / SAP / Playwright Automation"
       ],
       "stats": {
-        "jobs": 1417,
-        "matched": 1247,
+        "jobs": 1419,
+        "matched": 1249,
         "applied": 170,
         "applied_this_week": 5,
-        "desk": 1247,
+        "desk": 1249,
         "hidden_other_track": 2,
         "daily_remaining": 49,
         "daily_limit": 50,
@@ -4026,8 +4026,8 @@
       },
       "mail": {
         "threads": 171,
-        "waiting": 13,
-        "followup_due": 146,
+        "waiting": 12,
+        "followup_due": 147,
         "replied": 12,
         "bounced": 0
       },
@@ -4769,7 +4769,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T19:23:23",
           "first_seen_at": "[redacted]T19:23:18",
-          "age_days": 2,
+          "age_days": 3,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -5029,7 +5029,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T19:40:11",
           "first_seen_at": "[redacted]T19:40:05",
-          "age_days": 28,
+          "age_days": 29,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -5189,7 +5189,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T15:28:49",
           "first_seen_at": "[redacted]T19:56:07",
-          "age_days": 52,
+          "age_days": 53,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -5209,7 +5209,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T15:28:43",
           "first_seen_at": "[redacted]T19:31:43",
-          "age_days": 52,
+          "age_days": 53,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -5249,7 +5249,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T19:33:50",
           "first_seen_at": "[redacted]T19:33:32",
-          "age_days": 41,
+          "age_days": 42,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -5891,7 +5891,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T19:55:51",
-          "age_days": 52,
+          "age_days": 53,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -6773,7 +6773,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T19:23:23",
           "first_seen_at": "[redacted]T19:23:18",
-          "age_days": 2,
+          "age_days": 3,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -7033,7 +7033,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T19:40:11",
           "first_seen_at": "[redacted]T19:40:05",
-          "age_days": 28,
+          "age_days": 29,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -7193,7 +7193,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T15:28:49",
           "first_seen_at": "[redacted]T19:56:07",
-          "age_days": 52,
+          "age_days": 53,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -7213,7 +7213,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T15:28:43",
           "first_seen_at": "[redacted]T19:31:43",
-          "age_days": 52,
+          "age_days": 53,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -7253,7 +7253,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T19:33:50",
           "first_seen_at": "[redacted]T19:33:32",
-          "age_days": 41,
+          "age_days": 42,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -7682,6 +7682,16 @@
       "threads": [
         {
           "status": "follow-up-due",
+          "company": "TriDevSofts",
+          "title": "Playwright Automation Test Lead",
+          "sent_at": "[redacted]T19:23:23",
+          "last_activity": "[redacted]T19:23:23",
+          "waiting_days": 3,
+          "replies": 0,
+          "followups": 0
+        },
+        {
+          "status": "follow-up-due",
           "company": "Acmedian Technologies",
           "title": "Senior QA Automation Engineer",
           "sent_at": "[redacted]T09:26:46",
@@ -8066,16 +8076,6 @@
           "title": "Lead Consultant in Data Privacy",
           "sent_at": "[redacted]T04:18:21",
           "last_activity": "[redacted]T04:18:21",
-          "waiting_days": 49,
-          "replies": 0,
-          "followups": 0
-        },
-        {
-          "status": "follow-up-due",
-          "company": "DHL",
-          "title": "Platform Lead PTP and Banking (f/m/x)",
-          "sent_at": "[redacted]T04:18:15",
-          "last_activity": "[redacted]T04:18:15",
           "waiting_days": 49,
           "replies": 0,
           "followups": 0
