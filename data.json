@@ -1,5 +1,5 @@
 {
-  "updated_at": "[redacted]T20:26:42+00:00",
+  "updated_at": "[redacted]T21:00:49+00:00",
   "pages_url": "https://raviacn95.github.io/job-apply-status/",
   "users": [
     {
@@ -13,15 +13,15 @@
         "Teradata DBA"
       ],
       "stats": {
-        "jobs": 320,
-        "matched": 274,
+        "jobs": 321,
+        "matched": 275,
         "applied": 46,
         "applied_this_week": 0,
-        "desk": 274,
+        "desk": 275,
         "hidden_other_track": 128,
         "daily_remaining": 50,
         "daily_limit": 50,
-        "last_cycle_at": "[redacted]T20:17:38+00:00",
+        "last_cycle_at": "[redacted]T20:53:04+00:00",
         "last_apply_at": "[redacted]T18:30:14"
       },
       "mail": {
@@ -33,8 +33,8 @@
       },
       "runs": [
         {
-          "id": 625,
-          "started_at": "[redacted]T20:17:38+00:00",
+          "id": 626,
+          "started_at": "[redacted]T20:53:04+00:00",
           "finished_at": "",
           "status": "running",
           "live": true,
@@ -46,6 +46,22 @@
           "replies": 0,
           "bounces": 0,
           "duration_sec": 0.0,
+          "google_429": 0
+        },
+        {
+          "id": 625,
+          "started_at": "[redacted]T20:17:38+00:00",
+          "finished_at": "[redacted]T20:27:25+00:00",
+          "status": "ok",
+          "live": true,
+          "ingested": 0,
+          "scanned": 48,
+          "applied": 0,
+          "queued": 259,
+          "errors": 0,
+          "replies": 0,
+          "bounces": 0,
+          "duration_sec": 587.0,
           "google_429": 0
         },
         {
@@ -654,22 +670,6 @@
           "replies": 0,
           "bounces": 0,
           "duration_sec": 343.0,
-          "google_429": 0
-        },
-        {
-          "id": 586,
-          "started_at": "[redacted]T00:32:57+00:00",
-          "finished_at": "",
-          "status": "running",
-          "live": true,
-          "ingested": 0,
-          "scanned": 0,
-          "applied": 0,
-          "queued": 0,
-          "errors": 0,
-          "replies": 0,
-          "bounces": 0,
-          "duration_sec": 0.0,
           "google_429": 0
         }
       ],
@@ -1737,6 +1737,26 @@
           "on_track": true
         },
         {
+          "id": 559,
+          "status": "matched",
+          "track": "teradata_dba",
+          "track_label": "Teradata DBA",
+          "score": 28.0,
+          "company": "nan",
+          "title": "Data Engineer",
+          "location": "Dallas, TX, US",
+          "source": "harvest_teradata",
+          "url": "https://www.indeed.com/viewjob?jk=6575b6db408f0855",
+          "channel": "apply desk",
+          "applied_via": "",
+          "applied_at": "",
+          "first_seen_at": "[redacted]T20:35:19",
+          "age_days": 0,
+          "ctc": "unlisted",
+          "outcome": "",
+          "on_track": true
+        },
+        {
           "id": 558,
           "status": "matched",
           "track": "teradata_dba",
@@ -1931,7 +1951,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T20:56:50",
-          "age_days": 6,
+          "age_days": 7,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -2271,7 +2291,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T20:33:01",
-          "age_days": 14,
+          "age_days": 15,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -2291,7 +2311,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T20:33:01",
-          "age_days": 14,
+          "age_days": 15,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -2531,7 +2551,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T20:35:50",
-          "age_days": 29,
+          "age_days": 30,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -2571,26 +2591,6 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T08:26:25",
-          "age_days": 31,
-          "ctc": "unlisted",
-          "outcome": "",
-          "on_track": true
-        },
-        {
-          "id": 422,
-          "status": "matched",
-          "track": "teradata_dba",
-          "track_label": "Teradata DBA",
-          "score": 28.0,
-          "company": "Concept Plus",
-          "title": "Informatica Developer",
-          "location": "Remote, US",
-          "source": "harvest_teradata",
-          "url": "https://www.indeed.com/viewjob?jk=31013759aa4b018f",
-          "channel": "apply desk",
-          "applied_via": "",
-          "applied_at": "",
-          "first_seen_at": "[redacted]T06:21:17",
           "age_days": 31,
           "ctc": "unlisted",
           "outcome": "",
@@ -3756,7 +3756,7 @@
           "title": "Remote BI ETL Consultant",
           "sent_at": "[redacted]T16:41:26",
           "last_activity": "[redacted]T20:29:09",
-          "waiting_days": 42,
+          "waiting_days": 43,
           "replies": 0,
           "followups": 2
         },
@@ -3766,7 +3766,7 @@
           "title": "Informatica Engineer",
           "sent_at": "[redacted]T16:38:28",
           "last_activity": "[redacted]T20:29:05",
-          "waiting_days": 42,
+          "waiting_days": 43,
           "replies": 0,
           "followups": 2
         },
@@ -3776,7 +3776,7 @@
           "title": "BigData/Hadoop Administrator",
           "sent_at": "[redacted]T16:38:22",
           "last_activity": "[redacted]T20:29:02",
-          "waiting_days": 42,
+          "waiting_days": 43,
           "replies": 0,
           "followups": 2
         },
@@ -3786,7 +3786,7 @@
           "title": "Lead/Sr. ETL Engineer",
           "sent_at": "[redacted]T16:38:14",
           "last_activity": "[redacted]T20:28:58",
-          "waiting_days": 42,
+          "waiting_days": 43,
           "replies": 0,
           "followups": 2
         },
@@ -3796,7 +3796,7 @@
           "title": "Informatica Developer",
           "sent_at": "[redacted]T16:38:08",
           "last_activity": "[redacted]T20:28:55",
-          "waiting_days": 42,
+          "waiting_days": 43,
           "replies": 0,
           "followups": 2
         },
@@ -3806,7 +3806,7 @@
           "title": "Hadoop Administrator / Big Data Platform Engineer",
           "sent_at": "[redacted]T16:38:01",
           "last_activity": "[redacted]T20:28:50",
-          "waiting_days": 42,
+          "waiting_days": 43,
           "replies": 0,
           "followups": 2
         },
@@ -3816,7 +3816,7 @@
           "title": "Integration Developer - SAP & Informatica MDM | Remote(India) | Contract",
           "sent_at": "[redacted]T16:37:41",
           "last_activity": "[redacted]T20:28:47",
-          "waiting_days": 42,
+          "waiting_days": 43,
           "replies": 0,
           "followups": 2
         },
@@ -3826,7 +3826,7 @@
           "title": "Teradata DBA",
           "sent_at": "[redacted]T16:37:34",
           "last_activity": "[redacted]T20:28:43",
-          "waiting_days": 42,
+          "waiting_days": 43,
           "replies": 0,
           "followups": 2
         },
@@ -4829,7 +4829,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T20:54:30",
           "first_seen_at": "[redacted]T20:54:25",
-          "age_days": 14,
+          "age_days": 15,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -4849,7 +4849,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T20:32:51",
           "first_seen_at": "[redacted]T20:32:45",
-          "age_days": 14,
+          "age_days": 15,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -4989,7 +4989,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T20:43:41",
           "first_seen_at": "[redacted]T20:43:01",
-          "age_days": 25,
+          "age_days": 26,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -5009,7 +5009,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T20:43:22",
           "first_seen_at": "[redacted]T20:42:48",
-          "age_days": 25,
+          "age_days": 26,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -6311,7 +6311,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T20:42:49",
-          "age_days": 25,
+          "age_days": 26,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -6371,7 +6371,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T20:43:02",
-          "age_days": 25,
+          "age_days": 26,
           "ctc": "67.1\u201391.5 LPA",
           "outcome": "",
           "on_track": true
@@ -6671,7 +6671,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T20:42:59",
-          "age_days": 25,
+          "age_days": 26,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -6833,7 +6833,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T20:54:30",
           "first_seen_at": "[redacted]T20:54:25",
-          "age_days": 14,
+          "age_days": 15,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -6853,7 +6853,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T20:32:51",
           "first_seen_at": "[redacted]T20:32:45",
-          "age_days": 14,
+          "age_days": 15,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -6993,7 +6993,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T20:43:41",
           "first_seen_at": "[redacted]T20:43:01",
-          "age_days": 25,
+          "age_days": 26,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -7013,7 +7013,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T20:43:22",
           "first_seen_at": "[redacted]T20:42:48",
-          "age_days": 25,
+          "age_days": 26,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -7796,7 +7796,7 @@
           "title": "Tosca Specialist (m/w/d) ghc solutions GmbH",
           "sent_at": "[redacted]T04:20:09",
           "last_activity": "[redacted]T20:48:36",
-          "waiting_days": 25,
+          "waiting_days": 26,
           "replies": 0,
           "followups": 2
         },
@@ -7806,7 +7806,7 @@
           "title": "Tricentis NeoLoad Performance Test Engineer",
           "sent_at": "[redacted]T04:20:02",
           "last_activity": "[redacted]T20:48:32",
-          "waiting_days": 25,
+          "waiting_days": 26,
           "replies": 0,
           "followups": 2
         },
@@ -7816,7 +7816,7 @@
           "title": "QA Automation Engineer (Tosca + Salesforce) | C2C| Max $55/Hr",
           "sent_at": "[redacted]T04:19:56",
           "last_activity": "[redacted]T20:48:29",
-          "waiting_days": 25,
+          "waiting_days": 26,
           "replies": 0,
           "followups": 2
         },
@@ -7826,7 +7826,7 @@
           "title": "SAP SuccessFactors Tosca Automation Test Analyst",
           "sent_at": "[redacted]T04:19:49",
           "last_activity": "[redacted]T20:48:25",
-          "waiting_days": 25,
+          "waiting_days": 26,
           "replies": 0,
           "followups": 2
         },
@@ -7836,7 +7836,7 @@
           "title": "Product Marketing and Community Manager",
           "sent_at": "[redacted]T04:18:42",
           "last_activity": "[redacted]T20:48:21",
-          "waiting_days": 25,
+          "waiting_days": 26,
           "replies": 0,
           "followups": 2
         },
@@ -7846,7 +7846,7 @@
           "title": "| QA Automation Selenium/Playwright | Fresher/Intern | Ahmedabad (Work from Office).",
           "sent_at": "[redacted]T06:21:07",
           "last_activity": "[redacted]T20:48:17",
-          "waiting_days": 25,
+          "waiting_days": 26,
           "replies": 0,
           "followups": 1
         },
@@ -7856,7 +7856,7 @@
           "title": "SAP QA Tester",
           "sent_at": "[redacted]T12:30:06",
           "last_activity": "[redacted]T20:48:14",
-          "waiting_days": 25,
+          "waiting_days": 26,
           "replies": 0,
           "followups": 1
         },
@@ -7866,7 +7866,7 @@
           "title": "Automation QA Engineer (AQA)",
           "sent_at": "[redacted]T19:40:11",
           "last_activity": "[redacted]T20:48:10",
-          "waiting_days": 25,
+          "waiting_days": 26,
           "replies": 0,
           "followups": 1
         },
@@ -7876,7 +7876,7 @@
           "title": "Product Engineer",
           "sent_at": "[redacted]T20:43:41",
           "last_activity": "[redacted]T20:43:41",
-          "waiting_days": 25,
+          "waiting_days": 26,
           "replies": 0,
           "followups": 0
         },
@@ -7886,7 +7886,7 @@
           "title": "Lead Automation Engineer",
           "sent_at": "[redacted]T20:43:22",
           "last_activity": "[redacted]T20:43:22",
-          "waiting_days": 25,
+          "waiting_days": 26,
           "replies": 0,
           "followups": 0
         },
