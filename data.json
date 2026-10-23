@@ -1,5 +1,5 @@
 {
-  "updated_at": "[redacted]T18:10:20+00:00",
+  "updated_at": "[redacted]T18:37:12+00:00",
   "pages_url": "https://raviacn95.github.io/job-apply-status/",
   "users": [
     {
@@ -16,12 +16,12 @@
         "jobs": 319,
         "matched": 273,
         "applied": 46,
-        "applied_this_week": 1,
+        "applied_this_week": 0,
         "desk": 273,
         "hidden_other_track": 128,
         "daily_remaining": 50,
         "daily_limit": 50,
-        "last_cycle_at": "[redacted]T17:57:40+00:00",
+        "last_cycle_at": "[redacted]T18:32:38+00:00",
         "last_apply_at": "[redacted]T18:30:14"
       },
       "mail": {
@@ -33,8 +33,8 @@
       },
       "runs": [
         {
-          "id": 621,
-          "started_at": "[redacted]T17:57:40+00:00",
+          "id": 622,
+          "started_at": "[redacted]T18:32:38+00:00",
           "finished_at": "",
           "status": "running",
           "live": true,
@@ -46,6 +46,22 @@
           "replies": 0,
           "bounces": 0,
           "duration_sec": 0.0,
+          "google_429": 0
+        },
+        {
+          "id": 621,
+          "started_at": "[redacted]T17:57:40+00:00",
+          "finished_at": "[redacted]T18:11:05+00:00",
+          "status": "ok",
+          "live": true,
+          "ingested": 0,
+          "scanned": 48,
+          "applied": 0,
+          "queued": 258,
+          "errors": 0,
+          "replies": 0,
+          "bounces": 0,
+          "duration_sec": 805.0,
           "google_429": 0
         },
         {
@@ -655,22 +671,6 @@
           "bounces": 0,
           "duration_sec": 619.0,
           "google_429": 0
-        },
-        {
-          "id": 582,
-          "started_at": "[redacted]T19:40:26+00:00",
-          "finished_at": "[redacted]T19:48:12+00:00",
-          "status": "ok",
-          "live": true,
-          "ingested": 1,
-          "scanned": 49,
-          "applied": 0,
-          "queued": 252,
-          "errors": 0,
-          "replies": 0,
-          "bounces": 0,
-          "duration_sec": 466.0,
-          "google_429": 0
         }
       ],
       "applied_jobs": [
@@ -689,7 +689,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T18:30:14",
           "first_seen_at": "[redacted]T18:30:08",
-          "age_days": 6,
+          "age_days": 7,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -909,7 +909,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T18:28:56",
           "first_seen_at": "[redacted]T18:28:51",
-          "age_days": 42,
+          "age_days": 43,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -1931,7 +1931,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T18:30:17",
-          "age_days": 6,
+          "age_days": 7,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -1971,7 +1971,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T18:30:47",
-          "age_days": 7,
+          "age_days": 8,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -1991,7 +1991,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T18:30:47",
-          "age_days": 7,
+          "age_days": 8,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -2351,7 +2351,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T18:33:15",
-          "age_days": 20,
+          "age_days": 21,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -2613,7 +2613,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T18:30:14",
           "first_seen_at": "[redacted]T18:30:08",
-          "age_days": 6,
+          "age_days": 7,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -2833,7 +2833,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T18:28:56",
           "first_seen_at": "[redacted]T18:28:51",
-          "age_days": 42,
+          "age_days": 43,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -3606,7 +3606,7 @@
           "title": "Data Warehouse Analyst",
           "sent_at": "[redacted]T21:25:30",
           "last_activity": "[redacted]T18:29:17",
-          "waiting_days": 7,
+          "waiting_days": 8,
           "replies": 0,
           "followups": 2
         },
