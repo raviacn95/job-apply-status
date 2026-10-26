@@ -1,5 +1,5 @@
 {
-  "updated_at": "[redacted]T02:38:16+00:00",
+  "updated_at": "[redacted]T03:13:13+00:00",
   "pages_url": "https://raviacn95.github.io/job-apply-status/",
   "users": [
     {
@@ -18,10 +18,10 @@
         "applied": 46,
         "applied_this_week": 0,
         "desk": 275,
-        "hidden_other_track": 128,
+        "hidden_other_track": 129,
         "daily_remaining": 50,
         "daily_limit": 50,
-        "last_cycle_at": "[redacted]T02:32:39+00:00",
+        "last_cycle_at": "[redacted]T03:07:39+00:00",
         "last_apply_at": "[redacted]T18:30:14"
       },
       "mail": {
@@ -33,8 +33,8 @@
       },
       "runs": [
         {
-          "id": 637,
-          "started_at": "[redacted]T02:32:39+00:00",
+          "id": 638,
+          "started_at": "[redacted]T03:07:39+00:00",
           "finished_at": "",
           "status": "running",
           "live": true,
@@ -46,6 +46,22 @@
           "replies": 0,
           "bounces": 0,
           "duration_sec": 0.0,
+          "google_429": 0
+        },
+        {
+          "id": 637,
+          "started_at": "[redacted]T02:32:39+00:00",
+          "finished_at": "[redacted]T02:38:25+00:00",
+          "status": "ok",
+          "live": true,
+          "ingested": 0,
+          "scanned": 48,
+          "applied": 0,
+          "queued": 260,
+          "errors": 0,
+          "replies": 0,
+          "bounces": 0,
+          "duration_sec": 346.0,
           "google_429": 0
         },
         {
@@ -655,22 +671,6 @@
           "bounces": 0,
           "duration_sec": 296.0,
           "google_429": 5
-        },
-        {
-          "id": 598,
-          "started_at": "[redacted]T08:12:37+00:00",
-          "finished_at": "[redacted]T08:20:54+00:00",
-          "status": "ok",
-          "live": true,
-          "ingested": 0,
-          "scanned": 48,
-          "applied": 0,
-          "queued": 254,
-          "errors": 0,
-          "replies": 0,
-          "bounces": 0,
-          "duration_sec": 497.0,
-          "google_429": 0
         }
       ],
       "applied_jobs": [
@@ -3906,7 +3906,7 @@
           "title": "Sasikumar pudi",
           "sent_at": "[redacted]T19:40:50",
           "last_activity": "[redacted]T02:53:45",
-          "waiting_days": 48,
+          "waiting_days": 49,
           "replies": 0,
           "followups": 2
         },
@@ -3916,7 +3916,7 @@
           "title": "Sai Krishna Gvs",
           "sent_at": "[redacted]T19:40:45",
           "last_activity": "[redacted]T02:53:41",
-          "waiting_days": 48,
+          "waiting_days": 49,
           "replies": 0,
           "followups": 2
         },
@@ -3926,7 +3926,7 @@
           "title": "Kanha Dwivedi",
           "sent_at": "[redacted]T19:40:41",
           "last_activity": "[redacted]T02:53:38",
-          "waiting_days": 48,
+          "waiting_days": 49,
           "replies": 0,
           "followups": 2
         },
@@ -3936,7 +3936,7 @@
           "title": "Manjusha Noone",
           "sent_at": "[redacted]T19:40:37",
           "last_activity": "[redacted]T02:53:34",
-          "waiting_days": 48,
+          "waiting_days": 49,
           "replies": 0,
           "followups": 2
         },
@@ -3946,7 +3946,7 @@
           "title": "Sarthak Kahar",
           "sent_at": "[redacted]T19:40:27",
           "last_activity": "[redacted]T02:53:30",
-          "waiting_days": 48,
+          "waiting_days": 49,
           "replies": 0,
           "followups": 2
         },
@@ -3956,7 +3956,7 @@
           "title": "Ajay Nigam",
           "sent_at": "[redacted]T19:40:22",
           "last_activity": "[redacted]T02:53:27",
-          "waiting_days": 48,
+          "waiting_days": 49,
           "replies": 0,
           "followups": 2
         },
@@ -3966,7 +3966,7 @@
           "title": "Brown Henry",
           "sent_at": "[redacted]T19:40:18",
           "last_activity": "[redacted]T02:53:23",
-          "waiting_days": 48,
+          "waiting_days": 49,
           "replies": 0,
           "followups": 2
         },
@@ -3976,7 +3976,7 @@
           "title": "PURNA CHANDER RACHA \ud83c\uddee\ud83c\uddf3",
           "sent_at": "[redacted]T19:40:14",
           "last_activity": "[redacted]T02:53:19",
-          "waiting_days": 48,
+          "waiting_days": 49,
           "replies": 0,
           "followups": 2
         },
@@ -5149,7 +5149,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T15:29:23",
           "first_seen_at": "[redacted]T02:45:31",
-          "age_days": 48,
+          "age_days": 49,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -7153,7 +7153,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T15:29:23",
           "first_seen_at": "[redacted]T02:45:31",
-          "age_days": 48,
+          "age_days": 49,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
