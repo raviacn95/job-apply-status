@@ -1,5 +1,5 @@
 {
-  "updated_at": "[redacted]T15:33:06+00:00",
+  "updated_at": "[redacted]T16:05:19+00:00",
   "pages_url": "https://raviacn95.github.io/job-apply-status/",
   "users": [
     {
@@ -18,10 +18,10 @@
         "applied": 46,
         "applied_this_week": 0,
         "desk": 276,
-        "hidden_other_track": 129,
+        "hidden_other_track": 130,
         "daily_remaining": 50,
         "daily_limit": 50,
-        "last_cycle_at": "[redacted]T15:22:42+00:00",
+        "last_cycle_at": "[redacted]T15:57:39+00:00",
         "last_apply_at": "[redacted]T18:30:14"
       },
       "mail": {
@@ -33,8 +33,8 @@
       },
       "runs": [
         {
-          "id": 649,
-          "started_at": "[redacted]T15:22:42+00:00",
+          "id": 650,
+          "started_at": "[redacted]T15:57:39+00:00",
           "finished_at": "",
           "status": "running",
           "live": true,
@@ -46,6 +46,22 @@
           "replies": 0,
           "bounces": 0,
           "duration_sec": 0.0,
+          "google_429": 0
+        },
+        {
+          "id": 649,
+          "started_at": "[redacted]T15:22:42+00:00",
+          "finished_at": "[redacted]T15:40:10+00:00",
+          "status": "ok",
+          "live": true,
+          "ingested": 0,
+          "scanned": 48,
+          "applied": 0,
+          "queued": 261,
+          "errors": 0,
+          "replies": 0,
+          "bounces": 0,
+          "duration_sec": 1048.0,
           "google_429": 0
         },
         {
@@ -654,22 +670,6 @@
           "replies": 0,
           "bounces": 0,
           "duration_sec": 1096.0,
-          "google_429": 0
-        },
-        {
-          "id": 610,
-          "started_at": "[redacted]T03:39:21+00:00",
-          "finished_at": "",
-          "status": "running",
-          "live": true,
-          "ingested": 0,
-          "scanned": 0,
-          "applied": 0,
-          "queued": 0,
-          "errors": 0,
-          "replies": 0,
-          "bounces": 0,
-          "duration_sec": 0.0,
           "google_429": 0
         }
       ],
@@ -2531,7 +2531,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T15:38:46",
-          "age_days": 31,
+          "age_days": 32,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -4013,11 +4013,11 @@
         "Tosca / SAP / Playwright Automation"
       ],
       "stats": {
-        "jobs": 1427,
-        "matched": 1255,
+        "jobs": 1428,
+        "matched": 1256,
         "applied": 172,
         "applied_this_week": 7,
-        "desk": 1255,
+        "desk": 1256,
         "hidden_other_track": 2,
         "daily_remaining": 48,
         "daily_limit": 50,
@@ -5751,7 +5751,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T15:53:21",
-          "age_days": 64,
+          "age_days": 65,
           "ctc": "42 LPA",
           "outcome": "",
           "on_track": true
@@ -8026,7 +8026,7 @@
           "title": "SAP-Modul- und Prozessberater (m/w/d)",
           "sent_at": "[redacted]T05:29:06",
           "last_activity": "[redacted]T15:35:17",
-          "waiting_days": 35,
+          "waiting_days": 36,
           "replies": 0,
           "followups": 2
         },
@@ -8036,7 +8036,7 @@
           "title": "SAP FICO with BCM consultant",
           "sent_at": "[redacted]T05:28:59",
           "last_activity": "[redacted]T15:35:12",
-          "waiting_days": 35,
+          "waiting_days": 36,
           "replies": 0,
           "followups": 2
         },
