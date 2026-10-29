@@ -1,5 +1,5 @@
 {
-  "updated_at": "[redacted]T17:00:11+00:00",
+  "updated_at": "[redacted]T17:33:31+00:00",
   "pages_url": "https://raviacn95.github.io/job-apply-status/",
   "users": [
     {
@@ -13,15 +13,15 @@
         "Teradata DBA"
       ],
       "stats": {
-        "jobs": 323,
-        "matched": 277,
+        "jobs": 325,
+        "matched": 279,
         "applied": 46,
         "applied_this_week": 0,
-        "desk": 277,
+        "desk": 279,
         "hidden_other_track": 141,
         "daily_remaining": 50,
         "daily_limit": 50,
-        "last_cycle_at": "[redacted]T16:52:50+00:00",
+        "last_cycle_at": "[redacted]T17:27:40+00:00",
         "last_apply_at": "[redacted]T18:30:14"
       },
       "mail": {
@@ -33,8 +33,8 @@
       },
       "runs": [
         {
-          "id": 665,
-          "started_at": "[redacted]T16:52:50+00:00",
+          "id": 666,
+          "started_at": "[redacted]T17:27:40+00:00",
           "finished_at": "",
           "status": "running",
           "live": true,
@@ -46,6 +46,22 @@
           "replies": 0,
           "bounces": 0,
           "duration_sec": 0.0,
+          "google_429": 0
+        },
+        {
+          "id": 665,
+          "started_at": "[redacted]T16:52:50+00:00",
+          "finished_at": "[redacted]T17:00:27+00:00",
+          "status": "ok",
+          "live": true,
+          "ingested": 5,
+          "scanned": 53,
+          "applied": 0,
+          "queued": 262,
+          "errors": 0,
+          "replies": 0,
+          "bounces": 0,
+          "duration_sec": 457.0,
           "google_429": 0
         },
         {
@@ -654,22 +670,6 @@
           "replies": 0,
           "bounces": 0,
           "duration_sec": 445.0,
-          "google_429": 0
-        },
-        {
-          "id": 626,
-          "started_at": "[redacted]T20:53:04+00:00",
-          "finished_at": "[redacted]T21:01:09+00:00",
-          "status": "ok",
-          "live": true,
-          "ingested": 0,
-          "scanned": 48,
-          "applied": 0,
-          "queued": 260,
-          "errors": 0,
-          "replies": 0,
-          "bounces": 0,
-          "duration_sec": 485.0,
           "google_429": 0
         }
       ],
@@ -1737,6 +1737,46 @@
           "on_track": true
         },
         {
+          "id": 580,
+          "status": "matched",
+          "track": "teradata_dba",
+          "track_label": "Teradata DBA",
+          "score": 28.0,
+          "company": "Health Care Service Corporation",
+          "title": "Sr Application Architect - Hadoop Administrator",
+          "location": "Remote, US",
+          "source": "harvest_teradata",
+          "url": "https://www.indeed.com/viewjob?jk=6d05512e517fc07d",
+          "channel": "apply desk",
+          "applied_via": "",
+          "applied_at": "",
+          "first_seen_at": "[redacted]T17:26:07",
+          "age_days": 0,
+          "ctc": "unlisted",
+          "outcome": "",
+          "on_track": true
+        },
+        {
+          "id": 579,
+          "status": "matched",
+          "track": "teradata_dba",
+          "track_label": "Teradata DBA",
+          "score": 28.0,
+          "company": "nan",
+          "title": "Senior Cloudera Hadoop Administrator Big Data Platform Operations",
+          "location": "Remote, IN",
+          "source": "harvest_teradata",
+          "url": "https://in.indeed.com/viewjob?jk=cea3fcd9db894be3",
+          "channel": "apply desk",
+          "applied_via": "",
+          "applied_at": "",
+          "first_seen_at": "[redacted]T17:26:05",
+          "age_days": 0,
+          "ctc": "unlisted",
+          "outcome": "",
+          "on_track": true
+        },
+        {
           "id": 566,
           "status": "matched",
           "track": "teradata_dba",
@@ -2551,46 +2591,6 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T15:38:46",
-          "age_days": 35,
-          "ctc": "unlisted",
-          "outcome": "",
-          "on_track": true
-        },
-        {
-          "id": 441,
-          "status": "matched",
-          "track": "teradata_dba",
-          "track_label": "Teradata DBA",
-          "score": 28.0,
-          "company": "Realign",
-          "title": "ETL Technical Lead-3",
-          "location": "TX, US",
-          "source": "harvest_teradata",
-          "url": "https://www.indeed.com/viewjob?jk=7fa34983b9c515c7",
-          "channel": "apply desk",
-          "applied_via": "",
-          "applied_at": "",
-          "first_seen_at": "[redacted]T10:37:06",
-          "age_days": 35,
-          "ctc": "unlisted",
-          "outcome": "",
-          "on_track": true
-        },
-        {
-          "id": 437,
-          "status": "matched",
-          "track": "teradata_dba",
-          "track_label": "Teradata DBA",
-          "score": 28.0,
-          "company": "D&G Support Services, LLC",
-          "title": "Mid-Level ETL / Data Integration Developer - Informatica",
-          "location": "Belleville, IL, US",
-          "source": "harvest_teradata",
-          "url": "https://www.indeed.com/viewjob?jk=f2a9369001ccd7ea",
-          "channel": "apply desk",
-          "applied_via": "",
-          "applied_at": "",
-          "first_seen_at": "[redacted]T20:35:50",
           "age_days": 35,
           "ctc": "unlisted",
           "outcome": "",
@@ -3656,7 +3656,7 @@
           "title": "ETL Developer",
           "sent_at": "[redacted]T05:23:29",
           "last_activity": "[redacted]T17:06:49",
-          "waiting_days": 35,
+          "waiting_days": 36,
           "replies": 0,
           "followups": 2
         },
@@ -4013,11 +4013,11 @@
         "Tosca / SAP / Playwright Automation"
       ],
       "stats": {
-        "jobs": 1435,
-        "matched": 1263,
+        "jobs": 1441,
+        "matched": 1269,
         "applied": 172,
         "applied_this_week": 3,
-        "desk": 1263,
+        "desk": 1269,
         "hidden_other_track": 2,
         "daily_remaining": 50,
         "daily_limit": 50,
@@ -5309,7 +5309,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T17:30:05",
           "first_seen_at": "[redacted]T17:30:00",
-          "age_days": 47,
+          "age_days": 48,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -5329,7 +5329,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T17:29:57",
           "first_seen_at": "[redacted]T17:29:52",
-          "age_days": 47,
+          "age_days": 48,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -7313,7 +7313,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T17:30:05",
           "first_seen_at": "[redacted]T17:30:00",
-          "age_days": 47,
+          "age_days": 48,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -7333,7 +7333,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T17:29:57",
           "first_seen_at": "[redacted]T17:29:52",
-          "age_days": 47,
+          "age_days": 48,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -8036,7 +8036,7 @@
           "title": "Playwright Automation",
           "sent_at": "[redacted]T19:58:05",
           "last_activity": "[redacted]T17:29:11",
-          "waiting_days": 38,
+          "waiting_days": 39,
           "replies": 0,
           "followups": 2
         },
@@ -8046,7 +8046,7 @@
           "title": "SDET / Individual Contributor experience",
           "sent_at": "[redacted]T19:58:00",
           "last_activity": "[redacted]T17:29:05",
-          "waiting_days": 38,
+          "waiting_days": 39,
           "replies": 0,
           "followups": 2
         },
