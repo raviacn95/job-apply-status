@@ -1,5 +1,5 @@
 {
-  "updated_at": "[redacted]T18:17:22+00:00",
+  "updated_at": "[redacted]T18:53:01+00:00",
   "pages_url": "https://raviacn95.github.io/job-apply-status/",
   "users": [
     {
@@ -21,7 +21,7 @@
         "hidden_other_track": 150,
         "daily_remaining": 50,
         "daily_limit": 50,
-        "last_cycle_at": "[redacted]T18:07:41+00:00",
+        "last_cycle_at": "[redacted]T18:42:39+00:00",
         "last_apply_at": "[redacted]T18:30:14"
       },
       "mail": {
@@ -33,8 +33,8 @@
       },
       "runs": [
         {
-          "id": 696,
-          "started_at": "[redacted]T18:07:41+00:00",
+          "id": 697,
+          "started_at": "[redacted]T18:42:39+00:00",
           "finished_at": "",
           "status": "running",
           "live": true,
@@ -46,6 +46,22 @@
           "replies": 0,
           "bounces": 0,
           "duration_sec": 0.0,
+          "google_429": 0
+        },
+        {
+          "id": 696,
+          "started_at": "[redacted]T18:07:41+00:00",
+          "finished_at": "[redacted]T18:17:51+00:00",
+          "status": "ok",
+          "live": true,
+          "ingested": 0,
+          "scanned": 56,
+          "applied": 0,
+          "queued": 267,
+          "errors": 0,
+          "replies": 0,
+          "bounces": 0,
+          "duration_sec": 610.0,
           "google_429": 0
         },
         {
@@ -655,22 +671,6 @@
           "bounces": 0,
           "duration_sec": 600.0,
           "google_429": 0
-        },
-        {
-          "id": 657,
-          "started_at": "[redacted]T08:52:39+00:00",
-          "finished_at": "",
-          "status": "running",
-          "live": true,
-          "ingested": 0,
-          "scanned": 0,
-          "applied": 0,
-          "queued": 0,
-          "errors": 0,
-          "replies": 0,
-          "bounces": 0,
-          "duration_sec": 0.0,
-          "google_429": 0
         }
       ],
       "applied_jobs": [
@@ -689,7 +689,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T18:30:14",
           "first_seen_at": "[redacted]T18:30:08",
-          "age_days": 18,
+          "age_days": 19,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -909,7 +909,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T18:28:56",
           "first_seen_at": "[redacted]T18:28:51",
-          "age_days": 54,
+          "age_days": 55,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -1791,7 +1791,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T18:38:54",
-          "age_days": 0,
+          "age_days": 1,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -1811,7 +1811,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T18:38:53",
-          "age_days": 0,
+          "age_days": 1,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -2131,7 +2131,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T18:30:17",
-          "age_days": 18,
+          "age_days": 19,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -2171,7 +2171,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T18:30:47",
-          "age_days": 19,
+          "age_days": 20,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -2191,7 +2191,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T18:30:47",
-          "age_days": 19,
+          "age_days": 20,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -2551,7 +2551,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T18:33:15",
-          "age_days": 32,
+          "age_days": 33,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -2613,7 +2613,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T18:30:14",
           "first_seen_at": "[redacted]T18:30:08",
-          "age_days": 18,
+          "age_days": 19,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -2833,7 +2833,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T18:28:56",
           "first_seen_at": "[redacted]T18:28:51",
-          "age_days": 54,
+          "age_days": 55,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -3616,7 +3616,7 @@
           "title": "Data Warehouse Analyst",
           "sent_at": "[redacted]T21:25:30",
           "last_activity": "[redacted]T18:29:17",
-          "waiting_days": 19,
+          "waiting_days": 20,
           "replies": 0,
           "followups": 2
         },
@@ -4769,7 +4769,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T18:38:43",
           "first_seen_at": "[redacted]T18:38:36",
-          "age_days": 11,
+          "age_days": 12,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -6773,7 +6773,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T18:38:43",
           "first_seen_at": "[redacted]T18:38:36",
-          "age_days": 11,
+          "age_days": 12,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -7716,7 +7716,7 @@
           "title": "QA Lead Engineer",
           "sent_at": "[redacted]T18:38:43",
           "last_activity": "[redacted]T18:38:43",
-          "waiting_days": 11,
+          "waiting_days": 12,
           "replies": 0,
           "followups": 0
         },
