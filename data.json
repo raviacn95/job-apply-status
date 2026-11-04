@@ -1,5 +1,5 @@
 {
-  "updated_at": "[redacted]T14:16:49+00:00",
+  "updated_at": "[redacted]T15:23:53+00:00",
   "pages_url": "https://raviacn95.github.io/job-apply-status/",
   "users": [
     {
@@ -13,15 +13,15 @@
         "Teradata DBA"
       ],
       "stats": {
-        "jobs": 328,
-        "matched": 282,
+        "jobs": 329,
+        "matched": 283,
         "applied": 46,
         "applied_this_week": 0,
-        "desk": 282,
+        "desk": 283,
         "hidden_other_track": 150,
         "daily_remaining": 50,
         "daily_limit": 50,
-        "last_cycle_at": "[redacted]T14:02:41+00:00",
+        "last_cycle_at": "[redacted]T15:12:40+00:00",
         "last_apply_at": "[redacted]T18:30:14"
       },
       "mail": {
@@ -33,8 +33,8 @@
       },
       "runs": [
         {
-          "id": 689,
-          "started_at": "[redacted]T14:02:41+00:00",
+          "id": 691,
+          "started_at": "[redacted]T15:12:40+00:00",
           "finished_at": "",
           "status": "running",
           "live": true,
@@ -46,6 +46,38 @@
           "replies": 0,
           "bounces": 0,
           "duration_sec": 0.0,
+          "google_429": 1
+        },
+        {
+          "id": 690,
+          "started_at": "[redacted]T14:37:41+00:00",
+          "finished_at": "",
+          "status": "running",
+          "live": true,
+          "ingested": 0,
+          "scanned": 0,
+          "applied": 0,
+          "queued": 0,
+          "errors": 0,
+          "replies": 0,
+          "bounces": 0,
+          "duration_sec": 0.0,
+          "google_429": 0
+        },
+        {
+          "id": 689,
+          "started_at": "[redacted]T14:02:41+00:00",
+          "finished_at": "[redacted]T14:17:06+00:00",
+          "status": "ok",
+          "live": true,
+          "ingested": 0,
+          "scanned": 56,
+          "applied": 0,
+          "queued": 266,
+          "errors": 0,
+          "replies": 0,
+          "bounces": 0,
+          "duration_sec": 865.0,
           "google_429": 0
         },
         {
@@ -639,38 +671,6 @@
           "bounces": 0,
           "duration_sec": 483.0,
           "google_429": 0
-        },
-        {
-          "id": 651,
-          "started_at": "[redacted]T16:32:38+00:00",
-          "finished_at": "[redacted]T16:39:17+00:00",
-          "status": "ok",
-          "live": true,
-          "ingested": 0,
-          "scanned": 48,
-          "applied": 0,
-          "queued": 261,
-          "errors": 0,
-          "replies": 0,
-          "bounces": 0,
-          "duration_sec": 399.0,
-          "google_429": 0
-        },
-        {
-          "id": 650,
-          "started_at": "[redacted]T15:57:39+00:00",
-          "finished_at": "[redacted]T16:05:28+00:00",
-          "status": "ok",
-          "live": true,
-          "ingested": 1,
-          "scanned": 49,
-          "applied": 0,
-          "queued": 261,
-          "errors": 0,
-          "replies": 0,
-          "bounces": 0,
-          "duration_sec": 469.0,
-          "google_429": 0
         }
       ],
       "applied_jobs": [
@@ -869,7 +869,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T15:15:40",
           "first_seen_at": "[redacted]T15:15:35",
-          "age_days": 49,
+          "age_days": 50,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -889,7 +889,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T14:31:09",
           "first_seen_at": "[redacted]T14:31:04",
-          "age_days": 50,
+          "age_days": 51,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -1611,7 +1611,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T15:19:40",
-          "age_days": 64,
+          "age_days": 65,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -1651,7 +1651,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T15:19:47",
-          "age_days": 64,
+          "age_days": 65,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -1691,7 +1691,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T15:19:45",
-          "age_days": 64,
+          "age_days": 65,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -1711,7 +1711,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T15:19:43",
-          "age_days": 64,
+          "age_days": 65,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -1731,7 +1731,27 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T15:20:00",
-          "age_days": 64,
+          "age_days": 65,
+          "ctc": "unlisted",
+          "outcome": "",
+          "on_track": true
+        },
+        {
+          "id": 599,
+          "status": "matched",
+          "track": "teradata_dba",
+          "track_label": "Teradata DBA",
+          "score": 28.0,
+          "company": "Intellion Technologies Pvt Ltd",
+          "title": "PowerCenter Migration to IICS / IDMC \u2013 Freelance",
+          "location": "Remote, IN",
+          "source": "harvest_teradata",
+          "url": "https://in.indeed.com/viewjob?jk=b48ef8f6f7aae175",
+          "channel": "apply desk",
+          "applied_via": "",
+          "applied_at": "",
+          "first_seen_at": "[redacted]T14:19:07",
+          "age_days": 0,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -2575,26 +2595,6 @@
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
-        },
-        {
-          "id": 461,
-          "status": "matched",
-          "track": "teradata_dba",
-          "track_label": "Teradata DBA",
-          "score": 28.0,
-          "company": "Synopsys",
-          "title": "Software Development, Sr Associate \u2013 Informatica MDM",
-          "location": "KA, IN",
-          "source": "harvest_teradata",
-          "url": "https://in.indeed.com/viewjob?jk=84a8cf13a80c901a",
-          "channel": "apply desk",
-          "applied_via": "",
-          "applied_at": "",
-          "first_seen_at": "[redacted]T15:07:10",
-          "age_days": 38,
-          "ctc": "unlisted",
-          "outcome": "",
-          "on_track": true
         }
       ],
       "jobs": [
@@ -2793,7 +2793,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T15:15:40",
           "first_seen_at": "[redacted]T15:15:35",
-          "age_days": 49,
+          "age_days": 50,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -2813,7 +2813,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T14:31:09",
           "first_seen_at": "[redacted]T14:31:04",
-          "age_days": 50,
+          "age_days": 51,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -3533,7 +3533,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T15:19:40",
-          "age_days": 64,
+          "age_days": 65,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -3573,7 +3573,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T15:19:47",
-          "age_days": 64,
+          "age_days": 65,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -4013,20 +4013,20 @@
         "Tosca / SAP / Playwright Automation"
       ],
       "stats": {
-        "jobs": 1467,
-        "matched": 1294,
-        "applied": 173,
-        "applied_this_week": 1,
-        "desk": 1294,
+        "jobs": 1471,
+        "matched": 1297,
+        "applied": 174,
+        "applied_this_week": 2,
+        "desk": 1297,
         "hidden_other_track": 2,
-        "daily_remaining": 50,
+        "daily_remaining": 49,
         "daily_limit": 50,
         "last_cycle_at": "[redacted]T19:07:56+00:00",
-        "last_apply_at": "[redacted]T10:53:50"
+        "last_apply_at": "[redacted]T14:18:00"
       },
       "mail": {
-        "threads": 174,
-        "waiting": 0,
+        "threads": 175,
+        "waiting": 1,
         "followup_due": 162,
         "replied": 12,
         "bounced": 0
@@ -4674,6 +4674,26 @@
         }
       ],
       "applied_jobs": [
+        {
+          "id": 1519,
+          "status": "applied",
+          "track": "automation",
+          "track_label": "Tosca / SAP / Playwright Automation",
+          "score": 28.0,
+          "company": "Magnet",
+          "title": "Commercial/ Sourcing SAP Sourcing Architect",
+          "location": "J\u00f6nk\u00f6ping, F, SE",
+          "source": "harvest_remote",
+          "url": "https://se.indeed.com/viewjob?jk=625e88b63f8e176e",
+          "channel": "email",
+          "applied_via": "email",
+          "applied_at": "[redacted]T14:18:00",
+          "first_seen_at": "[redacted]T14:17:50",
+          "age_days": 0,
+          "ctc": "unlisted",
+          "outcome": "",
+          "on_track": true
+        },
         {
           "id": 1500,
           "status": "applied",
@@ -5649,26 +5669,6 @@
           "applied_via": "email",
           "applied_at": "[redacted]T04:18:35",
           "first_seen_at": "[redacted]T04:18:31",
-          "age_days": 61,
-          "ctc": "unlisted",
-          "outcome": "",
-          "on_track": true
-        },
-        {
-          "id": 839,
-          "status": "applied",
-          "track": "automation",
-          "track_label": "Tosca / SAP / Playwright Automation",
-          "score": 28.0,
-          "company": "Foundever",
-          "title": "Call Center Agent (m/w/d) Vodafone Glasfaser Onboarding",
-          "location": "Magdeburg, ST, DE",
-          "source": "harvest_remote",
-          "url": "https://de.indeed.com/viewjob?jk=68b1d32e6aa72580",
-          "channel": "email",
-          "applied_via": "email",
-          "applied_at": "[redacted]T04:18:28",
-          "first_seen_at": "[redacted]T04:18:24",
           "age_days": 61,
           "ctc": "unlisted",
           "outcome": "",
@@ -6679,6 +6679,26 @@
       ],
       "jobs": [
         {
+          "id": 1519,
+          "status": "applied",
+          "track": "automation",
+          "track_label": "Tosca / SAP / Playwright Automation",
+          "score": 28.0,
+          "company": "Magnet",
+          "title": "Commercial/ Sourcing SAP Sourcing Architect",
+          "location": "J\u00f6nk\u00f6ping, F, SE",
+          "source": "harvest_remote",
+          "url": "https://se.indeed.com/viewjob?jk=625e88b63f8e176e",
+          "channel": "email",
+          "applied_via": "email",
+          "applied_at": "[redacted]T14:18:00",
+          "first_seen_at": "[redacted]T14:17:50",
+          "age_days": 0,
+          "ctc": "unlisted",
+          "outcome": "",
+          "on_track": true
+        },
+        {
           "id": 1500,
           "status": "applied",
           "track": "automation",
@@ -7653,26 +7673,6 @@
           "applied_via": "email",
           "applied_at": "[redacted]T04:18:35",
           "first_seen_at": "[redacted]T04:18:31",
-          "age_days": 61,
-          "ctc": "unlisted",
-          "outcome": "",
-          "on_track": true
-        },
-        {
-          "id": 839,
-          "status": "applied",
-          "track": "automation",
-          "track_label": "Tosca / SAP / Playwright Automation",
-          "score": 28.0,
-          "company": "Foundever",
-          "title": "Call Center Agent (m/w/d) Vodafone Glasfaser Onboarding",
-          "location": "Magdeburg, ST, DE",
-          "source": "harvest_remote",
-          "url": "https://de.indeed.com/viewjob?jk=68b1d32e6aa72580",
-          "channel": "email",
-          "applied_via": "email",
-          "applied_at": "[redacted]T04:18:28",
-          "first_seen_at": "[redacted]T04:18:24",
           "age_days": 61,
           "ctc": "unlisted",
           "outcome": "",
