@@ -1,5 +1,5 @@
 {
-  "updated_at": "[redacted]T15:23:53+00:00",
+  "updated_at": "[redacted]T16:02:09+00:00",
   "pages_url": "https://raviacn95.github.io/job-apply-status/",
   "users": [
     {
@@ -21,7 +21,7 @@
         "hidden_other_track": 150,
         "daily_remaining": 50,
         "daily_limit": 50,
-        "last_cycle_at": "[redacted]T15:12:40+00:00",
+        "last_cycle_at": "[redacted]T15:48:02+00:00",
         "last_apply_at": "[redacted]T18:30:14"
       },
       "mail": {
@@ -33,8 +33,8 @@
       },
       "runs": [
         {
-          "id": 691,
-          "started_at": "[redacted]T15:12:40+00:00",
+          "id": 692,
+          "started_at": "[redacted]T15:48:02+00:00",
           "finished_at": "",
           "status": "running",
           "live": true,
@@ -46,6 +46,22 @@
           "replies": 0,
           "bounces": 0,
           "duration_sec": 0.0,
+          "google_429": 0
+        },
+        {
+          "id": 691,
+          "started_at": "[redacted]T15:12:40+00:00",
+          "finished_at": "[redacted]T15:24:24+00:00",
+          "status": "ok",
+          "live": true,
+          "ingested": 0,
+          "scanned": 56,
+          "applied": 0,
+          "queued": 267,
+          "errors": 0,
+          "replies": 0,
+          "bounces": 0,
+          "duration_sec": 704.0,
           "google_429": 1
         },
         {
@@ -654,22 +670,6 @@
           "replies": 0,
           "bounces": 0,
           "duration_sec": 376.0,
-          "google_429": 0
-        },
-        {
-          "id": 652,
-          "started_at": "[redacted]T17:07:38+00:00",
-          "finished_at": "[redacted]T17:15:41+00:00",
-          "status": "ok",
-          "live": true,
-          "ingested": 0,
-          "scanned": 48,
-          "applied": 0,
-          "queued": 261,
-          "errors": 0,
-          "replies": 0,
-          "bounces": 0,
-          "duration_sec": 483.0,
           "google_429": 0
         }
       ],
@@ -3696,7 +3696,7 @@
           "title": "UK - London - ADS - Cloud DBA & Solution Architect, PowerBI",
           "sent_at": "[redacted]T08:38:45",
           "last_activity": "[redacted]T15:30:58",
-          "waiting_days": 53,
+          "waiting_days": 54,
           "replies": 0,
           "followups": 2
         },
@@ -5209,7 +5209,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T15:30:59",
           "first_seen_at": "[redacted]T15:27:59",
-          "age_days": 44,
+          "age_days": 45,
           "ctc": "149.4\u2013178.4 LPA",
           "outcome": "",
           "on_track": true
@@ -5751,7 +5751,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T15:53:21",
-          "age_days": 73,
+          "age_days": 74,
           "ctc": "42 LPA",
           "outcome": "",
           "on_track": true
@@ -5971,7 +5971,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T15:27:58",
-          "age_days": 44,
+          "age_days": 45,
           "ctc": "34.9 LPA",
           "outcome": "",
           "on_track": true
@@ -6391,7 +6391,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T15:28:15",
-          "age_days": 44,
+          "age_days": 45,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -6571,7 +6571,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T15:27:59",
-          "age_days": 44,
+          "age_days": 45,
           "ctc": "124.5 LPA",
           "outcome": "",
           "on_track": true
@@ -7213,7 +7213,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T15:30:59",
           "first_seen_at": "[redacted]T15:27:59",
-          "age_days": 44,
+          "age_days": 45,
           "ctc": "149.4\u2013178.4 LPA",
           "outcome": "",
           "on_track": true
@@ -8066,7 +8066,7 @@
           "title": "SAP-Modul- und Prozessberater (m/w/d)",
           "sent_at": "[redacted]T05:29:06",
           "last_activity": "[redacted]T15:35:17",
-          "waiting_days": 44,
+          "waiting_days": 45,
           "replies": 0,
           "followups": 2
         },
@@ -8076,7 +8076,7 @@
           "title": "SAP FICO with BCM consultant",
           "sent_at": "[redacted]T05:28:59",
           "last_activity": "[redacted]T15:35:12",
-          "waiting_days": 44,
+          "waiting_days": 45,
           "replies": 0,
           "followups": 2
         }
