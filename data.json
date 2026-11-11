@@ -1,5 +1,5 @@
 {
-  "updated_at": "[redacted]T15:18:11+00:00",
+  "updated_at": "[redacted]T15:51:16+00:00",
   "pages_url": "https://raviacn95.github.io/job-apply-status/",
   "users": [
     {
@@ -21,7 +21,7 @@
         "hidden_other_track": 154,
         "daily_remaining": 50,
         "daily_limit": 50,
-        "last_cycle_at": "[redacted]T15:12:41+00:00",
+        "last_cycle_at": "[redacted]T15:47:39+00:00",
         "last_apply_at": "[redacted]T18:30:14"
       },
       "mail": {
@@ -33,8 +33,8 @@
       },
       "runs": [
         {
-          "id": 730,
-          "started_at": "[redacted]T15:12:41+00:00",
+          "id": 731,
+          "started_at": "[redacted]T15:47:39+00:00",
           "finished_at": "",
           "status": "running",
           "live": true,
@@ -46,6 +46,22 @@
           "replies": 0,
           "bounces": 0,
           "duration_sec": 0.0,
+          "google_429": 3
+        },
+        {
+          "id": 730,
+          "started_at": "[redacted]T15:12:41+00:00",
+          "finished_at": "[redacted]T15:18:19+00:00",
+          "status": "ok",
+          "live": true,
+          "ingested": 0,
+          "scanned": 56,
+          "applied": 0,
+          "queued": 270,
+          "errors": 0,
+          "replies": 0,
+          "bounces": 0,
+          "duration_sec": 338.0,
           "google_429": 0
         },
         {
@@ -655,22 +671,6 @@
           "bounces": 0,
           "duration_sec": 871.0,
           "google_429": 0
-        },
-        {
-          "id": 691,
-          "started_at": "[redacted]T15:12:40+00:00",
-          "finished_at": "[redacted]T15:24:24+00:00",
-          "status": "ok",
-          "live": true,
-          "ingested": 0,
-          "scanned": 56,
-          "applied": 0,
-          "queued": 267,
-          "errors": 0,
-          "replies": 0,
-          "bounces": 0,
-          "duration_sec": 704.0,
-          "google_429": 1
         }
       ],
       "applied_jobs": [
@@ -1611,7 +1611,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T15:19:40",
-          "age_days": 71,
+          "age_days": 72,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -1651,7 +1651,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T15:19:47",
-          "age_days": 71,
+          "age_days": 72,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -1691,7 +1691,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T15:19:45",
-          "age_days": 71,
+          "age_days": 72,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -1711,7 +1711,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T15:19:43",
-          "age_days": 71,
+          "age_days": 72,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -1731,7 +1731,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T15:20:00",
-          "age_days": 71,
+          "age_days": 72,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -3533,7 +3533,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T15:19:40",
-          "age_days": 71,
+          "age_days": 72,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -3573,7 +3573,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T15:19:47",
-          "age_days": 71,
+          "age_days": 72,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -3696,7 +3696,7 @@
           "title": "UK - London - ADS - Cloud DBA & Solution Architect, PowerBI",
           "sent_at": "[redacted]T08:38:45",
           "last_activity": "[redacted]T15:30:58",
-          "waiting_days": 60,
+          "waiting_days": 61,
           "replies": 0,
           "followups": 2
         },
@@ -4013,11 +4013,11 @@
         "Tosca / SAP / Playwright Automation"
       ],
       "stats": {
-        "jobs": 1494,
-        "matched": 1319,
+        "jobs": 1497,
+        "matched": 1322,
         "applied": 175,
         "applied_this_week": 1,
-        "desk": 1319,
+        "desk": 1322,
         "hidden_other_track": 2,
         "daily_remaining": 49,
         "daily_limit": 50,
@@ -5229,7 +5229,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T15:30:59",
           "first_seen_at": "[redacted]T15:27:59",
-          "age_days": 51,
+          "age_days": 52,
           "ctc": "149.4\u2013178.4 LPA",
           "outcome": "",
           "on_track": true
@@ -5971,7 +5971,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T15:27:58",
-          "age_days": 51,
+          "age_days": 52,
           "ctc": "34.9 LPA",
           "outcome": "",
           "on_track": true
@@ -6391,7 +6391,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T15:28:15",
-          "age_days": 51,
+          "age_days": 52,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -6571,7 +6571,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T15:27:59",
-          "age_days": 51,
+          "age_days": 52,
           "ctc": "124.5 LPA",
           "outcome": "",
           "on_track": true
@@ -7233,7 +7233,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T15:30:59",
           "first_seen_at": "[redacted]T15:27:59",
-          "age_days": 51,
+          "age_days": 52,
           "ctc": "149.4\u2013178.4 LPA",
           "outcome": "",
           "on_track": true
@@ -8076,7 +8076,7 @@
           "title": "SAP-Modul- und Prozessberater (m/w/d)",
           "sent_at": "[redacted]T05:29:06",
           "last_activity": "[redacted]T15:35:17",
-          "waiting_days": 51,
+          "waiting_days": 52,
           "replies": 0,
           "followups": 2
         }
