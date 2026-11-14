@@ -1,5 +1,5 @@
 {
-  "updated_at": "[redacted]T11:44:53+00:00",
+  "updated_at": "[redacted]T12:13:11+00:00",
   "pages_url": "https://raviacn95.github.io/job-apply-status/",
   "users": [
     {
@@ -21,7 +21,7 @@
         "hidden_other_track": 164,
         "daily_remaining": 50,
         "daily_limit": 50,
-        "last_cycle_at": "[redacted]T11:27:40+00:00",
+        "last_cycle_at": "[redacted]T12:02:38+00:00",
         "last_apply_at": "[redacted]T18:30:14"
       },
       "mail": {
@@ -33,8 +33,8 @@
       },
       "runs": [
         {
-          "id": 758,
-          "started_at": "[redacted]T11:27:40+00:00",
+          "id": 759,
+          "started_at": "[redacted]T12:02:38+00:00",
           "finished_at": "",
           "status": "running",
           "live": true,
@@ -46,6 +46,22 @@
           "replies": 0,
           "bounces": 0,
           "duration_sec": 0.0,
+          "google_429": 0
+        },
+        {
+          "id": 758,
+          "started_at": "[redacted]T11:27:40+00:00",
+          "finished_at": "[redacted]T11:45:44+00:00",
+          "status": "ok",
+          "live": true,
+          "ingested": 0,
+          "scanned": 35,
+          "applied": 0,
+          "queued": 273,
+          "errors": 0,
+          "replies": 0,
+          "bounces": 0,
+          "duration_sec": 1084.0,
           "google_429": 0
         },
         {
@@ -655,22 +671,6 @@
           "bounces": 0,
           "duration_sec": 444.0,
           "google_429": 2
-        },
-        {
-          "id": 719,
-          "started_at": "[redacted]T14:07:39+00:00",
-          "finished_at": "[redacted]T14:12:44+00:00",
-          "status": "ok",
-          "live": true,
-          "ingested": 1,
-          "scanned": 57,
-          "applied": 0,
-          "queued": 269,
-          "errors": 0,
-          "replies": 0,
-          "bounces": 0,
-          "duration_sec": 305.0,
-          "google_429": 0
         }
       ],
       "applied_jobs": [
@@ -3626,7 +3626,7 @@
           "title": "Teradata Database Administrator (DBA)",
           "sent_at": "[redacted]T11:30:49",
           "last_activity": "[redacted]T11:57:24",
-          "waiting_days": 46,
+          "waiting_days": 47,
           "replies": 0,
           "followups": 2
         },
@@ -4013,11 +4013,11 @@
         "Tosca / SAP / Playwright Automation"
       ],
       "stats": {
-        "jobs": 1509,
-        "matched": 1333,
+        "jobs": 1510,
+        "matched": 1334,
         "applied": 176,
         "applied_this_week": 2,
-        "desk": 1333,
+        "desk": 1334,
         "hidden_other_track": 2,
         "daily_remaining": 50,
         "daily_limit": 50,
