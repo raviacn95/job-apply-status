@@ -1,5 +1,5 @@
 {
-  "updated_at": "[redacted]T17:24:57+00:00",
+  "updated_at": "[redacted]T17:53:46+00:00",
   "pages_url": "https://raviacn95.github.io/job-apply-status/",
   "users": [
     {
@@ -21,7 +21,7 @@
         "hidden_other_track": 165,
         "daily_remaining": 50,
         "daily_limit": 50,
-        "last_cycle_at": "[redacted]T17:17:51+00:00",
+        "last_cycle_at": "[redacted]T17:47:43+00:00",
         "last_apply_at": "[redacted]T18:30:14"
       },
       "mail": {
@@ -33,8 +33,8 @@
       },
       "runs": [
         {
-          "id": 779,
-          "started_at": "[redacted]T17:17:51+00:00",
+          "id": 780,
+          "started_at": "[redacted]T17:47:43+00:00",
           "finished_at": "",
           "status": "running",
           "live": true,
@@ -46,6 +46,22 @@
           "replies": 0,
           "bounces": 0,
           "duration_sec": 0.0,
+          "google_429": 0
+        },
+        {
+          "id": 779,
+          "started_at": "[redacted]T17:17:51+00:00",
+          "finished_at": "[redacted]T17:25:21+00:00",
+          "status": "ok",
+          "live": true,
+          "ingested": 0,
+          "scanned": 56,
+          "applied": 0,
+          "queued": 273,
+          "errors": 0,
+          "replies": 0,
+          "bounces": 0,
+          "duration_sec": 450.0,
           "google_429": 0
         },
         {
@@ -655,22 +671,6 @@
           "bounces": 0,
           "duration_sec": 677.0,
           "google_429": 0
-        },
-        {
-          "id": 740,
-          "started_at": "[redacted]T16:18:41+00:00",
-          "finished_at": "[redacted]T16:34:26+00:00",
-          "status": "ok",
-          "live": true,
-          "ingested": 0,
-          "scanned": 49,
-          "applied": 0,
-          "queued": 271,
-          "errors": 0,
-          "replies": 0,
-          "bounces": 0,
-          "duration_sec": 945.0,
-          "google_429": 77
         }
       ],
       "applied_jobs": [
@@ -1951,7 +1951,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T17:26:07",
-          "age_days": 16,
+          "age_days": 17,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -1971,7 +1971,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T17:26:05",
-          "age_days": 16,
+          "age_days": 17,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -2071,7 +2071,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T17:38:35",
-          "age_days": 22,
+          "age_days": 23,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -2091,7 +2091,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T17:38:35",
-          "age_days": 22,
+          "age_days": 23,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -5389,7 +5389,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T17:30:05",
           "first_seen_at": "[redacted]T17:30:00",
-          "age_days": 64,
+          "age_days": 65,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -5409,7 +5409,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T17:29:57",
           "first_seen_at": "[redacted]T17:29:52",
-          "age_days": 64,
+          "age_days": 65,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -7393,7 +7393,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T17:30:05",
           "first_seen_at": "[redacted]T17:30:00",
-          "age_days": 64,
+          "age_days": 65,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -7413,7 +7413,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T17:29:57",
           "first_seen_at": "[redacted]T17:29:52",
-          "age_days": 64,
+          "age_days": 65,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -8076,7 +8076,7 @@
           "title": "Playwright Automation",
           "sent_at": "[redacted]T19:58:05",
           "last_activity": "[redacted]T17:29:11",
-          "waiting_days": 55,
+          "waiting_days": 56,
           "replies": 0,
           "followups": 2
         }
