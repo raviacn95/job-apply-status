@@ -1,5 +1,5 @@
 {
-  "updated_at": "[redacted]T08:03:58+00:00",
+  "updated_at": "[redacted]T08:46:10+00:00",
   "pages_url": "https://raviacn95.github.io/job-apply-status/",
   "users": [
     {
@@ -35,17 +35,17 @@
         {
           "id": 843,
           "started_at": "[redacted]T07:57:38+00:00",
-          "finished_at": "",
-          "status": "running",
+          "finished_at": "[redacted]T08:04:09+00:00",
+          "status": "ok",
           "live": true,
           "ingested": 0,
-          "scanned": 0,
+          "scanned": 64,
           "applied": 0,
-          "queued": 0,
+          "queued": 279,
           "errors": 0,
           "replies": 0,
           "bounces": 0,
-          "duration_sec": 0.0,
+          "duration_sec": 391.0,
           "google_429": 5
         },
         {
@@ -1911,7 +1911,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T08:43:52",
-          "age_days": 6,
+          "age_days": 7,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -4013,25 +4013,41 @@
         "Tosca / SAP / Playwright Automation"
       ],
       "stats": {
-        "jobs": 1538,
-        "matched": 1362,
-        "applied": 176,
-        "applied_this_week": 0,
-        "desk": 1362,
+        "jobs": 1540,
+        "matched": 1363,
+        "applied": 177,
+        "applied_this_week": 1,
+        "desk": 1363,
         "hidden_other_track": 2,
-        "daily_remaining": 50,
+        "daily_remaining": 49,
         "daily_limit": 50,
-        "last_cycle_at": "[redacted]T19:07:56+00:00",
-        "last_apply_at": "[redacted]T16:25:16"
+        "last_cycle_at": "[redacted]T08:32:38+00:00",
+        "last_apply_at": "[redacted]T08:34:13"
       },
       "mail": {
-        "threads": 177,
-        "waiting": 0,
-        "followup_due": 165,
+        "threads": 178,
+        "waiting": 9,
+        "followup_due": 157,
         "replied": 12,
         "bounced": 0
       },
       "runs": [
+        {
+          "id": 65,
+          "started_at": "[redacted]T08:32:38+00:00",
+          "finished_at": "",
+          "status": "running",
+          "live": true,
+          "ingested": 0,
+          "scanned": 0,
+          "applied": 0,
+          "queued": 0,
+          "errors": 0,
+          "replies": 0,
+          "bounces": 0,
+          "duration_sec": 0.0,
+          "google_429": 4
+        },
         {
           "id": 64,
           "started_at": "[redacted]T19:07:56+00:00",
@@ -4655,25 +4671,29 @@
           "bounces": 0,
           "duration_sec": 496.0,
           "google_429": 109
-        },
-        {
-          "id": 25,
-          "started_at": "[redacted]T12:43:37+00:00",
-          "finished_at": "[redacted]T12:51:54+00:00",
-          "status": "ok",
-          "live": true,
-          "ingested": 0,
-          "scanned": 32,
-          "applied": 0,
-          "queued": 40,
-          "errors": 0,
-          "replies": 0,
-          "bounces": 0,
-          "duration_sec": 497.0,
-          "google_429": 113
         }
       ],
       "applied_jobs": [
+        {
+          "id": 1186,
+          "status": "applied",
+          "track": "automation",
+          "track_label": "Tosca / SAP / Playwright Automation",
+          "score": 32.5,
+          "company": "Sanctuary Computer",
+          "title": "Senior Shopify Developer",
+          "location": "",
+          "source": "remoteok",
+          "url": "https://remoteOK.com/remote-jobs/remote-senior-shopify-developer-sanctuary-computer-1137405",
+          "channel": "email",
+          "applied_via": "email",
+          "applied_at": "[redacted]T08:34:13",
+          "first_seen_at": "[redacted]T15:27:50",
+          "age_days": 61,
+          "ctc": "33.2 LPA",
+          "outcome": "",
+          "on_track": true
+        },
         {
           "id": 1553,
           "status": "applied",
@@ -5648,26 +5668,6 @@
           "channel": "email",
           "applied_via": "email",
           "applied_at": "[redacted]T04:19:56",
-          "first_seen_at": "[redacted]T04:10:48",
-          "age_days": 78,
-          "ctc": "unlisted",
-          "outcome": "",
-          "on_track": true
-        },
-        {
-          "id": 145,
-          "status": "applied",
-          "track": "automation",
-          "track_label": "Tosca / SAP / Playwright Automation",
-          "score": 30.0,
-          "company": "TestDel UK Ltd.",
-          "title": "SAP SuccessFactors Tosca Automation Test Analyst",
-          "location": "Remote, IN",
-          "source": "harvest_remote",
-          "url": "https://in.indeed.com/viewjob?jk=5b08ebe986afdc9c",
-          "channel": "email",
-          "applied_via": "email",
-          "applied_at": "[redacted]T04:19:49",
           "first_seen_at": "[redacted]T04:10:48",
           "age_days": 78,
           "ctc": "unlisted",
@@ -6397,6 +6397,26 @@
           "on_track": true
         },
         {
+          "id": 1595,
+          "status": "matched",
+          "track": "automation",
+          "track_label": "Tosca / SAP / Playwright Automation",
+          "score": 54.0,
+          "company": "TTC Global",
+          "title": "Account Director",
+          "location": "USA",
+          "source": "jobicy",
+          "url": "https://jobicy.com/jobs/162130-account-director-5",
+          "channel": "apply desk",
+          "applied_via": "",
+          "applied_at": "",
+          "first_seen_at": "[redacted]T08:32:48",
+          "age_days": 0,
+          "ctc": "unlisted",
+          "outcome": "",
+          "on_track": true
+        },
+        {
           "id": 1028,
           "status": "matched",
           "track": "automation",
@@ -6655,29 +6675,29 @@
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
-        },
-        {
-          "id": 1296,
-          "status": "matched",
-          "track": "automation",
-          "track_label": "Tosca / SAP / Playwright Automation",
-          "score": 42.0,
-          "company": "Mubi",
-          "title": "Senior Frontend Engineer",
-          "location": "London",
-          "source": "arbeitnow",
-          "url": "https://www.arbeitnow.co.uk/jobs/companies/mubi/senior-frontend-engineer-london-272986",
-          "channel": "apply desk",
-          "applied_via": "",
-          "applied_at": "",
-          "first_seen_at": "[redacted]T20:42:59",
-          "age_days": 54,
-          "ctc": "unlisted",
-          "outcome": "",
-          "on_track": true
         }
       ],
       "jobs": [
+        {
+          "id": 1186,
+          "status": "applied",
+          "track": "automation",
+          "track_label": "Tosca / SAP / Playwright Automation",
+          "score": 32.5,
+          "company": "Sanctuary Computer",
+          "title": "Senior Shopify Developer",
+          "location": "",
+          "source": "remoteok",
+          "url": "https://remoteOK.com/remote-jobs/remote-senior-shopify-developer-sanctuary-computer-1137405",
+          "channel": "email",
+          "applied_via": "email",
+          "applied_at": "[redacted]T08:34:13",
+          "first_seen_at": "[redacted]T15:27:50",
+          "age_days": 61,
+          "ctc": "33.2 LPA",
+          "outcome": "",
+          "on_track": true
+        },
         {
           "id": 1553,
           "status": "applied",
@@ -7657,109 +7677,9 @@
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
-        },
-        {
-          "id": 145,
-          "status": "applied",
-          "track": "automation",
-          "track_label": "Tosca / SAP / Playwright Automation",
-          "score": 30.0,
-          "company": "TestDel UK Ltd.",
-          "title": "SAP SuccessFactors Tosca Automation Test Analyst",
-          "location": "Remote, IN",
-          "source": "harvest_remote",
-          "url": "https://in.indeed.com/viewjob?jk=5b08ebe986afdc9c",
-          "channel": "email",
-          "applied_via": "email",
-          "applied_at": "[redacted]T04:19:49",
-          "first_seen_at": "[redacted]T04:10:48",
-          "age_days": 78,
-          "ctc": "unlisted",
-          "outcome": "",
-          "on_track": true
         }
       ],
       "threads": [
-        {
-          "status": "follow-up-due",
-          "company": "Unknown",
-          "title": "Automation Test Engineer",
-          "sent_at": "[redacted]T16:25:16",
-          "last_activity": "[redacted]T16:25:16",
-          "waiting_days": 8,
-          "replies": 0,
-          "followups": 0
-        },
-        {
-          "status": "follow-up-due",
-          "company": "Unknown",
-          "title": "QA Engineer",
-          "sent_at": "[redacted]T14:42:18",
-          "last_activity": "[redacted]T14:42:18",
-          "waiting_days": 9,
-          "replies": 0,
-          "followups": 0
-        },
-        {
-          "status": "follow-up-due",
-          "company": "Magnet",
-          "title": "Commercial/ Sourcing SAP Sourcing Architect",
-          "sent_at": "[redacted]T14:18:00",
-          "last_activity": "[redacted]T14:18:00",
-          "waiting_days": 16,
-          "replies": 0,
-          "followups": 0
-        },
-        {
-          "status": "follow-up-due",
-          "company": "HICRON",
-          "title": "QA Engineer (k/m/n)",
-          "sent_at": "[redacted]T10:53:50",
-          "last_activity": "[redacted]T10:53:50",
-          "waiting_days": 21,
-          "replies": 0,
-          "followups": 0
-        },
-        {
-          "status": "follow-up-due",
-          "company": "Unknown",
-          "title": "Senior QA Automation Engineer / AccelQ",
-          "sent_at": "[redacted]T11:42:30",
-          "last_activity": "[redacted]T11:42:30",
-          "waiting_days": 25,
-          "replies": 0,
-          "followups": 0
-        },
-        {
-          "status": "follow-up-due",
-          "company": "Guidehouse",
-          "title": "QA Automation Engineer",
-          "sent_at": "[redacted]T03:30:33",
-          "last_activity": "[redacted]T03:30:33",
-          "waiting_days": 26,
-          "replies": 0,
-          "followups": 0
-        },
-        {
-          "status": "follow-up-due",
-          "company": "CareerBoard",
-          "title": "QA Lead Engineer",
-          "sent_at": "[redacted]T18:38:43",
-          "last_activity": "[redacted]T18:38:43",
-          "waiting_days": 28,
-          "replies": 0,
-          "followups": 0
-        },
-        {
-          "status": "follow-up-due",
-          "company": "BALUSEN TECHNOLOGIES",
-          "title": "QA Automation Engineer",
-          "sent_at": "[redacted]T07:36:59",
-          "last_activity": "[redacted]T19:12:34",
-          "waiting_days": 30,
-          "replies": 0,
-          "followups": 1
-        },
         {
           "status": "follow-up-due",
           "company": "Blue Ocean Systems Infotech Pvt. Ltd.",
@@ -8079,6 +7999,86 @@
           "waiting_days": 61,
           "replies": 0,
           "followups": 2
+        },
+        {
+          "status": "follow-up-due",
+          "company": "Opt H1B H4EAD GC CITIZEN CPT L2EAD JOBS",
+          "title": "SDET / Individual Contributor experience",
+          "sent_at": "[redacted]T19:58:00",
+          "last_activity": "[redacted]T17:29:05",
+          "waiting_days": 61,
+          "replies": 0,
+          "followups": 2
+        },
+        {
+          "status": "follow-up-due",
+          "company": "ACONEXT Stuttgart GmbH",
+          "title": "SAP-Modul- und Prozessberater (m/w/d)",
+          "sent_at": "[redacted]T05:29:06",
+          "last_activity": "[redacted]T15:35:17",
+          "waiting_days": 61,
+          "replies": 0,
+          "followups": 2
+        },
+        {
+          "status": "follow-up-due",
+          "company": "Intellias",
+          "title": "SAP FICO with BCM consultant",
+          "sent_at": "[redacted]T05:28:59",
+          "last_activity": "[redacted]T15:35:12",
+          "waiting_days": 61,
+          "replies": 0,
+          "followups": 2
+        },
+        {
+          "status": "follow-up-due",
+          "company": "Mactores",
+          "title": "Full Stack Product Engineer Intern, Agent Native",
+          "sent_at": "[redacted]T15:31:10",
+          "last_activity": "[redacted]T15:31:10",
+          "waiting_days": 61,
+          "replies": 0,
+          "followups": 0
+        },
+        {
+          "status": "follow-up-due",
+          "company": "Grove Collaborative",
+          "title": "Senior Software Engineer, Front End / Full Stack",
+          "sent_at": "[redacted]T15:30:59",
+          "last_activity": "[redacted]T15:30:59",
+          "waiting_days": 61,
+          "replies": 0,
+          "followups": 0
+        },
+        {
+          "status": "follow-up-due",
+          "company": "KION Group",
+          "title": "SAP ABAP Developer",
+          "sent_at": "[redacted]T15:29:23",
+          "last_activity": "[redacted]T15:29:23",
+          "waiting_days": 61,
+          "replies": 0,
+          "followups": 0
+        },
+        {
+          "status": "follow-up-due",
+          "company": "Caylent",
+          "title": "Web Automation Test Engineer",
+          "sent_at": "[redacted]T15:28:59",
+          "last_activity": "[redacted]T15:28:59",
+          "waiting_days": 61,
+          "replies": 0,
+          "followups": 0
+        },
+        {
+          "status": "follow-up-due",
+          "company": "US IT Jobs & C2C/W2/Full-Time/IT Client/Vendor Empanelment/ Staffing Vendor Oppo",
+          "title": "IntegrationArchitect #SolutionArchitect #ApplicationIntegration #EnterpriseArchitecture",
+          "sent_at": "[redacted]T15:28:49",
+          "last_activity": "[redacted]T15:28:49",
+          "waiting_days": 61,
+          "replies": 0,
+          "followups": 0
         }
       ]
     }
