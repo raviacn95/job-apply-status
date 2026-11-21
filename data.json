@@ -1,5 +1,5 @@
 {
-  "updated_at": "[redacted]T22:37:10+00:00",
+  "updated_at": "[redacted]T23:12:17+00:00",
   "pages_url": "https://raviacn95.github.io/job-apply-status/",
   "users": [
     {
@@ -21,7 +21,7 @@
         "hidden_other_track": 175,
         "daily_remaining": 50,
         "daily_limit": 50,
-        "last_cycle_at": "[redacted]T22:32:38+00:00",
+        "last_cycle_at": "[redacted]T23:07:39+00:00",
         "last_apply_at": "[redacted]T18:30:14"
       },
       "mail": {
@@ -33,8 +33,8 @@
       },
       "runs": [
         {
-          "id": 861,
-          "started_at": "[redacted]T22:32:38+00:00",
+          "id": 862,
+          "started_at": "[redacted]T23:07:39+00:00",
           "finished_at": "",
           "status": "running",
           "live": true,
@@ -46,6 +46,22 @@
           "replies": 0,
           "bounces": 0,
           "duration_sec": 0.0,
+          "google_429": 4
+        },
+        {
+          "id": 861,
+          "started_at": "[redacted]T22:32:38+00:00",
+          "finished_at": "[redacted]T22:37:21+00:00",
+          "status": "ok",
+          "live": true,
+          "ingested": 0,
+          "scanned": 64,
+          "applied": 0,
+          "queued": 280,
+          "errors": 0,
+          "replies": 0,
+          "bounces": 0,
+          "duration_sec": 283.0,
           "google_429": 4
         },
         {
@@ -655,22 +671,6 @@
           "bounces": 0,
           "duration_sec": 852.0,
           "google_429": 3
-        },
-        {
-          "id": 822,
-          "started_at": "[redacted]T23:52:40+00:00",
-          "finished_at": "[redacted]T00:09:20+00:00",
-          "status": "ok",
-          "live": true,
-          "ingested": 0,
-          "scanned": 42,
-          "applied": 0,
-          "queued": 279,
-          "errors": 0,
-          "replies": 0,
-          "bounces": 0,
-          "duration_sec": 1000.0,
-          "google_429": 8
         }
       ],
       "applied_jobs": [
@@ -2031,7 +2031,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T22:38:45",
-          "age_days": 17,
+          "age_days": 18,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
