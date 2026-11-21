@@ -1,5 +1,5 @@
 {
-  "updated_at": "[redacted]T05:41:06+00:00",
+  "updated_at": "[redacted]T06:16:51+00:00",
   "pages_url": "https://raviacn95.github.io/job-apply-status/",
   "users": [
     {
@@ -21,7 +21,7 @@
         "hidden_other_track": 174,
         "daily_remaining": 50,
         "daily_limit": 50,
-        "last_cycle_at": "[redacted]T05:27:38+00:00",
+        "last_cycle_at": "[redacted]T06:12:38+00:00",
         "last_apply_at": "[redacted]T18:30:14"
       },
       "mail": {
@@ -33,8 +33,8 @@
       },
       "runs": [
         {
-          "id": 839,
-          "started_at": "[redacted]T05:27:38+00:00",
+          "id": 840,
+          "started_at": "[redacted]T06:12:38+00:00",
           "finished_at": "",
           "status": "running",
           "live": true,
@@ -46,6 +46,22 @@
           "replies": 0,
           "bounces": 0,
           "duration_sec": 0.0,
+          "google_429": 6
+        },
+        {
+          "id": 839,
+          "started_at": "[redacted]T05:27:38+00:00",
+          "finished_at": "[redacted]T05:41:32+00:00",
+          "status": "ok",
+          "live": true,
+          "ingested": 1,
+          "scanned": 33,
+          "applied": 0,
+          "queued": 279,
+          "errors": 0,
+          "replies": 0,
+          "bounces": 0,
+          "duration_sec": 834.0,
           "google_429": 2
         },
         {
@@ -654,22 +670,6 @@
           "replies": 0,
           "bounces": 0,
           "duration_sec": 552.0,
-          "google_429": 0
-        },
-        {
-          "id": 800,
-          "started_at": "[redacted]T18:42:05+00:00",
-          "finished_at": "[redacted]T18:57:32+00:00",
-          "status": "ok",
-          "live": true,
-          "ingested": 2,
-          "scanned": 30,
-          "applied": 0,
-          "queued": 274,
-          "errors": 0,
-          "replies": 0,
-          "bounces": 0,
-          "duration_sec": 927.0,
           "google_429": 0
         }
       ],
@@ -3646,7 +3646,7 @@
           "title": "Senior Informatica Developer",
           "sent_at": "[redacted]T20:01:38",
           "last_activity": "[redacted]T06:12:46",
-          "waiting_days": 54,
+          "waiting_days": 55,
           "replies": 0,
           "followups": 2
         },
@@ -6471,7 +6471,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T06:01:24",
-          "age_days": 82,
+          "age_days": 83,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
