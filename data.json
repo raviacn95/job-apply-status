@@ -1,5 +1,5 @@
 {
-  "updated_at": "[redacted]T16:47:57+00:00",
+  "updated_at": "[redacted]T17:23:35+00:00",
   "pages_url": "https://raviacn95.github.io/job-apply-status/",
   "users": [
     {
@@ -21,7 +21,7 @@
         "hidden_other_track": 175,
         "daily_remaining": 50,
         "daily_limit": 50,
-        "last_cycle_at": "[redacted]T16:42:38+00:00",
+        "last_cycle_at": "[redacted]T17:17:38+00:00",
         "last_apply_at": "[redacted]T18:30:14"
       },
       "mail": {
@@ -33,8 +33,8 @@
       },
       "runs": [
         {
-          "id": 853,
-          "started_at": "[redacted]T16:42:38+00:00",
+          "id": 854,
+          "started_at": "[redacted]T17:17:38+00:00",
           "finished_at": "",
           "status": "running",
           "live": true,
@@ -46,6 +46,22 @@
           "replies": 0,
           "bounces": 0,
           "duration_sec": 0.0,
+          "google_429": 4
+        },
+        {
+          "id": 853,
+          "started_at": "[redacted]T16:42:38+00:00",
+          "finished_at": "[redacted]T16:48:09+00:00",
+          "status": "ok",
+          "live": true,
+          "ingested": 0,
+          "scanned": 64,
+          "applied": 0,
+          "queued": 280,
+          "errors": 0,
+          "replies": 0,
+          "bounces": 0,
+          "duration_sec": 331.0,
           "google_429": 4
         },
         {
@@ -654,22 +670,6 @@
           "replies": 0,
           "bounces": 0,
           "duration_sec": 1041.0,
-          "google_429": 5
-        },
-        {
-          "id": 814,
-          "started_at": "[redacted]T19:14:20+00:00",
-          "finished_at": "[redacted]T19:31:48+00:00",
-          "status": "ok",
-          "live": true,
-          "ingested": 4,
-          "scanned": 25,
-          "applied": 0,
-          "queued": 278,
-          "errors": 0,
-          "replies": 0,
-          "bounces": 0,
-          "duration_sec": 1048.0,
           "google_429": 5
         }
       ],
@@ -3656,7 +3656,7 @@
           "title": "ETL Developer",
           "sent_at": "[redacted]T05:23:29",
           "last_activity": "[redacted]T17:06:49",
-          "waiting_days": 58,
+          "waiting_days": 59,
           "replies": 0,
           "followups": 2
         },
