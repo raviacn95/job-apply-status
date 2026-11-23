@@ -1,5 +1,5 @@
 {
-  "updated_at": "[redacted]T13:44:03+00:00",
+  "updated_at": "[redacted]T15:27:23+00:00",
   "pages_url": "https://raviacn95.github.io/job-apply-status/",
   "users": [
     {
@@ -21,7 +21,7 @@
         "hidden_other_track": 180,
         "daily_remaining": 50,
         "daily_limit": 50,
-        "last_cycle_at": "[redacted]T13:37:38+00:00",
+        "last_cycle_at": "[redacted]T15:22:38+00:00",
         "last_apply_at": "[redacted]T18:30:14"
       },
       "mail": {
@@ -33,8 +33,8 @@
       },
       "runs": [
         {
-          "id": 893,
-          "started_at": "[redacted]T13:37:38+00:00",
+          "id": 896,
+          "started_at": "[redacted]T15:22:38+00:00",
           "finished_at": "",
           "status": "running",
           "live": true,
@@ -46,6 +46,54 @@
           "replies": 0,
           "bounces": 0,
           "duration_sec": 0.0,
+          "google_429": 1
+        },
+        {
+          "id": 895,
+          "started_at": "[redacted]T14:47:41+00:00",
+          "finished_at": "",
+          "status": "running",
+          "live": true,
+          "ingested": 0,
+          "scanned": 0,
+          "applied": 0,
+          "queued": 0,
+          "errors": 0,
+          "replies": 0,
+          "bounces": 0,
+          "duration_sec": 0.0,
+          "google_429": 0
+        },
+        {
+          "id": 894,
+          "started_at": "[redacted]T14:12:51+00:00",
+          "finished_at": "",
+          "status": "running",
+          "live": true,
+          "ingested": 0,
+          "scanned": 0,
+          "applied": 0,
+          "queued": 0,
+          "errors": 0,
+          "replies": 0,
+          "bounces": 0,
+          "duration_sec": 0.0,
+          "google_429": 0
+        },
+        {
+          "id": 893,
+          "started_at": "[redacted]T13:37:38+00:00",
+          "finished_at": "[redacted]T13:44:15+00:00",
+          "status": "ok",
+          "live": true,
+          "ingested": 0,
+          "scanned": 64,
+          "applied": 0,
+          "queued": 280,
+          "errors": 0,
+          "replies": 0,
+          "bounces": 0,
+          "duration_sec": 397.0,
           "google_429": 0
         },
         {
@@ -623,54 +671,6 @@
           "bounces": 0,
           "duration_sec": 824.0,
           "google_429": 4
-        },
-        {
-          "id": 856,
-          "started_at": "[redacted]T19:53:10+00:00",
-          "finished_at": "[redacted]T20:00:41+00:00",
-          "status": "ok",
-          "live": true,
-          "ingested": 0,
-          "scanned": 64,
-          "applied": 0,
-          "queued": 280,
-          "errors": 0,
-          "replies": 0,
-          "bounces": 0,
-          "duration_sec": 451.0,
-          "google_429": 8
-        },
-        {
-          "id": 855,
-          "started_at": "[redacted]T17:52:38+00:00",
-          "finished_at": "",
-          "status": "running",
-          "live": true,
-          "ingested": 0,
-          "scanned": 0,
-          "applied": 0,
-          "queued": 0,
-          "errors": 0,
-          "replies": 0,
-          "bounces": 0,
-          "duration_sec": 0.0,
-          "google_429": 0
-        },
-        {
-          "id": 854,
-          "started_at": "[redacted]T17:17:38+00:00",
-          "finished_at": "[redacted]T17:23:59+00:00",
-          "status": "ok",
-          "live": true,
-          "ingested": 0,
-          "scanned": 64,
-          "applied": 0,
-          "queued": 280,
-          "errors": 0,
-          "replies": 0,
-          "bounces": 0,
-          "duration_sec": 381.0,
-          "google_429": 4
         }
       ],
       "applied_jobs": [
@@ -869,7 +869,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T15:15:40",
           "first_seen_at": "[redacted]T15:15:35",
-          "age_days": 68,
+          "age_days": 69,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -889,7 +889,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T14:31:09",
           "first_seen_at": "[redacted]T14:31:04",
-          "age_days": 69,
+          "age_days": 70,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -1611,7 +1611,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T15:19:40",
-          "age_days": 83,
+          "age_days": 84,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -1651,7 +1651,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T15:19:47",
-          "age_days": 83,
+          "age_days": 84,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -1691,7 +1691,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T15:19:45",
-          "age_days": 83,
+          "age_days": 84,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -1731,7 +1731,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T15:19:43",
-          "age_days": 83,
+          "age_days": 84,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -1751,7 +1751,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T15:20:00",
-          "age_days": 83,
+          "age_days": 84,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -1951,7 +1951,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T14:42:36",
-          "age_days": 11,
+          "age_days": 12,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -2011,7 +2011,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T14:19:07",
-          "age_days": 18,
+          "age_days": 19,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -2793,7 +2793,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T15:15:40",
           "first_seen_at": "[redacted]T15:15:35",
-          "age_days": 68,
+          "age_days": 69,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -2813,7 +2813,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T14:31:09",
           "first_seen_at": "[redacted]T14:31:04",
-          "age_days": 69,
+          "age_days": 70,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -3533,7 +3533,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T15:19:40",
-          "age_days": 83,
+          "age_days": 84,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -3573,7 +3573,7 @@
           "applied_via": "",
           "applied_at": "",
           "first_seen_at": "[redacted]T15:19:47",
-          "age_days": 83,
+          "age_days": 84,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -4013,20 +4013,20 @@
         "Tosca / SAP / Playwright Automation"
       ],
       "stats": {
-        "jobs": 1546,
+        "jobs": 1547,
         "matched": 1369,
-        "applied": 177,
-        "applied_this_week": 1,
+        "applied": 178,
+        "applied_this_week": 2,
         "desk": 1369,
         "hidden_other_track": 2,
-        "daily_remaining": 50,
+        "daily_remaining": 49,
         "daily_limit": 50,
         "last_cycle_at": "[redacted]T08:32:38+00:00",
-        "last_apply_at": "[redacted]T08:34:13"
+        "last_apply_at": "[redacted]T14:42:32"
       },
       "mail": {
-        "threads": 178,
-        "waiting": 9,
+        "threads": 179,
+        "waiting": 10,
         "followup_due": 157,
         "replied": 12,
         "bounced": 0
@@ -4675,6 +4675,26 @@
       ],
       "applied_jobs": [
         {
+          "id": 1603,
+          "status": "applied",
+          "track": "automation",
+          "track_label": "Tosca / SAP / Playwright Automation",
+          "score": 28.0,
+          "company": "SkyCell AG",
+          "title": "Automation QA Engineer",
+          "location": "TS, IN",
+          "source": "harvest_remote",
+          "url": "https://in.indeed.com/viewjob?jk=b5b1614dabdfefcb",
+          "channel": "email",
+          "applied_via": "email",
+          "applied_at": "[redacted]T14:42:32",
+          "first_seen_at": "[redacted]T14:42:26",
+          "age_days": 0,
+          "ctc": "unlisted",
+          "outcome": "",
+          "on_track": true
+        },
+        {
           "id": 1186,
           "status": "applied",
           "track": "automation",
@@ -4729,7 +4749,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T14:42:18",
           "first_seen_at": "[redacted]T14:42:11",
-          "age_days": 11,
+          "age_days": 12,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -4749,7 +4769,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T14:18:00",
           "first_seen_at": "[redacted]T14:17:50",
-          "age_days": 18,
+          "age_days": 19,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -5648,26 +5668,6 @@
           "channel": "email",
           "applied_via": "email",
           "applied_at": "[redacted]T04:20:02",
-          "first_seen_at": "[redacted]T04:10:48",
-          "age_days": 80,
-          "ctc": "unlisted",
-          "outcome": "",
-          "on_track": true
-        },
-        {
-          "id": 148,
-          "status": "applied",
-          "track": "automation",
-          "track_label": "Tosca / SAP / Playwright Automation",
-          "score": 30.0,
-          "company": "ANAXON TECHNOLOGIES PVT LTD",
-          "title": "QA Automation Engineer (Tosca + Salesforce) | C2C| Max $55/Hr",
-          "location": "Remote, US",
-          "source": "harvest_remote",
-          "url": "https://www.indeed.com/viewjob?jk=a861c4c8700df094",
-          "channel": "email",
-          "applied_via": "email",
-          "applied_at": "[redacted]T04:19:56",
           "first_seen_at": "[redacted]T04:10:48",
           "age_days": 80,
           "ctc": "unlisted",
@@ -6679,6 +6679,26 @@
       ],
       "jobs": [
         {
+          "id": 1603,
+          "status": "applied",
+          "track": "automation",
+          "track_label": "Tosca / SAP / Playwright Automation",
+          "score": 28.0,
+          "company": "SkyCell AG",
+          "title": "Automation QA Engineer",
+          "location": "TS, IN",
+          "source": "harvest_remote",
+          "url": "https://in.indeed.com/viewjob?jk=b5b1614dabdfefcb",
+          "channel": "email",
+          "applied_via": "email",
+          "applied_at": "[redacted]T14:42:32",
+          "first_seen_at": "[redacted]T14:42:26",
+          "age_days": 0,
+          "ctc": "unlisted",
+          "outcome": "",
+          "on_track": true
+        },
+        {
           "id": 1186,
           "status": "applied",
           "track": "automation",
@@ -6733,7 +6753,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T14:42:18",
           "first_seen_at": "[redacted]T14:42:11",
-          "age_days": 11,
+          "age_days": 12,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -6753,7 +6773,7 @@
           "applied_via": "email",
           "applied_at": "[redacted]T14:18:00",
           "first_seen_at": "[redacted]T14:17:50",
-          "age_days": 18,
+          "age_days": 19,
           "ctc": "unlisted",
           "outcome": "",
           "on_track": true
@@ -7652,26 +7672,6 @@
           "channel": "email",
           "applied_via": "email",
           "applied_at": "[redacted]T04:20:02",
-          "first_seen_at": "[redacted]T04:10:48",
-          "age_days": 80,
-          "ctc": "unlisted",
-          "outcome": "",
-          "on_track": true
-        },
-        {
-          "id": 148,
-          "status": "applied",
-          "track": "automation",
-          "track_label": "Tosca / SAP / Playwright Automation",
-          "score": 30.0,
-          "company": "ANAXON TECHNOLOGIES PVT LTD",
-          "title": "QA Automation Engineer (Tosca + Salesforce) | C2C| Max $55/Hr",
-          "location": "Remote, US",
-          "source": "harvest_remote",
-          "url": "https://www.indeed.com/viewjob?jk=a861c4c8700df094",
-          "channel": "email",
-          "applied_via": "email",
-          "applied_at": "[redacted]T04:19:56",
           "first_seen_at": "[redacted]T04:10:48",
           "age_days": 80,
           "ctc": "unlisted",
